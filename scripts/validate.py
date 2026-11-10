@@ -154,8 +154,9 @@ def check(data: dict) -> list[str]:
         fail(errors, "context_count mismatch")
     if len(excluded) != meta["excluded_count"]:
         fail(errors, "excluded_count mismatch")
-    if len(ids) != 52:
-        fail(errors, f"expected 52 posts, found {len(ids)}")
+    # Pinned after the 2026-11-10 12:10 HKT sync (was 52 at the first gallery).
+    if len(ids) != 77:
+        fail(errors, f"expected 77 posts, found {len(ids)}")
 
     by_cat = Counter(item["category"] for item in gallery)
     for key, label in CATEGORY_LABELS.items():

@@ -103,6 +103,44 @@ def context_table(items: list[dict]) -> str:
     return "\n".join(lines)
 
 
+def excluded_block(excluded: list[dict], seed_count: int) -> str:
+    rules = (
+        "不進畫面畫廊的規則：只轉用官方宣傳片、把基準表做成影片、或轉述別人的作品。"
+        "官宣片在官方區；[@0xCodinz](https://x.com/0xCodinz/status/2119869068740296916) 的基準影片在「基準整理片」。"
+    )
+    if not excluded:
+        return (
+            f"這一版沒有整則排除的帖。{seed_count} 則都在畫廊或上面的脈絡裡。\n\n"
+            f"{rules}"
+        )
+    lines = [
+        "下面這些帖有原帖連結，但**不計入畫面畫廊，也不算脈絡**。",
+        "",
+        "| 時間 | 作者 | 原帖 | 原因 |",
+        "| --- | --- | --- | --- |",
+    ]
+    for item in excluded:
+        reason = item["summary"].replace("|", "／").replace("\n", " ")
+        lines.append(
+            "| {time} | [@{author}]({author_url}) | [帖]({post_url}) | {reason} |".format(
+                time=clock(item["created_at"]),
+                author=item["author"],
+                author_url=item["author_url"],
+                post_url=item["post_url"],
+                reason=reason,
+            )
+        )
+    lines.append("")
+    lines.append(
+        "冰之大教堂（Cathedral of Ice）的同 prompt 原帖只收 @EnvolDev。"
+        "@Shannnu_18、@karanC_12、@Phavorism、@wanerfu、@ZerouterAI 等搬運不另立條目，也不計入上面的數字。"
+        "@renmu2017 另有一則火箭場景的價格帖，留在額度區，不是這支冰景的搬運。"
+    )
+    lines.append("")
+    lines.append(rules)
+    return "\n".join(lines)
+
+
 def prompt_list(gallery: list[dict]) -> str:
     rows = []
     for item in gallery:
@@ -162,11 +200,11 @@ def render(data: dict) -> str:
 
 這份清單收集 **Claude Fable 5.2** 官宣前後的公開帖。畫面畫廊只放**作者自己說用 Fable 5.2 做出來的畫面**。官方宣傳片、把基準表做成的影片、轉述別人的結論，都不算進畫廊。
 
-Anthropic 已在 2026-11-10（香港時間 HKT，UTC+8）宣布這個模型，並同時推出 Claude Mythos 5.2。本庫沒有重跑任何一條。預覽圖是原帖的公開縮圖，完整影片不下載、不轉存。縮圖失效時，以原帖為準。畫廊這 11 張預覽幀有看過；沒有把沒看到的成片內容寫成已經看過。
+Anthropic 已在 2026-11-10（香港時間 HKT，UTC+8）宣布這個模型，並同時推出 Claude Mythos 5.2。本庫沒有重跑任何一條。預覽圖是原帖的公開縮圖，完整影片不下載、不轉存。縮圖失效時，以原帖為準。畫廊這 {meta['gallery_count']} 張預覽幀有看過；沒有把沒看到的成片內容寫成已經看過。
 
 作者若把提示詞原文貼了出來，就按字收進 [`prompts/`](prompts/)。只描述了場景、或說「用了同一個 prompt」卻沒貼原文的，prompt 維持 null，畫廊寫「提示詞未公開」。
 
-- 種子帖：{meta['seed_post_count']}（主清單蒐集於 {meta['seed_collected_at']}；其中 5 則是同日稍後 {meta['late_posts_collected_at']} 補入的，互動極低）
+- 種子帖：{meta['seed_post_count']}（主清單蒐集於 {meta['seed_collected_at']}；同日稍後補入 {meta['late_post_count']} 則，互動與本輪補入的時間是 {meta['late_posts_collected_at']}）
 - 畫廊：{meta['gallery_count']}（種子內原帖：{meta['gallery_in_seed_count']}；轉載還原：{meta['gallery_resolved_original_count']}）
 - 公開提示詞：{meta['prompt_file_count']}（部分提示詞：{meta['prompt_partial_count']}；其餘畫廊條目的 prompt 為 null）
 - 脈絡：{meta['context_count']}。已排除：{meta['excluded_count']}
@@ -209,9 +247,7 @@ Mythos 5.2 的帖只在和 Fable 直接對照時留下，並在表裡標成 Myth
 <a id="excluded"></a>
 ## 已排除
 
-這一版沒有整則排除的帖。{meta['seed_post_count']} 則都在畫廊或上面的脈絡裡。
-
-不進畫面畫廊的規則：只轉用官方宣傳片、把基準表做成影片、或轉述別人的作品。官宣片在官方區；[@0xCodinz](https://x.com/0xCodinz/status/2119869068740296916) 的基準影片在「基準整理片」。
+{excluded_block(data["excluded"], meta["seed_post_count"])}
 
 <a id="credits"></a>
 ## 授權與出處
