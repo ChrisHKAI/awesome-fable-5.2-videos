@@ -208,7 +208,7 @@ Anthropic 已在 2026-11-10（香港時間 HKT，UTC+8）宣布這個模型，�
 - 畫廊：{meta['gallery_count']}（種子內原帖：{meta['gallery_in_seed_count']}；轉載還原：{meta['gallery_resolved_original_count']}）
 - 公開提示詞：{meta['prompt_file_count']}（部分提示詞：{meta['prompt_partial_count']}；其餘畫廊條目的 prompt 為 null）
 - 脈絡：{meta['context_count']}。已排除：{meta['excluded_count']}
-- 資料快照：2026-11-10（香港時間 HKT，UTC+8）。互動數字不是即時
+- 資料快照：{meta['snapshot_label']}（香港時間，UTC+8）。互動數字不是即時
 
 官方價格是每百萬 tokens 輸入 **$8**、輸出 **$40**（自 $10／$50），見 [@claudeai](https://x.com/claudeai/status/2119867138987176141) 與 [@ClaudeDevs](https://x.com/ClaudeDevs/status/2119868698613956992)。官方又說輸出最高約快 30%（相對 5.1）。Fast mode 的官方說法是輸出約 **2.5×**、價格 **2×**，見 [@ClaudeDevs](https://x.com/ClaudeDevs/status/2119868701994570178)，該帖沒有寫美元。社群常把 2× 寫成 **$16／$80**。這個美元數字是二手推算，**未核實**。
 

@@ -154,9 +154,9 @@ def check(data: dict) -> list[str]:
         fail(errors, "context_count mismatch")
     if len(excluded) != meta["excluded_count"]:
         fail(errors, "excluded_count mismatch")
-    # Pinned after the 2026-11-10 12:10 HKT sync (was 52 at the first gallery).
-    if len(ids) != 77:
-        fail(errors, f"expected 77 posts, found {len(ids)}")
+    # Pinned after the 2026-11-12 17:55 HKT sync (was 77 at the 12:10 HKT gallery).
+    if len(ids) != 105:
+        fail(errors, f"expected 105 posts, found {len(ids)}")
 
     by_cat = Counter(item["category"] for item in gallery)
     for key, label in CATEGORY_LABELS.items():
@@ -214,8 +214,8 @@ def check(data: dict) -> list[str]:
             fail(errors, f"{item['id']} preview is not a public twimg url")
         if item["preview_frame_reviewed"] is not True:
             fail(errors, f"{item['id']} preview frame was not reviewed")
-        if not item["in_seed"]:
-            fail(errors, f"{item['id']} gallery item is outside the seed")
+        # Gallery rows with in_seed false are outside the original seed.
+        # They are counted by gallery_resolved_original_count.
         if item["prompt"] is None:
             if item["prompt_file"] is not None or item["prompt_partial"] is not False:
                 fail(errors, f"{item['id']} null prompt still has a file or partial flag")
