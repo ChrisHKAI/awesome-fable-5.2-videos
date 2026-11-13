@@ -192,6 +192,21 @@ def render(data: dict) -> str:
             "</details>"
         )
     prompt_files = prompt_list(gallery)
+    seeded_context = (
+        meta["seed_post_count"] - meta["gallery_in_seed_count"] - meta["excluded_count"]
+    )
+    later_context = meta["context_count"] - seeded_context
+    if later_context == 0:
+        context_lead = (
+            f"下面 {meta['context_count']} 則都在這 {meta['seed_post_count']} 篇種子裡，"
+            "有原帖連結，但**不計入畫面畫廊**。"
+        )
+    else:
+        context_lead = (
+            f"下面 {meta['context_count']} 則有原帖連結，但**不計入畫面畫廊**。"
+            f"其中 {seeded_context} 則在這 {meta['seed_post_count']} 篇種子裡，"
+            f"其餘 {later_context} 則是其後補入的脈絡。"
+        )
     body = f"""# Awesome Fable 5.2 Videos
 
 **English.** {meta['gallery_count']} gallery entries, {meta['prompt_file_count']} public prompt, {meta['seed_post_count']} seed posts. Claude Fable 5.2 was announced on 2026-11-10 (HKT, UTC+8) together with Claude Mythos 5.2, by [@claudeai](https://x.com/claudeai/status/2119867114450268322) and [@AnthropicAI](https://x.com/AnthropicAI/status/2119867707546071125). Gallery entries are visual demos whose authors say they made them with Fable 5.2. The official launch video is under Official, not in the gallery. Benchmark roundups and retellings stay out of the gallery. Nothing here was independently reproduced. A prompt file exists only when the author published the exact wording; otherwise the prompt is null. Official API price is $8 / $40 per million tokens. Fast mode at $16 / $80 is second-hand and unverified.
@@ -240,7 +255,7 @@ Mythos 5.2 的帖只在和 Fable 直接對照時留下，並在表裡標成 Myth
 <a id="context"></a>
 ## 脈絡，不計入畫廊
 
-下面 {meta['context_count']} 則都在這 {meta['seed_post_count']} 篇種子裡，有原帖連結，但**不計入畫面畫廊**。官方宣傳片在「官方發布」。基準整理片、轉述和 YouTube 上的對比也在這裡。
+{context_lead}官方宣傳片在「官方發布」。基準整理片、轉述和 YouTube 上的對比也在這裡。
 
 {chr(10).join(details)}
 
