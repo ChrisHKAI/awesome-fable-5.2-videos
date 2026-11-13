@@ -141,9 +141,16 @@ def check(data: dict) -> list[str]:
 
     in_seed = [item for item in gallery if item["in_seed"]]
     resolved = [item for item in gallery if not item["in_seed"]]
-    seed_rows = in_seed + context + excluded
-    if len(seed_rows) != meta["seed_post_count"]:
-        fail(errors, f"seed coverage {len(seed_rows)} != {meta['seed_post_count']}")
+    # seed_post_count is the historical seed: in-seed gallery, excluded, and
+    # the 53 context rows already catalogued at the 2026-11-12 17:55 HKT
+    # snapshot. Context added after that stays in context_count only.
+    seeded_context = meta["seed_post_count"] - len(in_seed) - len(excluded)
+    if seeded_context != 53 or len(context) < seeded_context:
+        fail(
+            errors,
+            f"seed coverage seeded_context={seeded_context} context={len(context)} "
+            f"excluded={len(excluded)} != seed_post_count {meta['seed_post_count']}",
+        )
     if len(gallery) != meta["gallery_count"]:
         fail(errors, "gallery_count mismatch")
     if len(in_seed) != meta["gallery_in_seed_count"]:
@@ -154,9 +161,10 @@ def check(data: dict) -> list[str]:
         fail(errors, "context_count mismatch")
     if len(excluded) != meta["excluded_count"]:
         fail(errors, "excluded_count mismatch")
-    # Pinned after the 2026-11-12 17:55 HKT sync (was 77 at the 12:10 HKT gallery).
-    if len(ids) != 105:
-        fail(errors, f"expected 105 posts, found {len(ids)}")
+    # Pinned after the 2026-11-13 12:05 HKT sync
+    # (105 at 2026-11-12 17:55 HKT; +7 gallery, +4 context).
+    if len(ids) != 116:
+        fail(errors, f"expected 116 posts, found {len(ids)}")
 
     by_cat = Counter(item["category"] for item in gallery)
     for key, label in CATEGORY_LABELS.items():
