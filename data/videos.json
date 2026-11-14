@@ -7,23 +7,23 @@
     "announced_with": "Claude Mythos 5.2",
     "independently_reproduced": false,
     "timezone": "Asia/Hong_Kong",
-    "snapshot_label": "2026-11-13 12:05 HKT",
+    "snapshot_label": "2026-11-15 06:10 HKT",
     "seed_collected_at": "2026-11-10 03:21:46 Asia/Hong_Kong(UTC+8)",
     "late_posts_collected_at": "2026-11-10 12:10:00 Asia/Hong_Kong(UTC+8)",
     "seed_post_count": 83,
     "late_post_count": 30,
-    "gallery_count": 56,
+    "gallery_count": 83,
     "gallery_in_seed_count": 27,
-    "gallery_resolved_original_count": 29,
+    "gallery_resolved_original_count": 56,
     "prompt_file_count": 2,
     "prompt_partial_count": 1,
-    "context_count": 57,
+    "context_count": 61,
     "excluded_count": 3,
     "category_counts": {
       "code": 6,
-      "game": 12,
-      "av": 18,
-      "comparison": 20
+      "game": 15,
+      "av": 26,
+      "comparison": 36
     },
     "category_labels": {
       "code": "代碼場景",
@@ -33,8 +33,8 @@
     },
     "section_counts": {
       "official": 15,
-      "pricing": 22,
-      "benchmarks": 18,
+      "pricing": 24,
+      "benchmarks": 20,
       "benchmark-roundup": 1,
       "comparison": 1
     },
@@ -58,7 +58,7 @@
     "reference_repo": "https://github.com/yihui-dev/awesome-opus5-5-videos",
     "house_style_repo": "https://github.com/ChrisHKAI/awesome-6.2-sol-videos",
     "reference_license": "MIT",
-    "completeness": "官宣後的高訊號清單，不是全站完備。互動數字是 2026-11-13 12:05 HKT 的快照，既有條目保留較大值。本輪補入作者自製畫面、同 prompt 對照，以及基準與價格脈絡。@anxuanng 引用官宣前 Zeno 影片的帖仍排除。轉貼與搬運不進畫廊。",
+    "completeness": "官宣後的高訊號清單，不是全站完備。互動數字是 2026-11-15 06:10 HKT 的快照，既有條目保留較大值。本輪補入作者自製畫面、同 prompt 對照，以及基準與價格脈絡。@anxuanng 引用官宣前 Zeno 影片的帖仍排除。轉貼與搬運不進畫廊。",
     "extra_checked_urls": [
       "https://github.com/yihui-dev/awesome-opus5-5-videos",
       "https://github.com/ChrisHKAI/awesome-6.2-sol-videos",
@@ -106,14 +106,14 @@
       ],
       "text": "@claudeai This spider web holds 7,330 drops of dew, all drawn in code by Fable 5.2, with no image files.\n\nEvery drop bends light exactly the way real water does, so each one holds the whole garden upside down 🙃 https://t.co/ndTJe5cQYs",
       "metrics": {
-        "views": 59453,
-        "likes": 332,
+        "views": 60006,
+        "likes": 335,
         "bookmarks": 101,
         "reposts": 14,
         "quotes": 6,
         "replies": 15,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "回覆"
@@ -156,14 +156,14 @@
       ],
       "text": "I asked Fable 5.2 to write a compiler that lets you write code and get it running in Conway's Game of Life https://t.co/LZELWwtks4",
       "metrics": {
-        "views": 3814,
+        "views": 3849,
         "likes": 66,
         "bookmarks": 9,
         "reposts": 3,
         "quotes": 0,
         "replies": 9,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -208,14 +208,14 @@
       ],
       "text": "How does a game character go from standing to walking to talking without a jump? It blends the moves together.\n\nFable 5.2 built this robot in code to show how 🤖 https://t.co/XGnLNbTILj",
       "metrics": {
-        "views": 4121,
+        "views": 4170,
         "likes": 93,
-        "bookmarks": 35,
+        "bookmarks": 36,
         "reposts": 2,
         "quotes": 2,
         "replies": 4,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -260,14 +260,14 @@
       ],
       "text": "Claude Fable 5.2 made this game demo, playable in the browser\n\nIt's a boat ride through 8 dreamlike worlds https://t.co/WwhHS7blmn",
       "metrics": {
-        "views": 483323,
-        "likes": 4201,
-        "bookmarks": 1762,
-        "reposts": 210,
-        "quotes": 115,
-        "replies": 171,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "views": 503113,
+        "likes": 4247,
+        "bookmarks": 1797,
+        "reposts": 214,
+        "quotes": 119,
+        "replies": 174,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "引用"
@@ -310,14 +310,14 @@
       ],
       "text": "I had early access to Fable 5.2 and I can easily say this is the best model out right now! Here are some things I made with it!\n\nOcarina of Time https://t.co/c5UyqFVmqN",
       "metrics": {
-        "views": 60849,
-        "likes": 684,
+        "views": 61465,
+        "likes": 686,
         "bookmarks": 153,
-        "reposts": 16,
+        "reposts": 17,
         "quotes": 14,
-        "replies": 60,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "replies": 61,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -363,14 +363,14 @@
       ],
       "text": "I got early access to Fable 5.2 and tested it with VIDEO EDITING, games in UE and 3JS, existing codebases, and ANIMATION.\n\nFirst: Dragon riding sim (literally gives me a roller coaster feel in my stomach when the dragon jumps off the island) https://t.co/AYUPxuFPVG",
       "metrics": {
-        "views": 31435,
+        "views": 31703,
         "likes": 461,
         "bookmarks": 93,
         "reposts": 16,
         "quotes": 9,
         "replies": 32,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -413,14 +413,14 @@
       ],
       "text": "BREAKING:\n\n@AnthropicAI just dropped Claude Fable 5.2. It’s a paradigm-shifting model if you have a project ambitious enough to give it.\n\nWe’ve been testing it at @every, and I’ve seen this crazy explosion of creativity on the team. People are making their own creative software, games for their kids, and documentaries instead of slide decks.\n\nHere’s your day zero vibe check:\n\n• Coding: @kieranklaassen built Everycut, a video editor with the features we use from Premiere, Descript, and other tools—all in one app, with an agent built in. The first version was live in 3 days, and we immediately used it for our internal show-and-tell. This feels like a new era of professionals building their own professional tools, tailored to exactly how they work.\n\n• Games and design: @jackcheng gave it a photo of his toddler’s messy playroom. It turned the actual toys into a playable racing game, with fun details like a stray shoe as an obstacle and a sippy cup as a power-up.\n\n• Knowledge work: @hammer_mt turned his research into a documentary. The model came up with interview questions, he answered them on camera, and it cut the footage together. He called this the most productive 3 weeks of his career.\n\n• A different way of working: Give it a big job and leave it running overnight or over a weekend. But tell it what “done” means: Mike found it could finish the build, then spend another day or two testing. Set the goal, the budget, and how much checking you need before walking away.\n\n• The catch: It’s slow and burns through tokens. Our early-access usage was free, and these projects would have been expensive at API rates. It’s 20% cheaper than Fable 5.1, but for everyday writing, emails, or quick back-and-forth coding, I’d usually reach for something else.\n\nThe clearest signal: When our early access ended, @TylerNishida stopped working on some projects until he could get this model back. He didn’t want to build them with anything else.\n\nThe best measure of a new model is whether it makes you try things you wouldn’t have tried before.\n\nFable 5.2 absolutely does that.\n\nHere’s our full day-zero Vibe Check:",
       "metrics": {
-        "views": 192980,
-        "likes": 886,
-        "bookmarks": 726,
+        "views": 197619,
+        "likes": 892,
+        "bookmarks": 730,
         "reposts": 60,
-        "quotes": 18,
+        "quotes": 19,
         "replies": 76,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -463,14 +463,14 @@
       ],
       "text": "🚨 BREAKING: Anthropic has released Claude Fable 5.2 \n\nI tested the new model and had it build a nationwide water safety map for me.\n\nMy question was which big American cities are best set up for water in the next few decades. The #1 answer, according to the model it built out, is...\n\nIndianapolis, Indiana.\n\nFrom one prompt, it scoured federal data across the EPA, USGS, NOAA, FEMA, and the Census Bureau (more than 5 GB, including 15.5 million EPA violation records and 2 million PFAS test results). Then I had a dozen other AI agents check its work (which found some errors, like Alaska’s North Slope getting a high score because its temperature data was missing).\n\nThe final map rates 3,100 counties and more than 900 city areas on 17 measures. On an aggregate score between water supply, climate outlook, water quality, testing and oversight, and backup, Indianapolis scored the highest. Cleveland trails by about a tenth of a point, with Cincinnati, St. Louis, and Nashville right behind.\nIt is insane to me that I can have a research question in my head and get this level of insight hours later.\n\nThe new model also built out this trailer video below.",
       "metrics": {
-        "views": 7748,
+        "views": 7882,
         "likes": 77,
         "bookmarks": 25,
         "reposts": 3,
         "quotes": 0,
         "replies": 14,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -516,14 +516,14 @@
       ],
       "text": "a cover of ☆taku takahashi — door, sung by two chimera engine simulated vocal tracts. vocoder mix. made with fable 5.2 https://t.co/MpMDt1ESIR",
       "metrics": {
-        "views": 7679,
-        "likes": 108,
+        "views": 7773,
+        "likes": 109,
         "bookmarks": 26,
         "reposts": 5,
         "quotes": 3,
         "replies": 4,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -568,14 +568,14 @@
       ],
       "text": "Editing\n\nFable 5.2 is the best model at editing and it's not even close! This video was 1 shot with the prompt \"Edit this 9:16\" including all the animations and mographs I ask for in the video\" and it BLEW ME OUT OF THE WATER. Perfect cutting, perfect animations, better mographs than i could make and it only took like 20m to edit!",
       "metrics": {
-        "views": 4091,
+        "views": 4156,
         "likes": 39,
         "bookmarks": 19,
         "reposts": 0,
         "quotes": 0,
         "replies": 2,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "回覆"
@@ -630,8 +630,8 @@
         "reposts": 0,
         "quotes": 0,
         "replies": 1,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
       "post_type": "原帖"
@@ -677,14 +677,14 @@
       ],
       "text": "Welcome Fable 5.2, creator of worlds",
       "metrics": {
-        "views": 290056,
-        "likes": 1346,
-        "bookmarks": 372,
+        "views": 293139,
+        "likes": 1350,
+        "bookmarks": 376,
         "reposts": 55,
         "quotes": 47,
-        "replies": 38,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "replies": 39,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -727,14 +727,14 @@
       ],
       "text": "Claude Fable 5.2的视频能力又大幅进化了，节奏和动效太强了...强的有点过于离谱了。\nChatGPT就要四周年了，我用Claude Fable 5.2给ChatGPT四周年提前做了一个庆生视频，这个细节这个节奏，强无敌。。。\n只能说，愿Claude和GPT继续相爱相杀...\n（OpenAI你赶紧端点好的上来吧。。。）",
       "metrics": {
-        "views": 95226,
-        "likes": 618,
-        "bookmarks": 190,
+        "views": 97193,
+        "likes": 624,
+        "bookmarks": 192,
         "reposts": 29,
         "quotes": 35,
         "replies": 184,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -779,14 +779,14 @@
       ],
       "text": "Claude Fable 5.2 built this zombie hand in Blender, gave it a working rig, and animated it crawling, backflipping, and making gestures.\n\nHere’s how we built it with Claude and Higgsfield.",
       "metrics": {
-        "views": 64893,
+        "views": 65450,
         "likes": 954,
-        "bookmarks": 732,
+        "bookmarks": 733,
         "reposts": 55,
         "quotes": 8,
         "replies": 24,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -831,14 +831,14 @@
       ],
       "text": "Claude Fable 5.2 made this game demo, playable in the browser\n\nGilt & Gutter is a 1v1 first-person shooter with two playable characters",
       "metrics": {
-        "views": 106112,
-        "likes": 321,
-        "bookmarks": 171,
-        "reposts": 11,
-        "quotes": 9,
-        "replies": 35,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "views": 107230,
+        "likes": 327,
+        "bookmarks": 175,
+        "reposts": 12,
+        "quotes": 10,
+        "replies": 36,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -881,14 +881,14 @@
       ],
       "text": "Fable 5.2 - gaming is A LOT better - Opus made nice looking games but gaming mechanics were sloppy, you never actually wanted to play these games. With Fable, we are almost there - it can one shot games that are actually fun, then you can make them awesome",
       "metrics": {
-        "views": 24972,
+        "views": 25117,
         "likes": 331,
         "bookmarks": 78,
         "reposts": 19,
         "quotes": 5,
-        "replies": 17,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "replies": 18,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -931,14 +931,14 @@
       ],
       "text": "Claude Fable 5.2 is absolutely another step up in visual design and polish. \n\nFable 5.2 on high reasoning made this when tasked to \"Create an animated video of clawd creating and releasing Claude Fable 5.2\" using the existing animation base.",
       "metrics": {
-        "views": 13576,
-        "likes": 214,
+        "views": 13947,
+        "likes": 215,
         "bookmarks": 92,
-        "reposts": 5,
+        "reposts": 6,
         "quotes": 11,
         "replies": 18,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -985,14 +985,14 @@
       ],
       "text": "Fable 5.2 Medium is 5x better than GPT-6 Astra in 3D\n\n\"zombie eagle\" from scratch via Blender MCP\n\nFable cooked this in 40 minutes\n\nthe wildest part? it's not even finished yet",
       "metrics": {
-        "views": 21460,
-        "likes": 306,
+        "views": 21711,
+        "likes": 307,
         "bookmarks": 120,
         "reposts": 15,
         "quotes": 2,
         "replies": 33,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -1037,14 +1037,14 @@
       ],
       "text": "Fable 5.2 wants to fuck your computer (sound on 🔊)\n\nThis was done w/ Fable 5.2 + lots of Opus 5.5 more on the prompting process below",
       "metrics": {
-        "views": 3813,
+        "views": 3844,
         "likes": 90,
         "bookmarks": 18,
         "reposts": 2,
         "quotes": 0,
         "replies": 12,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -1087,14 +1087,14 @@
       ],
       "text": "fable 5.2 一句话生成的游戏，我认为这已经完美展现了fable5.2的能力了！😎🤭\n\n只不过我玩的有点菜。。。\n\n“生成一个进击的巨人游戏”",
       "metrics": {
-        "views": 3124,
+        "views": 3232,
         "likes": 1,
         "bookmarks": 1,
         "reposts": 0,
         "quotes": 1,
         "replies": 2,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -1139,14 +1139,14 @@
       ],
       "text": "Claude Fable 5.2 vs Claude Opus 5.5 🧊\n\nThe first Fable 5.2 result is here. And it's totally insane. 🤯\n\nSame prompt. Cathedral of Ice.\nFable 5.2: $81.10 · 1h 56m 52s\nOpus 5.5: $45.97 · 3h 11m 26s\n\nI know I say it every time, but this is a huge leap. A huge jump. 😱\n\nFable cost more, but it finished 1h 15m faster. And just look at the ice, the ship, the whale. 👀\n\nThe future looks bright and amazing. 🔥\n\nWhat do you guys think?",
       "metrics": {
-        "views": 377266,
-        "likes": 2128,
+        "views": 384810,
+        "likes": 2132,
         "bookmarks": 600,
         "reposts": 95,
         "quotes": 42,
-        "replies": 141,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "replies": 143,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
       "post_type": "原帖"
@@ -1193,14 +1193,14 @@
       ],
       "text": "FABLE 5.2 is COOKING in Blender rn 👀\n\nSame prompt for both: an AR style rifle asset in Blender\n\nFABLE 5.2 built a full game-ready carbine with the stock, mag and rail, ALL the detail\n\nOPUS 5.5 gave me a clean block-out that's way boxier and simpler\n\nJudge yourself",
       "metrics": {
-        "views": 13684,
+        "views": 13787,
         "likes": 171,
         "bookmarks": 93,
         "reposts": 6,
         "quotes": 0,
         "replies": 16,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
       "post_type": "原帖"
@@ -1247,14 +1247,14 @@
       ],
       "text": "This is insane. I’m a Subnautica fan. \nI rebuilt it in 2 hours using Fable 5.2.\nIt looks even cooler than the original.\n\nSame prompt. Fable 5.2 on top, Opus 5.5 below.\n\nHarpoon a lava leviathan and go for a ride. In your browser.\n\nPlayable demos, source code + prompt below. Make your own",
       "metrics": {
-        "views": 1300,
+        "views": 1588,
         "likes": 20,
         "bookmarks": 5,
         "reposts": 2,
         "quotes": 1,
         "replies": 8,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
       "post_type": "原帖"
@@ -1299,14 +1299,14 @@
       ],
       "text": "今天用同样的提示词，让 Fable 5.2 做了个赛车小游戏。\n\n漂移手感、氮气加速、撞墙反馈，细节做得相当到位，整体效果远超预期。\n\n昨天还在夸GPT-6.2 Sol性价比无敌，结果只领先了半天，就被Fable 5.2反超了。🙃\n\n不过日常开发，GPT-6.2 Sol绝对是很有性价比的，fable5.2还是贵很多。",
       "metrics": {
-        "views": 2031,
+        "views": 2083,
         "likes": 14,
         "bookmarks": 2,
         "reposts": 0,
         "quotes": 0,
         "replies": 15,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
       "post_type": "原帖"
@@ -1354,14 +1354,14 @@
       ],
       "text": "Claude Fable 5.2 came out last night. First test: the exact prompt @Khazix0918 gave the new GPT-6.2 Sol, a 3D interactive page called \"The End of Time\".\n\nNot one word changed. GPT-6.2 Sol (his result) vs Fable 5.2 vs Opus 5.5.",
       "metrics": {
-        "views": 207,
+        "views": 214,
         "likes": 2,
         "bookmarks": 1,
         "reposts": 0,
         "quotes": 0,
         "replies": 1,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
       "post_type": "原帖"
@@ -1408,14 +1408,14 @@
       ],
       "text": "Claude Fable 5.2 vs Claude Opus 5.5  \n\nSame prompt. One HTML file each. No edits. Both on medium effort.  \n\nPrompt: a research ship in a canyon of glowing icebergs at night, with an aurora, a whale, snow and a camera orbit.  \n \nWhich one wins?",
       "metrics": {
-        "views": 564,
+        "views": 569,
         "likes": 9,
         "bookmarks": 1,
         "reposts": 0,
         "quotes": 0,
         "replies": 2,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
       "post_type": "原帖"
@@ -1460,14 +1460,14 @@
       ],
       "text": "Fable 5.2 vs Opus 5.5 \n\nTested both on a rocket launch scene.\n\nFable 5.2: $23.45 | 32 mins\nOpus 5.5: $10.35 | 24 mins\n\nFable 5.2 is really good, and the detailing and realism are incredible.\n\nBut I expected better efficiency or at least pricing closer to Fable 5.1.",
       "metrics": {
-        "views": 46691,
-        "likes": 332,
+        "views": 47003,
+        "likes": 333,
         "bookmarks": 50,
         "reposts": 10,
         "quotes": 10,
         "replies": 35,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
       "post_type": "原帖"
@@ -1512,14 +1512,14 @@
       ],
       "text": "i used fable 5.2 to make this \"hand-painted\" game in less than an hour\n\nEvery frame is about 1.5 million brush strokes, running at 200 fps in a browser tab. Open source too! https://t.co/TKeqPFYx4O",
       "metrics": {
-        "views": 414368,
-        "likes": 7833,
-        "bookmarks": 4166,
-        "reposts": 389,
-        "quotes": 70,
-        "replies": 380,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "views": 432903,
+        "likes": 7939,
+        "bookmarks": 4227,
+        "reposts": 395,
+        "quotes": 76,
+        "replies": 385,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖",
@@ -1565,14 +1565,14 @@
       ],
       "text": "used fable 5.2 to make this delightful ghibli inspired scene 🌳\n\nplayable, and open source: https://t.co/Mi2rwgrY36 https://t.co/eufet42Q95 https://t.co/yxPPWXFe2G",
       "metrics": {
-        "views": 58356,
-        "likes": 1641,
-        "bookmarks": 1135,
-        "reposts": 102,
-        "quotes": 5,
-        "replies": 64,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "views": 69721,
+        "likes": 1801,
+        "bookmarks": 1301,
+        "reposts": 123,
+        "quotes": 9,
+        "replies": 72,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "引用",
@@ -1618,14 +1618,14 @@
       ],
       "text": "used fable 5.2 to make this trippy \"impossible spaces\" experience\n\nopen-source too! https://t.co/0nl4tIGcxJ https://t.co/yxPPWXFe2G",
       "metrics": {
-        "views": 5953,
-        "likes": 135,
+        "views": 6162,
+        "likes": 137,
         "bookmarks": 64,
         "reposts": 4,
         "quotes": 1,
         "replies": 9,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "引用",
@@ -1672,14 +1672,14 @@
       ],
       "text": "I don’t know how to code, but somehow I made this game entirely from scratch in just a few days with AI and it's 2x the size of Skyrim!\n\nMade with, Fable 5.2 & Opus 5.5 , Tesana, Three.js and Tripo for 3D models & Blender.\n\nAOD - Age of Dragon - (No worries BioWare, I can take it solo from here)\n\nEverything you see and hear is Code (21B+ tokens) and 3D models\n\nHow I made this and crazy stats in the comments\n1/5",
       "metrics": {
-        "views": 353210,
-        "likes": 2511,
-        "bookmarks": 2125,
-        "reposts": 176,
-        "quotes": 73,
-        "replies": 236,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "views": 360513,
+        "likes": 2558,
+        "bookmarks": 2175,
+        "reposts": 184,
+        "quotes": 75,
+        "replies": 247,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖",
@@ -1724,14 +1724,14 @@
       ],
       "text": "Claude reverse engineered my 32-year-old Jeep. Then it started controlling it.\n\nEdited with Fable 5.2 https://t.co/1udt6hVI3w",
       "metrics": {
-        "views": 1723959,
-        "likes": 18923,
-        "bookmarks": 11594,
-        "reposts": 1734,
-        "quotes": 614,
-        "replies": 616,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "views": 1747248,
+        "likes": 19023,
+        "bookmarks": 11609,
+        "reposts": 1744,
+        "quotes": 618,
+        "replies": 617,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖",
@@ -1777,14 +1777,14 @@
       ],
       "text": "Fable 5.2 + Blender + Unreal Engine.\n\nit's all you need lol. https://t.co/YmEDTLTcwx",
       "metrics": {
-        "views": 123207,
+        "views": 124158,
         "likes": 1960,
         "bookmarks": 772,
         "reposts": 83,
         "quotes": 11,
         "replies": 107,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖",
@@ -1832,14 +1832,14 @@
       ],
       "text": "I tested effort levels on Fable 5.2 with same prompt.\n\nLow - 28 min 55 sec - $7.09\nMedium - 32 min 45 sec - $10.41\nHigh - 69 min 20 sec - $30.75\nXhigh - 85 min 55 sec - $42.10\n\nWhich would you pay for? https://t.co/l1ktcbqzNV",
       "metrics": {
-        "views": 16033,
+        "views": 16083,
         "likes": 82,
         "bookmarks": 43,
         "reposts": 4,
         "quotes": 1,
         "replies": 15,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
       "post_type": "原帖",
@@ -1884,14 +1884,14 @@
       ],
       "text": "卡哇伊～来了\n Fable 5.2做的精修视频 https://t.co/TLQSFCbitO",
       "metrics": {
-        "views": 2621,
+        "views": 2640,
         "likes": 24,
         "bookmarks": 15,
         "reposts": 0,
         "quotes": 0,
         "replies": 1,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖",
@@ -1936,14 +1936,14 @@
       ],
       "text": "Suno 危险了！！😱😱\n\n这是来自Fable 5.2创作的交响乐\n\n难道Fable5.2 开始拥有听觉了吗？\n\n@grok  它是怎么创作音乐的？\n\n https://t.co/CCuR4UaqEC",
       "metrics": {
-        "views": 37842,
-        "likes": 263,
-        "bookmarks": 194,
+        "views": 38193,
+        "likes": 264,
+        "bookmarks": 196,
         "reposts": 18,
         "quotes": 2,
         "replies": 27,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖",
@@ -1990,14 +1990,14 @@
       ],
       "text": "Fable 5.2とOpus 5.5、どっちが賢い？\n\n3Dチェスで戦わせてみた。\n・白：Opus 5.5\n・黒：Fable 5.2\n思考の強さはどっちも「中」\n\n結果は58手で、Fable5.2のチェックメイト勝ち。 https://t.co/c0nqj5Ugjy",
       "metrics": {
-        "views": 27558,
+        "views": 30099,
         "likes": 59,
         "bookmarks": 20,
         "reposts": 4,
         "quotes": 3,
         "replies": 3,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
       "post_type": "原帖",
@@ -2043,14 +2043,14 @@
       ],
       "text": "Fable 5.2 really made a $36 dragon look like a scene from Game of Thrones while Opus 5.5 spent $74 building something that belongs in a 2004 Pokémon game 😭😭\n\nMeanwhile GPT-6 Astra apparently pulled off the same challenge for just $9 in 2 minutes 💀\n\nSame prompt, 4 AI workflows\n\nThe dragon disaster report 🐉\n\n🥇 GPT-6 Astra → $9 / 2 min\n🥈 Fable 5.2 → $36 / 9 min\n🥉 Opus 5.5 → $74 / 19 min\n💀 Kimi K3.1 → $112 / 26 min\n\nFable’s displayed cost was 3.1x lower than Kimi’s, while Astra was the cheapest and fastest\n\nAnd somehow the $36 scene has the massive wings, dramatic lighting and medieval atmosphere you’d expect from a fantasy movie\n\nThe most expensive dragon didn’t even make it past the casting audition 😭",
       "metrics": {
-        "views": 25108,
+        "views": 25251,
         "likes": 116,
         "bookmarks": 96,
         "reposts": 7,
         "quotes": 0,
         "replies": 22,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
       "post_type": "引用",
@@ -2097,14 +2097,14 @@
       ],
       "text": "4 Carbon vs Fable 5.2 vs Opus 5.5 vs GPT-6 Astra.\n\nI gave Gemini 4 Carbon High the same rocket scene prompt, and this is what it came up with. It took 35 minutes to generate this.\n\nHonestly, it's somewhere near Opus 5.5 level, but more efficient. https://t.co/XhGZoIA1Mu",
       "metrics": {
-        "views": 21679,
-        "likes": 158,
+        "views": 22169,
+        "likes": 161,
         "bookmarks": 31,
         "reposts": 11,
         "quotes": 2,
-        "replies": 24,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "replies": 25,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
       "post_type": "原帖",
@@ -2153,14 +2153,14 @@
       ],
       "text": "Asked Fable 5.2, Gemini 4 Carbon, Opus 5.5 and GPT-6 Astra to build a ’90s arcade fighter.\n\nSame prompt. Four models.\n\nFable 5.2 → $22 / 9 min\nGemini 4 Carbon → $9 / 10 min\nOpus 5.5 → $34 / 21 min\nGPT-6 Astra → $50 / 16 min\n\nTry all 4 on Runable. https://t.co/Whb5vElzcg https://t.co/UpcVm7P6I3",
       "metrics": {
-        "views": 14660,
-        "likes": 70,
-        "bookmarks": 43,
+        "views": 15436,
+        "likes": 75,
+        "bookmarks": 46,
         "reposts": 9,
         "quotes": 1,
         "replies": 11,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
       "post_type": "引用",
@@ -2209,14 +2209,14 @@
       ],
       "text": "Claude Fable 5.2 vs Claude Opus 5.5 vs Gemini 4 Carbon vs GPT-6 Astra \n\nThe first 4-way model comparison result is here. And it's totally insane. \n\nSame prompt: Dinosaur obstacle run.\n\nFable 5.2: 9.6/10 - 0h 45m 12s\nOpus 5.5: 8.6/10  - 1h 12m 30s\nGemini 4 Carbon: 8.3/10  - 1h 20m 15s\nGPT-6 Astra: 7.6/10  - 1h 35m 40s\n\nI know I say it every time, but this is a huge leap. A huge jump. \n\nFable takes the crown with an incredible 9.6, finishing significantly faster and dominating the obstacle course like a pro! \n\nThe future looks bright and amazing. \n\nWhat do you guys think?",
       "metrics": {
-        "views": 11566,
-        "likes": 113,
-        "bookmarks": 52,
+        "views": 12208,
+        "likes": 114,
+        "bookmarks": 55,
         "reposts": 5,
         "quotes": 2,
         "replies": 37,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
       "post_type": "引用",
@@ -2263,14 +2263,14 @@
       ],
       "text": "Fable 5.2 做音乐视频MV 太夯啦！！👇用了High就能达到这个效果！\n\n目前Fable 5.2 high应该是性价比和实力最好的选择，用xhigh来做攻坚。\n\n模型：Fable5.2 High   \n音乐：Suno MCP   \n图像：GPT-Image-2.6   \n视频素材：Local Minimax H3 https://t.co/NsS5suYEFa",
       "metrics": {
-        "views": 7920,
-        "likes": 76,
+        "views": 8196,
+        "likes": 77,
         "bookmarks": 57,
         "reposts": 4,
         "quotes": 1,
         "replies": 5,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖",
@@ -2318,14 +2318,14 @@
       ],
       "text": "Opus5.5 vs Fable5.2 WEBデザイン検証\n\n・同じプロンプト、同じ素材\n・どちらも1回で生成（やり直しなし）\n\n■Fable 5.2のつよみ\n① アニメーションとThree.jsの質\n・弁当から立つ湯気\n・スクロールで画面がソースの色に変わる\n・ロゴアニメーションまで\n\n② AIっぽい装飾が少ない\n特にカレンダー。Opus 5.5はよくある枠。\nFable 5.2はAIがやりがちな余計な飾りがなくて、シンプルなのに洗練されてる◎\n\nwebデザインもまた進化しましたねー👀",
       "metrics": {
-        "views": 6593,
-        "likes": 20,
-        "bookmarks": 31,
+        "views": 6975,
+        "likes": 22,
+        "bookmarks": 33,
         "reposts": 0,
         "quotes": 2,
         "replies": 0,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
       "post_type": "原帖",
@@ -2377,14 +2377,14 @@
       ],
       "text": "Fable5.2很细。。。 细到什么程度。。。\n\n我最近不是在做一个自定义的 character creator 吗？\n\n虽然大部分已经做好了，我想测试一下 Fable 5.2 的能力，于是就跟他提了很高的要求：\n\n你负责这个 repo，然后你需要把我的这个 character creator 从一个游戏的模型弄成一个世界顶尖的数字人类模型。\n\n然后我装了个逼，说现在很多东西都是按照游戏里面的设定的，但是在 anatomy 人体解刨学上面不正确。\n\n虽然我也不太懂，但是我游戏里面想要非常绝对真实、符合人体解剖学的模拟。你比我聪明多了，你来决定吧。 \n\n随即，Fable 5.2 生成了 21 个 sub agent Fable 5.2 Max。 一上午花光了我两个Fable重置，加一个全局重置，加一个原有的200usd周额度……\n\n我一回来吓到了，我的萌妹子被Fable5.2改成了这个？！！！第二个视频是我之前捏的样子。。。",
       "metrics": {
-        "views": 5485,
+        "views": 5863,
         "likes": 29,
         "bookmarks": 11,
         "reposts": 1,
         "quotes": 2,
         "replies": 15,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖",
@@ -2431,14 +2431,14 @@
       ],
       "text": "Claude Fable 5.2 vs Claude Opus 5.5 vs Gemini 4 Carbon vs GPT-6 Astra 🧊\n\nFable 5.2 is the best by far, hands down. Opus 5.5 is second. But I'm so impressed with Gemini 4 Carbon. 😱\n\nSame prompt. Cathedral of Ice. Four models. 🤯\n\nFable 5.2: $81.10 · 1h 56m 52s · Extra High\nOpus 5.5: $45.97 · 3h 11m 26s · Extra High\nGemini 4 Carbon: $8.83 · 2h 39m 10s · High\nGPT-6 Astra: $17.51 · 1h 00m 22s · Extra High\n\nI ran Gemini 4 Carbon on High, the highest setting on OpenRouter in OpenCode. \n\nIt still beat GPT-6 Astra on Extra High, for half the price. 😳\n\nWhat do you guys think? 👀",
       "metrics": {
-        "views": 5678,
+        "views": 6029,
         "likes": 40,
-        "bookmarks": 16,
+        "bookmarks": 17,
         "reposts": 2,
         "quotes": 2,
         "replies": 15,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
       "post_type": "引用",
@@ -2485,14 +2485,14 @@
       ],
       "text": "Claudeの「Opus 5.5」と新登場の「Fable 5.2」に、20秒のSF映画予告編を作らせてみた。\n\n左：Opus 5.5\n右：Fable 5.2\nしかも、外部の動画生成AIは一切使わず、修正指示もなしの完全ポン出し。\n\n同じプロンプトなのに、カメラワークや演出、シーンの展開まで結構違う…👀\n\n個人的には、動きがダイナミックなFable 5.2の方が好み。\n\nみんなはどっち派？",
       "metrics": {
-        "views": 15594,
-        "likes": 73,
-        "bookmarks": 51,
+        "views": 23756,
+        "likes": 87,
+        "bookmarks": 63,
         "reposts": 9,
-        "quotes": 2,
-        "replies": 2,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "quotes": 5,
+        "replies": 3,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
       "post_type": "原帖",
@@ -2538,14 +2538,14 @@
       ],
       "text": "I love pixel style cards\n\nMade with Fable 5.2 https://t.co/tGSlVpdhin",
       "metrics": {
-        "views": 1187,
+        "views": 1244,
         "likes": 29,
-        "bookmarks": 8,
+        "bookmarks": 9,
         "reposts": 2,
         "quotes": 0,
         "replies": 5,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖",
@@ -2598,14 +2598,14 @@
       ],
       "text": "Here is another sampler made with Fable 5.2 + Opus 5.5. It uses an extreme time stretching algorithm turning a sample into an ambient track. The visualization simulates viewing Earth from space https://t.co/Nvs9c4vNuu",
       "metrics": {
-        "views": 3005,
-        "likes": 63,
-        "bookmarks": 38,
+        "views": 3123,
+        "likes": 65,
+        "bookmarks": 40,
         "reposts": 5,
         "quotes": 1,
-        "replies": 1,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "replies": 2,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖",
@@ -2652,14 +2652,14 @@
       ],
       "text": "This is f*cking insane. Fable 5.2 vs GPT-6 Astra:\n\nSame prompt. Same winter railway.\n\nFable 5.2: $6 and 2 minutes.\nAstra: $93 and 23 minutes.\nFable 5.2 → Opus 5.5 → Kimi K3.1 → GPT-6 Astra\n\nFable built a cinematic steam locomotive blasting through a snowy forest with massive steam clouds and golden winter lighting. Astra gave you a Minecraft railway built by a 12-year-old 😭\n\nIn this comparison, Fable was 15.5x cheaper and 11.5x faster.\n\nImagine paying $93 just to unlock Minecraft's winter railway DLC 💀",
       "metrics": {
-        "views": 1189,
-        "likes": 30,
+        "views": 1282,
+        "likes": 31,
         "bookmarks": 29,
         "reposts": 0,
         "quotes": 1,
-        "replies": 1,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "replies": 2,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
       "post_type": "引用",
@@ -2705,14 +2705,14 @@
       ],
       "text": "JavaScript drawing by Claude Fable 5.2 https://t.co/OxoiP7q12K",
       "metrics": {
-        "views": 6099,
-        "likes": 299,
-        "bookmarks": 74,
-        "reposts": 8,
-        "quotes": 5,
-        "replies": 19,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "views": 45365,
+        "likes": 1295,
+        "bookmarks": 381,
+        "reposts": 56,
+        "quotes": 19,
+        "replies": 44,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -2778,14 +2778,14 @@
       ],
       "text": "claude fable 5.2 drew this in python https://t.co/7sAdcU7YNQ",
       "metrics": {
-        "views": 1181,
-        "likes": 25,
+        "views": 1763,
+        "likes": 34,
         "bookmarks": 0,
         "reposts": 2,
         "quotes": 1,
-        "replies": 6,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "replies": 8,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -2831,14 +2831,14 @@
       ],
       "text": "WOW, fable 5.2 is fucking insane…\n\nthis entire video i just made was drawn and animated with full HTML code from fable\n\ni believe ai image and video models will be replacable soon\n\npeople complained about how ai video generators were not studio quality\n\nwell this changes https://t.co/5qKwVF3MMS",
       "metrics": {
-        "views": 1304,
-        "likes": 32,
-        "bookmarks": 15,
-        "reposts": 0,
-        "quotes": 0,
-        "replies": 8,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "views": 3627,
+        "likes": 70,
+        "bookmarks": 48,
+        "reposts": 4,
+        "quotes": 1,
+        "replies": 10,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -2886,14 +2886,14 @@
       ],
       "text": "Fable 5.2 + Blender + Threejs + Higgsfield\n\n72 hours ago this was an empty folder.\n\nNow it's a drift game that runs in your browser, in 4K if your GPU can take it. \n\nClaude Fable 5.2 did all in code, with Blender for the city and Higgsfield for the art and 3d models and awesome https://t.co/7OFi7eYWja",
       "metrics": {
-        "views": 761,
-        "likes": 11,
-        "bookmarks": 2,
-        "reposts": 0,
+        "views": 9349,
+        "likes": 17,
+        "bookmarks": 3,
+        "reposts": 1,
         "quotes": 2,
         "replies": 4,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -2936,14 +2936,14 @@
       ],
       "text": "This is actually INSANE.\n\nI just used Claude Fable 5.2 to generate a 5-minute animated video explaining the entire history of World War II.\n\nThe quality is ridiculously good.\n\nAI video generation is evolving way faster than I expected. 🤯 https://t.co/ekyZK8hmc4",
       "metrics": {
-        "views": 2704,
-        "likes": 22,
-        "bookmarks": 34,
-        "reposts": 3,
+        "views": 6332,
+        "likes": 67,
+        "bookmarks": 65,
+        "reposts": 5,
         "quotes": 0,
-        "replies": 2,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "replies": 11,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "畫面演示",
       "post_type": "原帖"
@@ -2988,14 +2988,14 @@
       ],
       "text": "~30x cheaper. Claude Fable 5.2 vs Gemini 4 Carbon, same prompt: flip an iceberg.\n\nClaude Fable 5.2 - ~$10\nGemini 4 Carbon - ~$0.30\n\nOne prompt each, no edits.\n\nCan you tell which one costs $10? https://t.co/rXPxcYduYT",
       "metrics": {
-        "views": 10338,
-        "likes": 74,
-        "bookmarks": 25,
-        "reposts": 1,
-        "quotes": 2,
-        "replies": 17,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "views": 20403,
+        "likes": 133,
+        "bookmarks": 35,
+        "reposts": 4,
+        "quotes": 5,
+        "replies": 23,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
       "post_type": "原帖"
@@ -3044,16 +3044,1445 @@
       ],
       "text": "no way gemini 4 carbon just f*cked fable 5.2. for $7. in 15 minutes\n\ngave 4 models the same iceberg prompt\n\nfable 5.2 - $30.47, 1h 14m\nopus 5.5 - $25.63, 1h 30m\nchatgpt-6 astra - $13.25, 25m\ngemini 4 carbon - $7.00, 15m\n\nhonestly can't tell carbon and fable apart. one of them cost me 4x more\nastra made paper pyramids lol\n\nit's all code running in the browser btw, not a video model\n\nwhich one would you pay for",
       "metrics": {
-        "views": 1871,
+        "views": 6940,
+        "likes": 66,
+        "bookmarks": 23,
+        "reposts": 1,
+        "quotes": 0,
+        "replies": 12,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "同 prompt 對比",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121339316311888329",
+      "slug": "EnvolDev-888329",
+      "author": "EnvolDev",
+      "author_url": "https://x.com/EnvolDev",
+      "post_url": "https://x.com/EnvolDev/status/2121339316311888329",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "comparison",
+      "title": "Fable 四檔力度：瀑布水上飛機",
+      "summary": "作者用同一提示詞測 Fable 5.2 的 Medium／High／Extra High／Max：費用 $61.90／$77.90／$209.50／$288.25，耗時約 1 小時 49 分至 3 小時 19 分；稱 Max 最好，但比 Medium 貴約 4.7 倍。",
+      "created_at": "2026-11-14 04:28:00 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Fable 5.2 Medium",
+        "Fable 5.2 High",
+        "Fable 5.2 Extra High",
+        "Fable 5.2 Max"
+      ],
+      "mythos_comparison": false,
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2120968683115991040/img/Hr_UJSHYJZgnzlJy.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 25.0,
+          "width": 2160,
+          "height": 1920,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120968683115991040/img/Hr_UJSHYJZgnzlJy.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是四宮格湖山瀑布與紅色水上飛機：左上 Medium $61.90／1h 49m 39s，右上 High $77.90／1h 48m 45s，左下 Extra High $209.50／3h 02m 54s，右下 Max $288.25／3h 19m 53s，中間有 vs。",
+        "花費、耗時與「Max 最好」是作者的說法；本庫沒有重跑。提示詞未公開。"
+      ],
+      "text": "Claude Fable 5.2 Medium vs High vs Extra High vs Max 🛩️\n\nDoes effort really matter? Now it's Fable 5.2's turn.\n\nSame model. Same prompt. Only the setting changes.\n\nMedium: $61.90 · 1h 49m 39s\nHigh: $77.90 · 1h 48m 45s\nExtra High: $209.50 · 3h 02m 54s\nMax: $288.25 · 3h 19m 53s\n\nMax cost $288.25 for a 25-second film. 🤯\nThat's 4.7x Medium... and 3.7x High. 😱\n\nBut Max is the best of all. Hands down.\nIt took only 17 minutes more than Extra High.\nYes, it costs more, but the difference is huge.\n\nSo, does effort really matter? Which one would you pick? 👀",
+      "metrics": {
+        "views": 72708,
+        "likes": 345,
+        "bookmarks": 200,
+        "reposts": 17,
+        "quotes": 3,
+        "replies": 38,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "同 prompt 對比",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121594536153718972",
+      "slug": "BlendiByl-718972",
+      "author": "BlendiByl",
+      "author_url": "https://x.com/BlendiByl",
+      "post_url": "https://x.com/BlendiByl/status/2121594536153718972",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "game",
+      "title": "巫師沙盒遊戲（全代碼）",
+      "summary": "作者稱用 Fable 5.2 一天做出巫師沙盒遊戲：7 種法術、約 1,800 塊可破壞物理物件，沒有 3D 模型或貼圖，全是代碼，可在瀏覽器運行，並開源。",
+      "created_at": "2026-11-14 21:22:09 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "mythos_comparison": false,
+      "tech": [
+        "瀏覽器",
+        "純代碼"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121593955557179392/img/kiEaWsmIqUo_kjre.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 54.752,
+          "width": 2560,
+          "height": 1440,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121593955557179392/img/kiEaWsmIqUo_kjre.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是第一人稱草地：右手持彎曲木杖，杖頭有紅葉狀法術；遠景有小屋、石塔、風車和野花，左上角有一排法術圖示，並寫 EXPLOSION。",
+        "一天做完、7 種法術、約 1,800 塊物理物件、全代碼無模型貼圖，是作者的說法；本庫沒有重跑。提示詞未公開。",
+        "引用的是遊戲平台 patch 發布帖，作品仍為作者自製。"
+      ],
+      "text": "i used fable 5.2 to make this wizard sandbox game in 1 day 🧙‍♂️\n\nthere are 7 spells right now, about 1800 physics pieces to destroy and zero 3D models or textures, it's ALL CODE, and runs in the browser.\n\nopen source and playable, go build something cool! https://t.co/z7UXPYPCCx https://t.co/yHYCl62Qbp https://t.co/yxPPWXFe2G",
+      "metrics": {
+        "views": 60645,
+        "likes": 1230,
+        "bookmarks": 817,
+        "reposts": 50,
+        "quotes": 11,
+        "replies": 82,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "畫面演示",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121219803268452726",
+      "slug": "AIMind_Ai-452726",
+      "author": "AIMind_Ai",
+      "author_url": "https://x.com/AIMind_Ai",
+      "post_url": "https://x.com/AIMind_Ai/status/2121219803268452726",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "comparison",
+      "title": "切西瓜：$102 對 $66",
+      "summary": "作者稱同一則「把果凍西瓜切成 10、100、再 500 塊並帶真實物理」提示詞：Fable 5.2 Max 耗 2 小時 51 分、約 $102；Opus 5.5 Max 耗較短、約 $66，並稱 Opus 有自己寫物理、認真計數。",
+      "created_at": "2026-11-13 20:33:06 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5"
+      ],
+      "mythos_comparison": false,
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121219596954824704/img/AM4MBU4YXkPCmmlY.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 38.04,
+          "width": 1080,
+          "height": 1350,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121219596954824704/img/AM4MBU4YXkPCmmlY.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是上下對照，兩顆完整西瓜放在木桌上：上標 Claude Opus 5.5 agent · max effort · 2h 35m，費用 $65.95，右上角寫 1 PIECE；下標 Claude Fable 5.2 agent · max effort · 2h 51m，費用 $102.54。",
+        "這一幀還是整顆西瓜，看不見切割過程或 500 塊。花費與耗時以畫面上的數字為準，與正文約 $102／$66 大致相符。提示詞未公開。數字為作者自述，本庫未復現。"
+      ],
+      "text": "What the f*ck. Claude Fable 5.2 burned $102 to cut ONE watermelon.\n\nI gave it max effort and one job: slice a jelly watermelon into 10, then 100, then 500 pieces with real physics.\n\n2 hours 51 minutes later, it handed me this. The piece counter already says 500 while the knife is still chopping, and a lot of the \"cubes\" are long, pointy wedges.\n\nClaude Opus 5.5 got the exact same prompt. It wrote its own physics from scratch, counted every piece for real, and cost $66.\n\nSo who are you paying $102 to cut your fruit?",
+      "metrics": {
+        "views": 34373,
+        "likes": 144,
+        "bookmarks": 45,
+        "reposts": 5,
+        "quotes": 2,
+        "replies": 30,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "同 prompt 對比",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121286147393651085",
+      "slug": "DilumSanjaya-651085",
+      "author": "DilumSanjaya",
+      "author_url": "https://x.com/DilumSanjaya",
+      "post_url": "https://x.com/DilumSanjaya/status/2121286147393651085",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "av",
+      "title": "RoverKit 組機器人教學應用",
+      "summary": "作者稱用 Fable 5.2 做了一個逐步組裝機器人的應用，含模擬器、可自訂場地與視覺化代碼講解，支援 Arduino 與 ESP32。",
+      "created_at": "2026-11-14 00:56:43 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "mythos_comparison": false,
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121283445456588800/img/e9K-m_Ujs6pNqLHH.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 105.898,
+          "width": 3456,
+          "height": 1990,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121283445456588800/img/e9K-m_Ujs6pNqLHH.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是名為 ROVERKIT 的介面：左側是透明車架、黃輪、超音波感測器與配線的立體模型，標題 WORKBENCH Step 9 · Upload the code；右側是「09 UPLOAD THE CODE」步驟說明，底欄有 Controller／Sensor／Power／Wiring／Code 分步圖示。",
+        "應用由 Fable 5.2 做成，是作者的說法；本庫沒有重跑。提示詞未公開。"
+      ],
+      "text": "Building a robot is easier when you take it one step at a time.\n\nSo I made an app that shows you how, with a simulator, customizable arena, and visual code walkthrough.\n\nSupports Arduino and ESP32.\nBuilt with Fable 5.2\nhttps://t.co/xmPKhBY5AO https://t.co/kkHRi08M40",
+      "metrics": {
+        "views": 30890,
+        "likes": 1022,
+        "bookmarks": 826,
+        "reposts": 118,
+        "quotes": 2,
+        "replies": 27,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "畫面演示",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121253191748669705",
+      "slug": "LexnLin-669705",
+      "author": "LexnLin",
+      "author_url": "https://x.com/LexnLin",
+      "post_url": "https://x.com/LexnLin/status/2121253191748669705",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "game",
+      "title": "無素材開放世界 RPG 演示",
+      "summary": "作者稱用 Fable 5.2 做出開放世界 RPG 遊戲演示，沒有使用現成素材，畫面皆由代碼生成。",
+      "created_at": "2026-11-13 22:45:46 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "mythos_comparison": false,
+      "tech": [
+        "純代碼"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121249406418595840/img/EH8_GxVWW9rJ92Oc.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 80.0,
+          "width": 3840,
+          "height": 2160,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121249406418595840/img/EH8_GxVWW9rJ92Oc.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是黃昏陽臺：白石欄杆與三道大拱門，左側花盆，一名紅披風角色背對鏡頭；遠處有粉櫻與尖塔，地上有圓形光影。",
+        "開放世界 RPG、無素材全由代碼生成，是作者的說法；本庫沒有重跑。提示詞未公開。"
+      ],
+      "text": "I built an open world RPG game demo with Fable 5.2\n\nno assets were used! everything you see here is made with code https://t.co/8tvccuWExt",
+      "metrics": {
+        "views": 11797,
+        "likes": 300,
+        "bookmarks": 82,
+        "reposts": 12,
+        "quotes": 3,
+        "replies": 55,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "畫面演示",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121476982798242112",
+      "slug": "MrTacticalX-242112",
+      "author": "MrTacticalX",
+      "author_url": "https://x.com/MrTacticalX",
+      "post_url": "https://x.com/MrTacticalX/status/2121476982798242112",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "av",
+      "title": "水冷電腦套件（Fable 帶 3 個 Opus 代理）",
+      "summary": "作者稱請 Fable 5.2 帶領 3 個 Opus 5.5 代理，在 Blender 裡從零建模一台水冷電腦，耗時 6 小時 38 分，花費 $118.66。",
+      "created_at": "2026-11-14 13:35:02 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "mythos_comparison": false,
+      "tech": [
+        "Blender"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121475610031632384/img/cpKO3uoPfVC0JVJW.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 40.9,
+          "width": 1080,
+          "height": 1350,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121475610031632384/img/cpKO3uoPfVC0JVJW.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是紙箱產品圖：HYDRYAX LIQUID COOLING KIT，並寫 ASSEMBLED BY FABLE 5.2，不是組裝完成的主機內部。",
+        "混用 Fable 5.2 與 3 個 Opus 5.5 代理及 Blender，不能當成純 Fable 成品。時間與費用為作者自述。提示詞未公開。"
+      ],
+      "text": "I asked Claude to build a water-cooled Computer...\n\nClaude Fable 5.2 led a team of 3 Opus 5.5 agents.\nEvery part was modelled from scratch in Blender.\n\n➜⏱6 hr 38 min\n➜💰$118.66 https://t.co/yrhq6REffE",
+      "metrics": {
+        "views": 9854,
+        "likes": 84,
+        "bookmarks": 40,
+        "reposts": 4,
+        "quotes": 5,
+        "replies": 10,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "畫面演示",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121164955080917176",
+      "slug": "seiiiiiiiiiiru-917176",
+      "author": "seiiiiiiiiiiru",
+      "author_url": "https://x.com/seiiiiiiiiiiru",
+      "post_url": "https://x.com/seiiiiiiiiiiru/status/2121164955080917176",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "av",
+      "title": "Blender 動作捕捉測試",
+      "summary": "作者稱以 Claude Fable 5.2 與 Blender 5.3.0 做動作捕捉測試，附短片。",
+      "created_at": "2026-11-13 16:55:09 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "mythos_comparison": false,
+      "tech": [
+        "Blender"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121164591338233856/img/MB4mdQodiG9PT9rw.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 10.0,
+          "width": 720,
+          "height": 720,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121164591338233856/img/MB4mdQodiG9PT9rw.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是淺灰背景上的一隻淺紫色圓潤兔子，閉眼、胸前有藍橙兩個環；這一幀看不見動作捕捉過程或骨架。",
+        "Fable 5.2 與 Blender 5.3.0 的 mocap 測試，是作者的說法；本庫沒有重跑。提示詞未公開。"
+      ],
+      "text": "Claude Fable 5.2 &amp; Blender 5.3.0 - Mocap test...🩷 https://t.co/STUJVkppuY",
+      "metrics": {
+        "views": 9602,
+        "likes": 43,
+        "bookmarks": 9,
+        "reposts": 5,
+        "quotes": 4,
+        "replies": 2,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "畫面演示",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121542419892117928",
+      "slug": "Lummox_eth-117928",
+      "author": "Lummox_eth",
+      "author_url": "https://x.com/Lummox_eth",
+      "post_url": "https://x.com/Lummox_eth/status/2121542419892117928",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "comparison",
+      "title": "同題運木材卡車四工作流",
+      "summary": "作者稱同一題四種工作流：Fable 5.2 約 $6／2 分，Opus 5.5 約 $26／7 分，Blender MCP 約 $54／16 分，GPT-6 Astra 約 $96／26 分。正文數字與預覽幀上的費用標不一致。",
+      "created_at": "2026-11-14 17:55:03 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5",
+        "GPT-6 Astra",
+        "Blender MCP"
+      ],
+      "mythos_comparison": false,
+      "tech": [
+        "Blender MCP"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121542339944476672/img/rXzUcNV4pViIwBFG.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 9.381,
+          "width": 1080,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121542339944476672/img/rXzUcNV4pViIwBFG.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是四宮格運木材卡車：左上 Fable 5.2、右上 Opus 5.5，畫面較寫實，帶晚霞或雪山；左下 Blender MCP、右下 Astra，風格偏扁平或低面數。幀上費用標為 $0／$0／$1／$2，耗時 2／7／16／25 分。",
+        "作者正文寫的是 $6／$26／$54／$96 與 2／7／16／26 分，與預覽幀費用標不一致；本庫只轉述，不以畫面或正文任一端為復現結果。提示詞未公開。"
+      ],
+      "text": "Fable 5.2 just made GPT-6 Astra’s $96 logging truck look like a rejected PS2 game asset 😭\n\nMeanwhile Fable delivered a $6 Hollywood-level mountain scene in just 2 minutes, with massive trucks, explosive dust and cinematic lighting, while Astra needed 26 💀\n\nSame challenge, 4 AI workflows\n\nThe price difference is actually absurd\n\n🥇 Fable 5.2 → $6 / 2 min\n🥈 Opus 5.5 → $26 / 7 min\n🥉 Blender MCP → $54 / 16 min\n💀 GPT-6 Astra → $96 / 26 min\n\n16x the cost. 13x the time.\n\nBut the most interesting part isn’t even the truck\n\nIt’s everything happening around it\n\nThe dust following the wheels, the sunlight cutting through the trees, the road disappearing into the mountains\n\nThose tiny details are what make a 3D scene feel cinematic instead of looking like a random collection of objects\n\nAnd here’s what genuinely bothers me\n\nIf you removed the model names and price tags, almost nobody would guess which result supposedly cost $96\n\nWe’re getting dangerously close to a world where the most expensive AI is just the most expensive way to be disappointed 😭",
+      "metrics": {
+        "views": 7921,
+        "likes": 88,
+        "bookmarks": 65,
+        "reposts": 5,
+        "quotes": 0,
+        "replies": 20,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "同 prompt 對比",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121278918376522066",
+      "slug": "EnvolDev-522066",
+      "author": "EnvolDev",
+      "author_url": "https://x.com/EnvolDev",
+      "post_url": "https://x.com/EnvolDev/status/2121278918376522066",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "comparison",
+      "title": "太空列車：Fable 對打 Opus",
+      "summary": "作者稱同一提示詞「The Space Train」、皆 Extra High：Fable 5.2 $72.12／1 小時 50 分 58 秒，Opus 5.5 $23.46／1 小時 52 分 56 秒；這次稱 Opus 勝出，並懷疑 Fable 是否已被削弱。",
+      "created_at": "2026-11-14 00:28:00 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5"
+      ],
+      "mythos_comparison": false,
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2120966326869282816/img/W9Q2ddYqg4PtfXvc.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 25.0,
+          "width": 2880,
+          "height": 2880,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120966326869282816/img/W9Q2ddYqg4PtfXvc.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是上下對照：上標 Claude Fable 5.2，$72.12／1h 50m 58s，一顆藍綠紫條紋土星和雲上的船形車站；下標 Claude Opus 5.5，$23.46／1h 52m 56s，土星偏棕褐，車站更像玻璃長廊，中間有 VS。",
+        "誰勝、土星顏色對錯，以及費用、耗時，都是作者的說法；本庫沒有重跑。提示詞未公開。"
+      ],
+      "text": "Claude Fable 5.2 vs Claude Opus 5.5\n\nFable 5.2 nerfed already?! Only 3 days after launch?! 😱\n\nBecause this time, Opus 5.5 beat it.\n\nSame prompt: The Space Train 🚂🪐\n\nFable 5.2: $72.12 · 1h 50m 58s · Extra High\n\nOpus 5.5: $23.46 · 1h 52m 56s · Extra High\n\nFable cost 3x more, took the same time, and still lost. 🤯\n\nLook at Saturn. Teal and purple?! That's a joke. 🤡 Opus made it look like the real Saturn.\n\nThe clouds look painted. The camera work is worse. Fable 5.2 did not impress me at all on this one.\n\nFable won the Cathedral of Ice. It won the Eiffel Tower. Now it loses to Opus.\n\nDid Fable 5.2 get nerfed already? Tell me I'm wrong. 👀",
+      "metrics": {
+        "views": 7067,
+        "likes": 36,
+        "bookmarks": 16,
+        "reposts": 1,
+        "quotes": 1,
+        "replies": 13,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "同 prompt 對比",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121565804374180344",
+      "slug": "MrTacticalX-180344",
+      "author": "MrTacticalX",
+      "author_url": "https://x.com/MrTacticalX",
+      "post_url": "https://x.com/MrTacticalX/status/2121565804374180344",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "av",
+      "title": "3D 印表機套件（Fable 帶 3 個 Opus 代理）",
+      "summary": "作者稱請 Fable 5.2 帶領 3 個 Opus 5.5 代理，在 Blender 裡從零建模一台 3D 印表機，耗時 5 小時 28 分，花費 $133.29。",
+      "created_at": "2026-11-14 19:27:59 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "mythos_comparison": false,
+      "tech": [
+        "Blender"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121565054017347584/img/In0gmHRknRege1Z0.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 42.4,
+          "width": 1080,
+          "height": 1350,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121565054017347584/img/In0gmHRknRege1Z0.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是紙箱產品圖：KINEFORM APEX 250 3D PRINTER，並寫 ASSEMBLED BY FABLE 5.2／0 HANDS，不是印表機組裝過程。",
+        "混用 Fable 5.2 與 3 個 Opus 5.5 代理及 Blender，不能當成純 Fable 成品。時間與費用為作者自述。提示詞未公開。"
+      ],
+      "text": "I asked Claude to build a 3D Printer...\n\nClaude Fable 5.2 led a team of 3 Opus 5.5 agents.\nEvery part was modelled from scratch in Blender.\n\n➜⏱5 hr 28 min\n➜💰$133.29\n\nTHIS IS NEXT LEVEL... https://t.co/zVR9vqOeej",
+      "metrics": {
+        "views": 6646,
+        "likes": 160,
+        "bookmarks": 70,
+        "reposts": 8,
+        "quotes": 2,
+        "replies": 24,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "畫面演示",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121565599629271069",
+      "slug": "kinderlayer-271069",
+      "author": "kinderlayer",
+      "author_url": "https://x.com/kinderlayer",
+      "post_url": "https://x.com/kinderlayer/status/2121565599629271069",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "comparison",
+      "title": "單缸引擎剖面四模型",
+      "summary": "作者稱同一提示詞讓四個模型做單缸引擎剖面動畫（燃油、活塞、氣門），對照 Fable 5.2、GPT-6 Astra、Gemini 4 Carbon、Gemini 4 Argon；稱越精細越貴，但未在文中標出各模型費用。",
+      "created_at": "2026-11-14 19:27:10 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "GPT-6 Astra",
+        "Gemini 4 Carbon",
+        "Gemini 4 Argon"
+      ],
+      "mythos_comparison": false,
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121565553290539008/img/tuJi3KAR6Z30ilnj.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 12.12,
+          "width": 720,
+          "height": 1280,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121565553290539008/img/tuJi3KAR6Z30ilnj.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是四宮格引擎剖面圖：左上 Claude Fable 5.2、右上 GPT-6 Astra、左下 Gemini 4 Carbon、右下 Gemini 4 Argon，各有活塞、連桿與進排氣管道，畫面未標費用。",
+        "同 prompt、未改任何一幀，以及「越精細越貴」，是作者的說法；本庫沒有重跑，也沒有各模型的花費數字。提示詞未公開。"
+      ],
+      "text": "this is f*cking ridiculous - one of these four cost way more to run than the rest.\n\nsame prompt, four models, a single-cylinder engine firing in cross-section. fuel flowing, piston pumping, valves snapping shut.\n\nClaude Fable 5.2 · GPT-6 Astra · Gemini 4 Carbon · Gemini 4 Argon\n\none nailed the fuel spray and the timing. one went clean and surgical. one wrapped the whole thing in carbon. one got weird with the intake trumpets.\n\nthe catch: the sharper the model, the more it burns to run. I didn’t touch a single frame and I’m not telling you which one costs the most - you call it: which engine looks like the one actually worth paying for?\n\ndrop your pick",
+      "metrics": {
+        "views": 6476,
+        "likes": 81,
+        "bookmarks": 46,
+        "reposts": 1,
+        "quotes": 0,
+        "replies": 39,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "同 prompt 對比",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121671659371585638",
+      "slug": "MrTacticalX-585638",
+      "author": "MrTacticalX",
+      "author_url": "https://x.com/MrTacticalX",
+      "post_url": "https://x.com/MrTacticalX/status/2121671659371585638",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "av",
+      "title": "玻璃鍵盤（Fable 帶 3 個 Opus 代理）",
+      "summary": "作者稱請 Fable 5.2 帶領 3 個 Opus 5.5 代理，在 Blender 裡從零建模玻璃鍵盤，耗時 7 小時 2 分，花費 $139.87。",
+      "created_at": "2026-11-15 02:28:37 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "mythos_comparison": false,
+      "tech": [
+        "Blender"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121671194457833472/img/WanznRYTLj57DnGW.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 32.3,
+          "width": 1080,
+          "height": 1350,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121671194457833472/img/WanznRYTLj57DnGW.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是紫色背景上的分層爆炸圖：透明鍵盤頂板、鍵帽層、帶金線的電路層與底板依序懸空，右下有 X @MrTacticalX。",
+        "混用 Fable 5.2 與 3 個 Opus 5.5 代理及 Blender，不能當成純 Fable 成品。時間與費用為作者自述。提示詞未公開。"
+      ],
+      "text": "I asked Claude to build a Glass Keyboard...\n\nClaude Fable 5.2 led a team of 3 Opus 5.5 agents.\nEvery part was modelled from scratch in Blender.\n\n➜ ⏱7 hr 2 min\n➜ 💰$139.87\n\nTHE ATTENTION TO DETAIL IS INSANE... https://t.co/Ul45lbdvHs",
+      "metrics": {
+        "views": 5287,
+        "likes": 80,
+        "bookmarks": 33,
+        "reposts": 2,
+        "quotes": 0,
+        "replies": 16,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "畫面演示",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121617707061727643",
+      "slug": "Lummox_eth-727643",
+      "author": "Lummox_eth",
+      "author_url": "https://x.com/Lummox_eth",
+      "post_url": "https://x.com/Lummox_eth/status/2121617707061727643",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "av",
+      "title": "滑輪鞋浣熊（Fable＋Blender）",
+      "summary": "作者稱用 Fable 5.2 做角色與視覺方向，再用 Blender 建模、綁骨與動畫，做出穿護具、踩輪滑的 3D 浣熊；文中列出九步工作流。",
+      "created_at": "2026-11-14 22:54:13 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "mythos_comparison": false,
+      "tech": [
+        "Blender"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121617660681015296/img/RPv_x4bVTU9dfQgg.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 9.633,
+          "width": 910,
+          "height": 512,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121617660681015296/img/RPv_x4bVTU9dfQgg.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是並排的 Blender 4.2 LTS 介面：左為灰白黏土風、右為上色後的浣熊，穿橙色護具、踩輪滑、手持衝擊起子；時間軸約停在 001／231 幀。",
+        "混用 Fable 5.2 與 Blender，不能當成純 Fable 成品。工作流與「動作跟重量走」是作者的說法。提示詞未公開。"
+      ],
+      "text": "build a fully animated 3d raccoon on rollerblades, with Fable 5.2 + Blender…\n\nthe skating feels natural because every movement follows the character’s weight\n\nhere’s the workflow:\n\n> step 1: block out the raccoon with simple shapes, keeping the proportions and silhouette readable\n> step 2: build the fur, striped tail, paws and facial details\n> step 3: model the rollerblades with separate wheels, frames and straps\n> step 4: add the orange protective gear, with layered materials and surface details\n> step 5: create the skeleton and rig the legs, arms, spine and tail\n> step 6: set up the skating cycle with alternating pushes, gliding and weight shifts\n> step 7: animate the tail and upper body to balance each movement\n> step 8: refine the timing with animation curves, keeping the wheels aligned with the ground\n> step 9: add lighting, materials and a final render pass, then test the animation for sliding and clipping\n\nwho does what:\n\nfable 5.2: character design and visual direction\nblender: the model, the rig, the animation\nanimation curves: the timing, the balance, the transitions\nyou: the creative direction\n\nless random movement, more controlled weight. good animation comes from how every small motion supports the next",
+      "metrics": {
+        "views": 5076,
+        "likes": 102,
+        "bookmarks": 102,
+        "reposts": 13,
+        "quotes": 1,
+        "replies": 21,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "畫面演示",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121660006873317639",
+      "slug": "0xRhinoX-317639",
+      "author": "0xRhinoX",
+      "author_url": "https://x.com/0xRhinoX",
+      "post_url": "https://x.com/0xRhinoX/status/2121660006873317639",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "comparison",
+      "title": "一則懶提示 $35，對上三則追問 $24",
+      "summary": "作者稱下半是 Fable 5.2 只跑一則懶提示，花費 $35；上半是 Gemini 4 Carbon 同一提示再追問 3 次，花費 $24。用來說明提示詞質量比盲目換模型更關鍵。",
+      "created_at": "2026-11-15 01:42:18 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Gemini 4 Carbon"
+      ],
+      "mythos_comparison": false,
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121586371877801984/img/Q8qxKz2Pi1NW0AV7.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 26.0,
+          "width": 1080,
+          "height": 1350,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121586371877801984/img/Q8qxKz2Pi1NW0AV7.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀上半標 Gemini 4 Carbon／FINAL，是雨夜日式街巷，行人走在濕地與霓虹燈下；下半標 Claude Fable 5.2／FIRST PROMPT，這一幀幾乎是全黑，看不見場景。",
+        "花費 $35 對 $24、以及「四則 Carbon 提示仍比一則 Fable 便宜」，是作者的說法；本庫沒有重跑。提示詞未公開。"
+      ],
+      "text": "stop blaming the model. you're the f*cking problem\n\nbottom: fable 5.2. best model on earth. one lazy prompt. $35\ntop: gemini 4 carbon. same prompt + 3 follow-ups. $24\n\n4 prompts on carbon still cost less than 1 on fable\n\nyou paid for a ferrari and drove it in first gear\n\nfollow me, i test every new model so you don't waste money on it",
+      "metrics": {
+        "views": 4835,
+        "likes": 72,
+        "bookmarks": 40,
+        "reposts": 2,
+        "quotes": 1,
+        "replies": 11,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "同 prompt 對比",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121129353128161297",
+      "slug": "AiHubMix-161297",
+      "author": "AiHubMix",
+      "author_url": "https://x.com/AiHubMix",
+      "post_url": "https://x.com/AiHubMix/status/2121129353128161297",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "comparison",
+      "title": "The End of Time 三模型網頁",
+      "summary": "產品帳號稱同一則提示詞、各用最高推理、一次生成、不追加修改，做 Three.js 互動網頁「The End of Time」：Gemini 4 Carbon $0.31，Gemini 4 Argon $2.06，Fable 5.2 $19.75。",
+      "created_at": "2026-11-13 14:33:41 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Gemini 4 Carbon",
+        "Gemini 4 Argon"
+      ],
+      "mythos_comparison": false,
+      "tech": [
+        "Three.js"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121128715736502272/img/0snkWYBALXKEoAdX.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 23.766,
+          "width": 1080,
+          "height": 1700,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121128715736502272/img/0snkWYBALXKEoAdX.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是三截對照：上為 Gemini 4 Carbon $0.31 的「THE END OF TIME／ENTER THE HORIZON」標題頁；中為 Gemini 4 Argon $2.06 的環形黑洞與控制面板；下為 Fable 5.2 $19.75，幾乎是深色頁面，只見 The Stellar Era · Dusk 等小字。底部有 AiHubMix 標語。",
+        "花費與「最高推理、一次生成、不追加修改」是該帳號的說法；本庫沒有重跑。提示詞未公開。"
+      ],
+      "text": "Gemini 4 Carbon vs Gemini 4 Argon vs Fable 5.2\n\nWe gave all three models the same prompt and used the highest reasoning available for each. Same one-shot task: build an interactive 3D webpage titled \"The End of Time\" in Three.js — composition, lighting, materials, particles, animation, atmosphere, mouse interaction. No follow-up fixes.\n\n- Carbon: $0.31 in API credits\n- Argon: $2.06 in API credits\n- Fable 5.2: $19.75 in API credits\n\nSame prompt. Same brief. A 64× price gap between the cheapest and the most expensive run. Watch the video and judge for yourself.",
+      "metrics": {
+        "views": 4526,
+        "likes": 14,
+        "bookmarks": 4,
+        "reposts": 1,
+        "quotes": 0,
+        "replies": 2,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "同 prompt 對比",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121701020598415465",
+      "slug": "kevin_t_ngo-415465",
+      "author": "kevin_t_ngo",
+      "author_url": "https://x.com/kevin_t_ngo",
+      "post_url": "https://x.com/kevin_t_ngo/status/2121701020598415465",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "game",
+      "title": "代碼繪製的橫向 RPG",
+      "summary": "作者稱 Claude Fable 5.2 做出可在瀏覽器玩的橫向卷軸 RPG 演示，所有畫面皆用代碼繪製，未用圖像模型或現成美術素材。",
+      "created_at": "2026-11-15 04:25:17 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "mythos_comparison": false,
+      "tech": [
+        "瀏覽器",
+        "純代碼"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121679674543890432/img/eGoaKNtrmFtjFM5k.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 105.0,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121679674543890432/img/eGoaKNtrmFtjFM5k.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是手繪風橫向畫面：角色 Edric 生命值 208／208，走在磚牆步道上，旁邊有兩隻長腿鳥，右上任務寫 Beat the Hookfoots, Slingbills and Spurshanks 0／8，底部有 Q／E／R／C 技能欄。",
+        "可在瀏覽器玩、畫面全由代碼繪製，是作者的說法；本庫沒有重跑。提示詞未公開。"
+      ],
+      "text": "Claude Fable 5.2 made this game demo, playable in the browser\n\nIt's a side-scrolling RPG with all visuals drawn with code: no image model or pre-made art assets used https://t.co/kM5YChdVJc",
+      "metrics": {
+        "views": 4348,
+        "likes": 150,
+        "bookmarks": 61,
+        "reposts": 6,
+        "quotes": 1,
+        "replies": 21,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "畫面演示",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121353180445564971",
+      "slug": "0xKiyoro-564971",
+      "author": "0xKiyoro",
+      "author_url": "https://x.com/0xKiyoro",
+      "post_url": "https://x.com/0xKiyoro/status/2121353180445564971",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "comparison",
+      "title": "雪地高架蒸汽火車：Fable 對打 Opus",
+      "summary": "作者稱同一提示詞「黃昏雪地高架上的蒸汽火車」：Fable 5.2 $8.52／20 分 40 秒（第一輪偏糊，退回重做一次），Opus 5.5 $3.80／20 分 01 秒一次過；作者稱最後兩邊各有所長，Fable 貴約 2.2 倍。",
+      "created_at": "2026-11-14 05:23:05 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5"
+      ],
+      "mythos_comparison": false,
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121353104507502592/img/Wp9znk2F1cnnYTeg.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 10.0,
+          "width": 1080,
+          "height": 1350,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121353104507502592/img/Wp9znk2F1cnnYTeg.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是左右對照的蒸汽火車：左標 Fable 5.2 $8.52，火車在雪軌上大燈掃過鐵軌；右標 Opus 5.5 $3.80，火車在石砌高架橋上，背景是紫色夜空與雪松。",
+        "第一輪重做、誰的雪山或高架更清楚，以及費用、耗時，都是作者的說法；本庫沒有重跑。提示詞未公開。"
+      ],
+      "text": "Claude Fable 5.2 vs Claude Opus 5.5\n\nSame prompt. Steam train on a snowy viaduct at dusk.\n\nFable 5.2: $8.52 · 20m 40s\nOpus 5.5: $3.80 · 20m 01s\n\nOpus got it in one round. Fable's first try came out murky, the fog hid the mountains, so I sent it back once.\n\nAfter the fix it caught up. Fable has the heavier blizzard and the frozen river. Opus has the two-tier viaduct and real mountains behind it.\n\n2.2x the price to end up even.\n\nWhat do you guys think?",
+      "metrics": {
+        "views": 3828,
+        "likes": 20,
+        "bookmarks": 13,
+        "reposts": 1,
+        "quotes": 1,
+        "replies": 0,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "同 prompt 對比",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121641306107871500",
+      "slug": "EnvolDev-871500",
+      "author": "EnvolDev",
+      "author_url": "https://x.com/EnvolDev",
+      "post_url": "https://x.com/EnvolDev/status/2121641306107871500",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "comparison",
+      "title": "礁冠島嶼：Fable 對打 Opus",
+      "summary": "作者稱同一提示詞「The Crown of the Reef」、皆 Extra High：Fable 5.2 $78.45／3 小時 15 分 05 秒，Opus 5.5 $54.96／1 小時 56 分 09 秒；稱這次 Fable 再勝，但貴 $23、多花約 1 小時 19 分。",
+      "created_at": "2026-11-15 00:28:00 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5"
+      ],
+      "mythos_comparison": false,
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2120966043195867136/img/sqQUYRvxHO60ZQw9.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 25.0,
+          "width": 2880,
+          "height": 2880,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120966043195867136/img/sqQUYRvxHO60ZQw9.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是上下對照的潟湖與尖峰島：上標 Claude Fable 5.2 $78.45／3h 15m 05s，下標 Claude Opus 5.5 $54.96／1h 56m 09s，都有水上屋、棧橋、棕櫚與白沙，中間有 VS。",
+        "誰勝、細節好壞，以及費用、耗時，都是作者的說法；本庫沒有重跑。提示詞未公開。"
+      ],
+      "text": "Claude Fable 5.2 vs Claude Opus 5.5 🏝️\n\nYesterday I said maybe Fable 5.2 got nerfed. 😱\nNot on this one. Fable 5.2 wins again.\n\nSame prompt. The Crown of the Reef.\nFable 5.2: $78.45 · 3h 15m 05s · Extra High\nOpus 5.5: $54.96 · 1h 56m 09s · Extra High\n\nLook at the details: the curtains, the stilts, the turquoise lagoon, those peaks. 🤯\n\nSo I guess it just didn't work on the Space Train. Fable 5.2 is still the better model.\n\nBut it cost $23 more and took 1h 19m longer than Opus.\n\nWhat do you guys think? 👀",
+      "metrics": {
+        "views": 3762,
+        "likes": 44,
+        "bookmarks": 13,
+        "reposts": 2,
+        "quotes": 1,
+        "replies": 3,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "同 prompt 對比",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121328376472633542",
+      "slug": "Lummox_eth-633542",
+      "author": "Lummox_eth",
+      "author_url": "https://x.com/Lummox_eth",
+      "post_url": "https://x.com/Lummox_eth/status/2121328376472633542",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "av",
+      "title": "拆解布加迪 Tourbillon",
+      "summary": "作者稱用 Fable 5.2 加 Blender，把一輛 Bugatti Tourbillon 拆開並處理細節，整個過程約兩小時。",
+      "created_at": "2026-11-14 03:44:31 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "mythos_comparison": false,
+      "tech": [
+        "Blender"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121328311099850752/img/3TBxW8R1ufZwNdZU.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 27.583,
+          "width": 1280,
+          "height": 720,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121328311099850752/img/3TBxW8R1ufZwNdZU.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是深色背景上的爆炸視圖：銀黑車身、輪圈與內部機件分離懸浮，帶青藍飾線。",
+        "混用 Fable 5.2 與 Blender，不能當成純 Fable 成品。約兩小時是作者的說法。提示詞未公開。"
+      ],
+      "text": "Fable 5.2 + Blender is getting fucking illegal ☠️\n\ni took a Bugatti Tourbillon apart in Blender and got way too obsessed with making every little detail feel real\n\nthe whole thing took about two hours https://t.co/LY1trqWb69 https://t.co/FOF1olXIGW",
+      "metrics": {
+        "views": 3425,
+        "likes": 72,
+        "bookmarks": 55,
+        "reposts": 5,
+        "quotes": 2,
+        "replies": 11,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "畫面演示",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121270015840141774",
+      "slug": "MrTacticalX-141774",
+      "author": "MrTacticalX",
+      "author_url": "https://x.com/MrTacticalX",
+      "post_url": "https://x.com/MrTacticalX/status/2121270015840141774",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "comparison",
+      "title": "Blender 海盜船：Fable 對打 Opus",
+      "summary": "作者稱同一提示詞在 Blender 建海盜船：Opus 5.5（上）1 小時 21 分／$18.16，Fable 5.2（下）1 小時 33 分／$34.41，並問多花一倍是否值得。",
+      "created_at": "2026-11-13 23:52:37 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5"
+      ],
+      "mythos_comparison": false,
+      "tech": [
+        "Blender"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121269410405003264/img/Tgx4yvpNyF6S7huF.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 25.0,
+          "width": 1080,
+          "height": 1350,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121269410405003264/img/Tgx4yvpNyF6S7huF.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是上下兩艘日落海面上的海盜船，都掛骷髏旗：上標 Claude Opus 5.5，下標 Claude Fable 5.2，中間有 @MrTacticalX。這一幀沒有標費用。",
+        "花費與耗時是作者寫在正文裡的數字；本庫沒有重跑。提示詞未公開。"
+      ],
+      "text": "Claude Fable 5.2 vs Opus 5.5...\n\nSame prompt: build a pirate ship in Blender\n\nOpus 5.5 (top):\n➜⏱1 hr 21 min\n➜💰$18.16\n\nFable 5.2 (bottom):\n➜⏱1 hr 33 min\n➜💰$34.41\n\nWas Fable 5.2 worth twice the cost? https://t.co/wXBGZCVeaq",
+      "metrics": {
+        "views": 3187,
+        "likes": 29,
+        "bookmarks": 7,
+        "reposts": 1,
+        "quotes": 0,
+        "replies": 5,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "同 prompt 對比",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121585048692363638",
+      "slug": "AIMind_Ai-363638",
+      "author": "AIMind_Ai",
+      "author_url": "https://x.com/AIMind_Ai",
+      "post_url": "https://x.com/AIMind_Ai/status/2121585048692363638",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "comparison",
+      "title": "雪崩：Fable $57 對 Carbon $0.25",
+      "summary": "作者稱同一提示詞、一次生成、沒有手改：Fable 5.2 約 90 分／$57，Gemini 4 Carbon 約 3.5 分／$0.25，價差約 228 倍；稱 Fable 模擬了 1,522 塊裂雪並把小屋埋到窗沿，Carbon 只做了紫色山。",
+      "created_at": "2026-11-14 20:44:27 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Gemini 4 Carbon"
+      ],
+      "mythos_comparison": false,
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121584583808315392/img/3Ec5fvtHzL1z01WS.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 30.0,
+          "width": 1080,
+          "height": 1350,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121584583808315392/img/3Ec5fvtHzL1z01WS.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀上半標 Claude Fable 5.2 one prompt · no edits，90 min · ~$57，幾乎是一片空白米色，看不見雪崩或小屋；下半標 Gemini 4 Carbon，3.5 min · ~$0.25，是紫色雪山與落雪，畫面寫 01 CALM GOLDEN HOUR & RIDGE。",
+        "1,522 塊雪板、氣浪與被埋的小屋，是作者對成片的描述，這一幀沒有出現。花費與耗時為作者自述，本庫未復現。提示詞未公開。"
+      ],
+      "text": "Claude Fable 5.2 vs Gemini 4 Carbon: 228x the price for the same avalanche \n\nClaude Fable 5.2: 90 min · ~$57\nGemini 4 Carbon: 3.5 min · ~$0.25\n\nSame prompt, one shot, nothing fixed by hand.\n\nClaude simulated 1,522 cracking snow slabs, an air blast that bends trees before the snow even hits, and a cabin buried up to its windows.\n\nGemini made a purple mountain and called it a day.\n\nWatch the cabin at 0:19.\n\nIs Claude worth $57, or did Gemini win on price?",
+      "metrics": {
+        "views": 3040,
+        "likes": 38,
+        "bookmarks": 23,
+        "reposts": 2,
+        "quotes": 1,
+        "replies": 18,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "同 prompt 對比",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121300876417531919",
+      "slug": "0xRhinoX-531919",
+      "author": "0xRhinoX",
+      "author_url": "https://x.com/0xRhinoX",
+      "post_url": "https://x.com/0xRhinoX/status/2121300876417531919",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "comparison",
+      "title": "畫中巨浪與龍：Fable 對打 Carbon",
+      "summary": "作者稱同一提示詞兩模型：巨浪從畫裡湧出、一條龍跳出來，對照 Fable 5.2 與 Gemini 4 Carbon；稱其中一個貴約 4 倍，但沒在文中標明哪個是哪個。",
+      "created_at": "2026-11-14 01:55:15 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Gemini 4 Carbon"
+      ],
+      "mythos_comparison": false,
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121264458727030784/img/LjAE48t6VFnm4Oa7.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 12.0,
+          "width": 1080,
+          "height": 1920,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121264458727030784/img/LjAE48t6VFnm4Oa7.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是上下兩幅畫框：上圖較像神奈川沖浪裏，有浪、小船與遠山；下圖只有一片較鬆散的藍浪，沒有山與船。這一幀看不見龍，也沒有模型名稱或費用。",
+        "同 prompt、4 倍價差，以及哪一張更「可怕」，是作者的說法；本庫沒有重跑。提示詞未公開。"
+      ],
+      "text": "this is f*cking wild. one of these dragons cost me 4x more than the other\n\nsame prompt, two models. the great wave bursts out of a painting and a dragon jumps out\n\nclaude fable 5.2 · gemini 4 carbon\n\none came out glossy and terrifying, tongue out, teeth everywhere\nthe other one... tried its best\n\nnot telling you which is which. which one did i pay 4x for?\n\nfable or carbon, drop your pick",
+      "metrics": {
+        "views": 2882,
         "likes": 16,
         "bookmarks": 11,
+        "reposts": 2,
+        "quotes": 0,
+        "replies": 3,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "同 prompt 對比",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121701704139956250",
+      "slug": "EnvolDev-956250",
+      "author": "EnvolDev",
+      "author_url": "https://x.com/EnvolDev",
+      "post_url": "https://x.com/EnvolDev/status/2121701704139956250",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "comparison",
+      "title": "雲上里約四模型",
+      "summary": "作者稱同一提示詞「Rio Above the Clouds」：Opus 5.5 $60.89／2 小時 19 分 35 秒，Fable 5.2 $76.04／1 小時 59 分 11 秒，Gemini 4 Hydrogen $6.21／1 小時 33 分 48 秒，GPT-6 Astra $16.89／34 分 06 秒；稱 Hydrogen 最便宜但最差，Astra 比它更好也更快。",
+      "created_at": "2026-11-15 04:28:00 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5",
+        "Gemini 4 Hydrogen",
+        "GPT-6 Astra"
+      ],
+      "mythos_comparison": false,
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121475910901841920/img/wrYF-a81VM_5OH-o.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 25.0,
+          "width": 2160,
+          "height": 1920,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121475910901841920/img/wrYF-a81VM_5OH-o.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是四宮格基督像與雲海：左上 Opus 5.5 $60.89／2h 19m 35s，右上 Fable 5.2 $76.04／1h 59m 11s，左下 Gemini 4 Hydrogen $6.21／1h 33m 48s，右下 GPT-6 Astra $16.89／34m 06s。",
+        "誰好誰差，以及費用、耗時，都是作者的說法；本庫沒有重跑。提示詞未公開。"
+      ],
+      "text": "Fable 5.2 vs Gemini 4 Hydrogen vs Opus 5.5 vs GPT-6 Astra ☁️\n\nGemini 4 Hydrogen made the whole film for $6.21. 🤯\nBut it's the least good of all. 😬\n\nSame prompt: Rio Above the Clouds\nOpus 5.5: $60.89 · 2h 19m 35s\nFable 5.2: $76.04 · 1h 59m 11s\nGemini 4 Hydrogen: $6.21 · 1h 33m 48s\nGPT-6 Astra: $16.89 · 34m 06s\n\nAnd this time it ran on Extra High. In my last test, it could only run on High. So no excuses.\n\nI know I can't compare it to frontier models like Fable 5.2 or Opus 5.5.\nBut the result was not good at all.\n\nGPT-6 Astra cost only $10.68 more, finished almost 1 hour faster, and made a better film.\n\nI'm not impressed at all by Hydrogen on this one. 🤦\n\nWhat do you guys think? 👀",
+      "metrics": {
+        "views": 1261,
+        "likes": 10,
+        "bookmarks": 5,
         "reposts": 1,
         "quotes": 0,
         "replies": 4,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "seed_category": "同 prompt 對比",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121686941464760464",
+      "slug": "Lummox_eth-760464",
+      "author": "Lummox_eth",
+      "author_url": "https://x.com/Lummox_eth",
+      "post_url": "https://x.com/Lummox_eth/status/2121686941464760464",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "comparison",
+      "title": "水晶礦車四工作流",
+      "summary": "作者稱同一題四種工作流：Fable 5.2 約 $5／2 分，GPT-6 Astra 約 $26／7 分，Blender MCP 約 $54／16 分，Opus 5.5 約 $96／26 分。正文數字與預覽幀上的費用標不一致。",
+      "created_at": "2026-11-15 03:29:20 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5",
+        "GPT-6 Astra",
+        "Blender MCP"
+      ],
+      "mythos_comparison": false,
+      "tech": [
+        "Blender MCP"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121686841367605248/img/obukcs2lvUJPEvQb.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 10.0,
+          "width": 1080,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121686841367605248/img/obukcs2lvUJPEvQb.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是四宮格黃色礦車拉著發光水晶，行經木棧橋與水晶洞穴：左上 Fable 5.2、右上標 5.6 Astra、左下 Blender MCP、右下 Opus 5.5；四格費用標都是 $0，耗時 2／7／16／25 分。",
+        "作者正文寫的是 $5／$26／$54／$96，與預覽幀費用標不一致；右上標寫 5.6 Astra，與正文 GPT-6 Astra 也不完全相同。本庫只轉述，不以畫面或正文任一端為復現結果。提示詞未公開。"
+      ],
+      "text": "Claude Opus 5.5 spent $96 and 26 minutes making something that looks like a children’s amusement park ride 😭\n\nMeanwhile Fable 5.2 really built a cinematic crystal mining train for just $5 in 2 minutes ☠️\n\nSame prompt, 4 AI workflows\n\nThe $90 reality check\n\n🥇 Fable 5.2 → $5 / 2 min\n🥈 GPT-6 Astra → $26 / 7 min\n🥉 Blender MCP → $54 / 16 min\n💀 Opus 5.5 → $96 / 26 min\n\nThat’s 16x the displayed cost and 13x the time for Opus\n\nBut here’s what makes this comparison interesting\n\nAll four managed to build a moving train loaded with glowing crystals\n\nThe real difference is in the lighting, mountain scenery, railway details and how convincingly everything fits together\n\nFable looks like a scene from a fantasy adventure\n\nOpus looks like the train you’d ride for $3 at a shopping mall \n\nThe most expensive ticket somehow gets you the cheapest-looking ride",
+      "metrics": {
+        "views": 1181,
+        "likes": 31,
+        "bookmarks": 24,
+        "reposts": 3,
+        "quotes": 1,
+        "replies": 14,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "同 prompt 對比",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121317539561046260",
+      "slug": "DevNotorious_-046260",
+      "author": "DevNotorious_",
+      "author_url": "https://x.com/DevNotorious_",
+      "post_url": "https://x.com/DevNotorious_/status/2121317539561046260",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "comparison",
+      "title": "Roblox 寵物模擬器對打 Opus",
+      "summary": "作者稱在真實 Roblox Studio 裡，用同一提示詞各跑一次、沒有再改：做帶蛋、孵化機率與寵物背包的寵物模擬器，左右對照 Opus 5.5 與 Fable 5.2。",
+      "created_at": "2026-11-14 03:01:28 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5"
+      ],
+      "mythos_comparison": false,
+      "tech": [
+        "Roblox Studio"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/ext_tw_video_thumb/2121317452017442816/pu/img/8bl3VxMZxtZHT4Bp.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 34.6,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/ext_tw_video_thumb/2121317452017442816/pu/img/8bl3VxMZxtZHT4Bp.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是左右對照的色彩繽紛島嶼：左標 CLAUDE OPUS 5.5，圓形平台上有 Galaxy Egg、Ocean Egg 等；右標 CLAUDE FABLE 5.2，可見 Royal Egg 75K、Fizzy Egg、Rainbow Dragon 等標籤。底部寫 SAME PROMPT · 1 RUN EACH · REAL ROBLOX STUDIO。",
+        "同 prompt、各跑一次、沒有再改，是作者的說法；本庫沒有重跑。提示詞未公開。"
+      ],
+      "text": "Same prompt to Claude Opus 5.5 and Claude Fable 5.2, inside real Roblox Studio: build a pet simulator with eggs, hatch chances and a pet inventory.\n\n1 run each, side by side, nothing edited.\n\nWhich one would you play?\n\n#ClaudeAI #RobloxDev https://t.co/QC2ZUMbKKX",
+      "metrics": {
+        "views": 1087,
+        "likes": 15,
+        "bookmarks": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 2,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "同 prompt 對比",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121330807042138146",
+      "slug": "0xKenny1st-138146",
+      "author": "0xKenny1st",
+      "author_url": "https://x.com/0xKenny1st",
+      "post_url": "https://x.com/0xKenny1st/status/2121330807042138146",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "comparison",
+      "title": "雪地蒸汽機車四模型",
+      "summary": "作者稱同一提示詞「蒸汽機車破雪前行」：Fable 5.2 $6／2 分，Opus 5.5 $24／7 分，Kimi K3.1 $58／16 分，GPT-6 Astra $93／23 分。正文數字與預覽幀上的費用標不一致。",
+      "created_at": "2026-11-14 03:54:11 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5",
+        "Kimi K3.1",
+        "GPT-6 Astra"
+      ],
+      "mythos_comparison": false,
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121330654855974912/img/JM1I8qzjK8pN0uCT.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 10.007,
+          "width": 1080,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121330654855974912/img/JM1I8qzjK8pN0uCT.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是四宮格雪地蒸汽機車：左上 Opus 5.5、右上 Fable 5.2，畫面較寫實；左下 Kimi K3.1、右下 GPT 6 Astra，偏低面數或積木風。四格費用標都是 $0，耗時 7／2／15／23 分。",
+        "作者正文寫的是 Fable $6／2 分、Opus $24／7 分、Kimi $58／16 分、Astra $93／23 分，與預覽幀費用標不一致，Kimi 耗時也是 16 分對幀上 15 分。本庫只轉述，不以畫面或正文任一端為復現結果。提示詞未公開。"
+      ],
+      "text": "Claude Fable 5.2 vs Claude Opus 5.5 vs Kimi K3.1 vs GPT-6 Astra\n\nSame prompt: a steam locomotive plowing through snow.\n\nFable 5.2: $6, 2 min\nOpus 5.5: $24, 7 min\nKimi K3.1: $58, 16 min\nGPT-6 Astra: $93, 23 min\n\nAstra cost over 15x more than Fable and took more than 11x longer.\n\nTop left: Opus 5.5. Top right: Fable 5.2. Bottom left: Kimi K3.1. Bottom right: GPT-6 Astra.\n\nIs the most expensive model ever the best one?",
+      "metrics": {
+        "views": 956,
+        "likes": 6,
+        "bookmarks": 6,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 3,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "同 prompt 對比",
+      "post_type": "原帖"
+    },
+    {
+      "id": "2121155731420225703",
+      "slug": "Timmysofine-225703",
+      "author": "Timmysofine",
+      "author_url": "https://x.com/Timmysofine",
+      "post_url": "https://x.com/Timmysofine/status/2121155731420225703",
+      "in_seed": false,
+      "surfaced_via": "fable52-6h-scan-2026-11-15",
+      "category": "av",
+      "title": "平面圖轉公寓 3D 走覽",
+      "summary": "作者稱 Claude Fable 5.2 加 Three.js，把平面圖做成公寓的 3D 走覽；並寫也可用 Claude 加 Blender MCP，稱效果可能更好、不必用 Fable。",
+      "created_at": "2026-11-13 16:18:30 Asia/Hong_Kong(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "mythos_comparison": false,
+      "tech": [
+        "Three.js"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2121155682950881280/img/XEjcciibnEx2JJ4d.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 15.978,
+          "width": 1265,
+          "height": 720,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121155682950881280/img/XEjcciibnEx2JJ4d.jpg"
+        }
+      ],
+      "caveats": [
+        "公開預覽幀是海邊高層公寓外觀：白樓臨海，樓下有泳池與棕櫚，四周是樹林與沙灘，不是平面圖，也看不見室內走覽。",
+        "由 Fable 5.2 加 Three.js 從平面圖生成，是作者的說法；本庫沒有重跑。提示詞未公開。文末同時推 Blender MCP 為替代方案。"
+      ],
+      "text": "Claude Fable 5.2 plus three.js just turned a flat floor plan into a full 3D walkthrough of the apartment.\n\nReal estate developers usually pay $30k to $100k for these so they can sell units before the building is even finished.\n\nAlternatively, you can use @claudeai + @Blender MCP which will give more desirable results without having to use Fable.",
+      "metrics": {
+        "views": 1591,
+        "likes": 31,
+        "bookmarks": 12,
+        "reposts": 9,
+        "quotes": 1,
+        "replies": 3,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "seed_category": "畫面演示",
       "post_type": "原帖"
     }
   ],
@@ -3083,14 +4512,14 @@
         }
       ],
       "metrics": {
-        "views": 18300234,
-        "likes": 95756,
-        "bookmarks": 15765,
-        "reposts": 9200,
-        "quotes": 6911,
-        "replies": 3102,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "views": 19057084,
+        "likes": 95996,
+        "bookmarks": 15769,
+        "reposts": 9230,
+        "quotes": 6943,
+        "replies": 3121,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "官宣主帖；香港時間約 02:57"
     },
@@ -3111,14 +4540,14 @@
       "text": "Fable 5.2 and Mythos 5.2 performed as well as, or better than, our recent models on most alignment measures.\n\nThe model was also tested before release by external evaluators, including the @AISecurityInst, @FrontierDesign2, and @METR_Evals.",
       "media": [],
       "metrics": {
-        "views": 989604,
-        "likes": 4863,
+        "views": 1002689,
+        "likes": 4879,
         "bookmarks": 240,
-        "reposts": 108,
+        "reposts": 110,
         "quotes": 29,
-        "replies": 62,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "replies": 63,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -3147,14 +4576,14 @@
         }
       ],
       "metrics": {
-        "views": 1908917,
-        "likes": 8680,
+        "views": 1920906,
+        "likes": 8700,
         "bookmarks": 1102,
-        "reposts": 592,
+        "reposts": 595,
         "quotes": 555,
-        "replies": 159,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "replies": 160,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "官宣串第二則；含 vs Opus 5.5 對照圖（標明官方對比）"
     },
@@ -3204,14 +4633,14 @@
         }
       ],
       "metrics": {
-        "views": 815162,
-        "likes": 3888,
-        "bookmarks": 492,
+        "views": 820159,
+        "likes": 3896,
+        "bookmarks": 493,
         "reposts": 156,
-        "quotes": 137,
+        "quotes": 138,
         "replies": 58,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -3240,14 +4669,14 @@
         }
       ],
       "metrics": {
-        "views": 884049,
-        "likes": 4937,
+        "views": 889145,
+        "likes": 4949,
         "bookmarks": 620,
         "reposts": 255,
-        "quotes": 100,
+        "quotes": 101,
         "replies": 56,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -3276,14 +4705,14 @@
         }
       ],
       "metrics": {
-        "views": 1246626,
-        "likes": 6715,
+        "views": 1253058,
+        "likes": 6737,
         "bookmarks": 906,
-        "reposts": 456,
+        "reposts": 458,
         "quotes": 204,
-        "replies": 91,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "replies": 92,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -3312,14 +4741,14 @@
         }
       ],
       "metrics": {
-        "views": 3398870,
-        "likes": 10630,
-        "bookmarks": 2263,
-        "reposts": 1051,
-        "quotes": 848,
+        "views": 3427023,
+        "likes": 10674,
+        "bookmarks": 2275,
+        "reposts": 1062,
+        "quotes": 855,
         "replies": 188,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -3340,14 +4769,14 @@
       "text": "Fable and Mythos are best for the most ambitious, open-ended technical work.\n\nFor most coding and knowledge tasks, we recommend starting with Opus 5.5, our strongest daily driver, then moving to a different model depending on the scope and complexity of your work.",
       "media": [],
       "metrics": {
-        "views": 483849,
-        "likes": 3301,
+        "views": 486358,
+        "likes": 3304,
         "bookmarks": 192,
         "reposts": 71,
         "quotes": 16,
         "replies": 25,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -3368,14 +4797,14 @@
       "text": "Fable and Mythos are the same underlying model. Fable has strong safeguards to guard against misuse.\n\nOrganizations pursuing beneficial applications in cybersecurity or biomedical research can apply for Mythos through our Life Sciences and Cyber Verification Programs.",
       "media": [],
       "metrics": {
-        "views": 512683,
-        "likes": 2533,
+        "views": 515516,
+        "likes": 2538,
         "bookmarks": 127,
         "reposts": 53,
         "quotes": 10,
         "replies": 23,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -3396,14 +4825,14 @@
       "text": "Claude Fable 5.2 is available today on all paid plans, on the Claude Platform, and on all major cloud platforms.\n\nIt’s $8 per million input tokens and $40 per million output tokens, down from $10 and $50.\n\nRead more: https://www.anthropic.com/claude-fable-and-mythos-5-2",
       "media": [],
       "metrics": {
-        "views": 1155341,
-        "likes": 5024,
+        "views": 1160677,
+        "likes": 5029,
         "bookmarks": 549,
-        "reposts": 281,
+        "reposts": 282,
         "quotes": 182,
         "replies": 138,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "價格來源：官方 @claudeai（$8/$40，原 $10/$50）"
     },
@@ -3424,14 +4853,14 @@
       "text": "Claude Fable 5.2 and Claude Mythos 5.2 are available now:",
       "media": [],
       "metrics": {
-        "views": 918514,
-        "likes": 15021,
+        "views": 935688,
+        "likes": 15035,
         "bookmarks": 955,
         "reposts": 939,
-        "quotes": 432,
-        "replies": 605,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "quotes": 435,
+        "replies": 615,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "香港時間約 03:00"
     },
@@ -3460,14 +4889,14 @@
         }
       ],
       "metrics": {
-        "views": 3591,
+        "views": 3607,
         "likes": 57,
         "bookmarks": 4,
         "reposts": 2,
         "quotes": 0,
         "replies": 3,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -3488,14 +4917,14 @@
       "text": "To help prevent distillation, preserved thinking now covers all API accounts on Fable 5.2.\n\nEditing prior context can 400. Use compaction, context editing, or mid-conversation system messages. Claude Code, Managed Agents & Agent SDK handle this for you.\n\nhttps://platform.claude.com/docs/build-with-claude/preserved-thinking",
       "media": [],
       "metrics": {
-        "views": 87029,
-        "likes": 264,
-        "bookmarks": 41,
+        "views": 87600,
+        "likes": 265,
+        "bookmarks": 42,
         "reposts": 8,
         "quotes": 5,
         "replies": 8,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -3516,14 +4945,14 @@
       "text": "Claude Fable 5.2 is live on AI Gateway.\n\nIt improves on earlier Fable models in coding, reasoning, and vision, and can orchestrate or advise smaller models on harder problems.\n\n𝚊𝚗𝚝𝚑𝚛𝚘𝚙𝚒𝚌/𝚌𝚕𝚊𝚞𝚍𝚎-𝚏𝚊𝚋𝚕𝚎-𝟻.𝟸",
       "media": [],
       "metrics": {
-        "views": 148595,
+        "views": 149308,
         "likes": 144,
         "bookmarks": 18,
         "reposts": 4,
         "quotes": 3,
         "replies": 9,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "平台上架通知"
     },
@@ -3544,14 +4973,14 @@
       "text": "Claude Fable 5.2 lands on Databricks on Day 0.\n\nBuilt for coding, finance and science, it sets a new high on our OfficeQA Pro v2 benchmark.\n\nRun long-running agents on governed data, with Unity Gateway controlling calls across 70+ models.",
       "media": [],
       "metrics": {
-        "views": 15665,
+        "views": 15940,
         "likes": 102,
         "bookmarks": 10,
         "reposts": 19,
         "quotes": 2,
         "replies": 14,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -3580,14 +5009,14 @@
         }
       ],
       "metrics": {
-        "views": 85291,
+        "views": 85556,
         "likes": 181,
         "bookmarks": 20,
         "reposts": 9,
         "quotes": 12,
         "replies": 11,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "價格來源：二手（AWS Bedrock 定價頁截圖，官宣前；數字與官方一致）"
     },
@@ -3616,14 +5045,14 @@
         }
       ],
       "metrics": {
-        "views": 32076,
+        "views": 32212,
         "likes": 536,
         "bookmarks": 42,
         "reposts": 19,
         "quotes": 7,
         "replies": 38,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "價格來源：二手（Bedrock 價格檔截圖；與官方 $8/$40 一致）"
     },
@@ -3659,14 +5088,14 @@
         }
       ],
       "metrics": {
-        "views": 29569,
+        "views": 29855,
         "likes": 568,
         "bookmarks": 24,
         "reposts": 31,
         "quotes": 12,
         "replies": 31,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "價格來源：二手（Bedrock Pricing 頁截圖）"
     },
@@ -3695,14 +5124,14 @@
         }
       ],
       "metrics": {
-        "views": 14308,
+        "views": 14336,
         "likes": 238,
         "bookmarks": 22,
         "reposts": 7,
         "quotes": 2,
         "replies": 22,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -3723,14 +5152,14 @@
       "text": "Fable 5.2 is now available in the Claude Platform and Claude Code. \n\nIt’s up to 30% faster than Fable 5.1, and costs $8/$40 per 1M tokens, down from $10/$50.",
       "media": [],
       "metrics": {
-        "views": 523726,
-        "likes": 11191,
+        "views": 530463,
+        "likes": 11196,
         "bookmarks": 835,
         "reposts": 670,
-        "quotes": 190,
-        "replies": 321,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "quotes": 191,
+        "replies": 322,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "價格／速度來源：官方 @ClaudeDevs（$8/$40；最多快 30%）"
     },
@@ -3751,14 +5180,14 @@
       "text": "Fast mode is also available for Fable 5.2. \n\n2.5x faster output, for twice the price. In the Claude API, set \"speed\": \"fast\". In Claude Code, toggle fast mode in the model picker, which will bill through extra usage credits.\n\nhttps://platform.claude.com/docs/build-with-claude/fast-mode",
       "media": [],
       "metrics": {
-        "views": 43862,
-        "likes": 438,
+        "views": 44079,
+        "likes": 439,
         "bookmarks": 15,
         "reposts": 10,
         "quotes": 4,
         "replies": 10,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "官方：Fast mode 約 2.5× 輸出、價格 2×；常見二手寫成 $16/$80 → 標「未核實」"
     },
@@ -3779,14 +5208,14 @@
       "text": "We're giving Ultra and Team Premium users Fable resets based on how long you've subscribed:\n\n<6 mo: 1\n6–12 mo: 2\n>12 mo: 3\n\nUse them anytime by March 8.\n\nPro and Team Standard get a week to try Fable 5.2, up to half your weekly limit, plus one reset. https://support.claude.com/en/articles/17506494",
       "media": [],
       "metrics": {
-        "views": 544573,
-        "likes": 2679,
+        "views": 548103,
+        "likes": 2680,
         "bookmarks": 415,
         "reposts": 183,
-        "quotes": 299,
-        "replies": 215,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "quotes": 300,
+        "replies": 216,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -3821,8 +5250,8 @@
         "reposts": 0,
         "quotes": 0,
         "replies": 0,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "開發者相容性提醒"
     },
@@ -3851,14 +5280,14 @@
         }
       ],
       "metrics": {
-        "views": 19947,
+        "views": 20027,
         "likes": 26,
         "bookmarks": 11,
         "reposts": 0,
         "quotes": 1,
         "replies": 18,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -3879,14 +5308,14 @@
       "text": "Claude Fable 5.2 发布：比 Opus 5.5 强一档，API 降价两成；Max、Ultra 用法不变，Pro 这一周用 Fable 不另收费\n\nAnthropic 11 月 9 日发布 Claude Fable 5.2 和 Claude Mythos 5.2，这是它最高端的一档模型。官方说，在测过的几乎所有能力上，新模型都比 Opus 5.5 强一档；输出速度比 5.1 最多快",
       "media": [],
       "metrics": {
-        "views": 1763,
+        "views": 1786,
         "likes": 3,
         "bookmarks": 0,
         "reposts": 0,
         "quotes": 0,
         "replies": 2,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "價格 $8/$40 與官方一致；Fast mode $16/$80：未核實（推自「兩倍價」，非 ClaudeDevs 原帖美元）"
     },
@@ -3915,14 +5344,14 @@
         }
       ],
       "metrics": {
-        "views": 2049,
+        "views": 2103,
         "likes": 2,
         "bookmarks": 0,
         "reposts": 0,
         "quotes": 1,
         "replies": 3,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -3949,8 +5378,8 @@
         "reposts": 0,
         "quotes": 0,
         "replies": 0,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -3979,14 +5408,14 @@
         }
       ],
       "metrics": {
-        "views": 48,
+        "views": 49,
         "likes": 0,
         "bookmarks": 0,
         "reposts": 0,
         "quotes": 0,
         "replies": 1,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -4015,14 +5444,14 @@
         }
       ],
       "metrics": {
-        "views": 15864,
+        "views": 15916,
         "likes": 210,
         "bookmarks": 24,
         "reposts": 14,
         "quotes": 1,
         "replies": 13,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "截圖來源未標；數字轉述"
     },
@@ -4043,14 +5472,14 @@
       "text": "Anthropic 正式发布 Claude Fable 5.2 和 Claude Mythos 5.2！\n\n这次升级有点猛，几个细节值得关注：\n\n1. 1000 个 Agent，30 小时完成费马大定理的形式化证明。\n\nAnthropic 称，1000 个 Fable 5.2 Agent 协同工作，只用了 30 小时就完成了费马大定理证明的形式化。此前的研究版本花了 11 天。\n\n2. 从零打造一个操作系统。\n\nFable 5.2 协调 1000 多个子 Agent，连续工作 8 天，从空文件夹开始，最终做出了一个可以在笔记本电脑上启动的操作系统。\n\n3. 编码能力进一步拉开差距。\n\n在 FrontierCode 2.0 测试中，Fable 5.2 的 Xhigh 成绩达到 49.1%，超过 Opus 5.5 的 45.5% 和 GPT-6 Astra 的 42.8%。\n\n4. 更快，而且更便宜。\n\n相比 Fable 5.1，生成速度最高提升 30%。\n\nAPI 价格也下调至：\n\n- 输入：$8 / 百万 Token\n- 输出：$40 / 百万 Token\n\n另外还提供 Fast Mode，最高提速 2.5 倍。\n\n5. Fable 和 Mythos 到底有什么区别？\n\n两者实际上是同一个底层模型。Fable 配备更严格的网络安全和生物安全防护，面向普通用户；Mythos 则面向经过审核的网络安全和生命科学研究机构。\n\n值得注意的是，Claude Fable 5.2 的 API 已经同步开放，模型 ID 为 claude-fable-5-2，Claude Platform、AWS、Google Cloud 和 Azure 均已支持。\n\n这次 Anthropic 想展示的，显然不只是一个更聪明的聊天模型，而是一个能够协调大量 Agent，持续完成复杂工程、数学和科研任务的 AI。",
       "media": [],
       "metrics": {
-        "views": 2866,
+        "views": 2899,
         "likes": 7,
         "bookmarks": 3,
         "reposts": 0,
         "quotes": 1,
         "replies": 10,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -4079,14 +5508,14 @@
         }
       ],
       "metrics": {
-        "views": 212064,
+        "views": 212958,
         "likes": 1687,
         "bookmarks": 249,
         "reposts": 99,
         "quotes": 19,
         "replies": 68,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "轉述官方數字＋截圖，非作者自測"
     },
@@ -4115,14 +5544,14 @@
         }
       ],
       "metrics": {
-        "views": 870,
+        "views": 880,
         "likes": 9,
         "bookmarks": 0,
         "reposts": 0,
         "quotes": 0,
         "replies": 2,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -4151,14 +5580,14 @@
         }
       ],
       "metrics": {
-        "views": 26251,
+        "views": 26335,
         "likes": 67,
         "bookmarks": 17,
         "reposts": 7,
         "quotes": 1,
         "replies": 16,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -4187,14 +5616,14 @@
         }
       ],
       "metrics": {
-        "views": 51163,
+        "views": 51980,
         "likes": 474,
         "bookmarks": 43,
         "reposts": 32,
         "quotes": 17,
         "replies": 38,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "平台整合＋基準圖"
     },
@@ -4223,14 +5652,14 @@
         }
       ],
       "metrics": {
-        "views": 5828,
+        "views": 5864,
         "likes": 41,
         "bookmarks": 10,
         "reposts": 3,
         "quotes": 1,
         "replies": 11,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -4266,14 +5695,14 @@
         }
       ],
       "metrics": {
-        "views": 52701,
+        "views": 52808,
         "likes": 192,
         "bookmarks": 50,
         "reposts": 13,
         "quotes": 0,
         "replies": 25,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "轉述官方數字；含 vs Mythos／Opus／GPT 對照敘述"
     },
@@ -4302,14 +5731,14 @@
         }
       ],
       "metrics": {
-        "views": 102591,
+        "views": 103072,
         "likes": 1235,
         "bookmarks": 189,
         "reposts": 91,
-        "quotes": 25,
+        "quotes": 26,
         "replies": 42,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "提到測試場景但未完整公開 prompt"
     },
@@ -4338,14 +5767,14 @@
         }
       ],
       "metrics": {
-        "views": 6273,
+        "views": 6299,
         "likes": 47,
         "bookmarks": 3,
         "reposts": 3,
         "quotes": 0,
         "replies": 2,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -4372,8 +5801,8 @@
         "reposts": 0,
         "quotes": 0,
         "replies": 0,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": ""
     },
@@ -4402,14 +5831,14 @@
         }
       ],
       "metrics": {
-        "views": 487,
+        "views": 501,
         "likes": 12,
         "bookmarks": 8,
         "reposts": 0,
         "quotes": 0,
         "replies": 1,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "轉述官方／基準表，非獨立復現"
     },
@@ -4430,14 +5859,14 @@
       "text": "Fable 5.2 is here! I had early access and tested @claudeai's new model head to head against Opus 5.5 across 5 use cases:\n\n1. Travel video of Japan\n2. 3D kart racing game\n3. Website redesign\n4. Writing a 600-word essay without slop\n5. Holding its ground when I push back\n\nFable won 4 of 5, but Opus still won one. Watch my video to find out which one.\n\n📌 Watch here: https://youtu.be/SsSKJA0EHD4",
       "media": [],
       "metrics": {
-        "views": 98648,
-        "likes": 199,
+        "views": 100258,
+        "likes": 200,
         "bookmarks": 89,
         "reposts": 11,
         "quotes": 3,
         "replies": 46,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "媒體在 YouTube，非 X 內嵌；標明對比 Mythos／Fable 與 Opus 5.5; 提到測試場景但未完整公開 prompt"
     },
@@ -4458,14 +5887,14 @@
       "text": "I paid $642 for a f*cking iceberg. Fable 5.2 High vs Ultra\n\nSame model. Same prompt. Only the effort changes.\n\nFable 5.2 High - $24.31, 1h 05m\nFable 5.2 Extra High - $43.79, 3h 09m\nFable 5.2 Max - $87.99, 3h 28m\nFable 5.2 Ultra - $642.42, 10h 21m\n\nHigh forgot the aurora.\nUltra made the ice glow and dove under the water.\n\n26x the price. Is it 26x better?",
       "media": [],
       "metrics": {
-        "views": 104379,
+        "views": 112651,
         "likes": 279,
-        "bookmarks": 127,
+        "bookmarks": 130,
         "reposts": 4,
         "quotes": 20,
         "replies": 51,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "作者自述同 prompt 不同努力檔的花費，本庫沒有核帳。"
     },
@@ -4486,14 +5915,14 @@
       "text": "Claude Fable 5.2 有点尴尬了。\n\n用代码生成一个 3D 圣诞雪球。\n🎄 Fable 5.2\n耗时：21 分钟\n花费：6.97 美元\n🎄 Opus 5.5\n耗时：28 分钟\n花费：6.21 美元\n\n看着fable 5.2 也不是很强啊，效果差不多，还贵了。\n\n",
       "media": [],
       "metrics": {
-        "views": 1666,
+        "views": 1677,
         "likes": 10,
         "bookmarks": 1,
         "reposts": 0,
         "quotes": 0,
         "replies": 7,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "作者自述成本對比。"
     },
@@ -4514,14 +5943,14 @@
       "text": "Fable 5.2 和 Opus 5.5：火箭发射场景测试\n\n1. Fable 5.2\n23.45 美元\n32 分钟\n细节和真实感都很出色\n2. Opus 5.5\n10.35 美元\n24 分钟\n\nFable 5.2 的效果确实好\n但原本期待它更有效率\n或者至少价格能更接近 Fable 5.1",
       "media": [],
       "metrics": {
-        "views": 59,
+        "views": 63,
         "likes": 1,
         "bookmarks": 0,
         "reposts": 1,
         "quotes": 0,
         "replies": 1,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "作者自述。這是價格帖，不是冰之大教堂的搬運。"
     },
@@ -4542,14 +5971,14 @@
       "text": "Fable5.2を一通り触った結論としては\n・めちゃくちゃ性能いいけど、さすがにコスパは良くない\n・ほとんどの場合においては、Opus 5.5使った方がいい\n\n・200ドルPlanで Opus 5.5だけ使うと1万5000ドル分ぐらい使えるけど、Fableだと週次制限抜きで3000ドル分ぐらいしか使えない",
       "media": [],
       "metrics": {
-        "views": 386,
+        "views": 387,
         "likes": 1,
         "bookmarks": 0,
         "reposts": 1,
         "quotes": 0,
         "replies": 0,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "作者自述額度換算，未核實。"
     },
@@ -4570,14 +5999,14 @@
       "text": "Deepseek vs Fable 5.2来了！！！\n\n在这个挑战场景Fable 5.2似乎发挥不出神力？或者是Deepseek也足够好了，\n\n虽然我觉得Fable5.2开头的效果有点惊艳，但是我觉得整体Deepseek的效果完全不落下风，\n\n但是成本呢？谷时API差价可以达到恐怖的60倍！",
       "media": [],
       "metrics": {
-        "views": 5306,
+        "views": 5376,
         "likes": 30,
         "bookmarks": 6,
         "reposts": 0,
         "quotes": 0,
         "replies": 13,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "作者自述，價差未核實。"
     },
@@ -4598,14 +6027,14 @@
       "text": "This is Fable 5.2 on LOW. The lowest setting 😳\n\nA full 3D seaplane scene with an island, water that actually looks like water, and its own camera modes. Apparently Opus 5.5 couldn't touch it on the same prompt, and the High runs are even crazier",
       "media": [],
       "metrics": {
-        "views": 706,
+        "views": 724,
         "likes": 27,
         "bookmarks": 0,
         "reposts": 0,
         "quotes": 0,
         "replies": 10,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "作者自述。同題的中文轉述帖不另收。"
     },
@@ -4626,14 +6055,14 @@
       "text": "Fable 5.2 的 launch video 太优雅了。\n\n我让 Fable 5.2 自己把这个风格做成了 Skill：一条弧形的地平线，一个小人从左走到右，25 种场景可以随意组合。给它产品名和 Logo，就能出一支你自己的 4K 发布片。",
       "media": [],
       "metrics": {
-        "views": 8501,
+        "views": 8663,
         "likes": 45,
         "bookmarks": 42,
         "reposts": 3,
         "quotes": 1,
         "replies": 7,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "偏宣傳。帖文末句點名一個外部技能站，本庫不收該名稱。"
     },
@@ -4662,14 +6091,14 @@
         }
       ],
       "metrics": {
-        "views": 380448,
-        "likes": 2161,
-        "bookmarks": 346,
-        "reposts": 167,
-        "quotes": 116,
-        "replies": 130,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "views": 399063,
+        "likes": 2183,
+        "bookmarks": 350,
+        "reposts": 170,
+        "quotes": 118,
+        "replies": 133,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "基準公告，不進畫廊。引用官宣主帖。"
     },
@@ -4698,14 +6127,14 @@
         }
       ],
       "metrics": {
-        "views": 87456,
+        "views": 87784,
         "likes": 775,
         "bookmarks": 180,
         "reposts": 39,
         "quotes": 17,
         "replies": 117,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "編程基準實測，不進畫廊。"
     },
@@ -4734,14 +6163,14 @@
         }
       ],
       "metrics": {
-        "views": 3633,
+        "views": 3704,
         "likes": 26,
         "bookmarks": 6,
         "reposts": 1,
         "quotes": 1,
         "replies": 1,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "上一則 105 錯實測的續帖，不進畫廊。"
     },
@@ -4762,14 +6191,14 @@
       "text": "Fable 5.2 can make a film from one prompt\n\nMost of those films will be forgotten in a day\n\nA longer prompt won't save them, the problem is how you direct it\n\nI broke down 9 lessons from 40 finished films, with every prompt, setting and number ↓ https://t.co/87fmYIWKrx",
       "media": [],
       "metrics": {
-        "views": 48216,
-        "likes": 72,
-        "bookmarks": 208,
-        "reposts": 5,
-        "quotes": 8,
+        "views": 104648,
+        "likes": 124,
+        "bookmarks": 365,
+        "reposts": 11,
+        "quotes": 10,
         "replies": 8,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "教程／經驗帖，畫面不進畫廊；提示詞在外鏈，未在帖文逐字核對，prompt 保持 null。"
     },
@@ -4798,14 +6227,14 @@
         }
       ],
       "metrics": {
-        "views": 2518,
+        "views": 2558,
         "likes": 31,
         "bookmarks": 14,
         "reposts": 0,
         "quotes": 0,
         "replies": 4,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "成本對照，不進畫廊。"
     },
@@ -4834,14 +6263,14 @@
         }
       ],
       "metrics": {
-        "views": 3935,
-        "likes": 125,
-        "bookmarks": 31,
-        "reposts": 10,
-        "quotes": 1,
-        "replies": 5,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "views": 6965,
+        "likes": 198,
+        "bookmarks": 49,
+        "reposts": 17,
+        "quotes": 2,
+        "replies": 10,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "對齊評測圖表，不進畫廊。05:50 HKT 發布，上一輪 06:01 自查時仍太新。"
     },
@@ -4862,14 +6291,14 @@
       "text": "Use Opus as your main model and Fable 5.2 as its advisor in Claude Code.\n\nOpus handles every turn, while Fable 5.2 steps in at critical moments:  \n\n- choosing an approach\n- debugging recurring errors\n- reviewing work before completion\n\nYou get Fable’s judgment without paying Fable",
       "media": [],
       "metrics": {
-        "views": 1350,
-        "likes": 32,
-        "bookmarks": 25,
-        "reposts": 0,
-        "quotes": 0,
-        "replies": 16,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "views": 31137,
+        "likes": 525,
+        "bookmarks": 569,
+        "reposts": 29,
+        "quotes": 6,
+        "replies": 59,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "工作流建議，不進畫廊。"
     },
@@ -4898,14 +6327,14 @@
         }
       ],
       "metrics": {
-        "views": 427,
-        "likes": 10,
-        "bookmarks": 3,
-        "reposts": 0,
-        "quotes": 0,
-        "replies": 2,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "views": 560728,
+        "likes": 4395,
+        "bookmarks": 2138,
+        "reposts": 249,
+        "quotes": 74,
+        "replies": 241,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "預覽幀是印著 PC BUILD KIT、ASSEMBLED BY FABLE 5.2 的紙箱圖，不是組裝過程。不進畫廊。"
     },
@@ -4955,16 +6384,159 @@
         }
       ],
       "metrics": {
-        "views": 420,
-        "likes": 10,
+        "views": 482,
+        "likes": 11,
         "bookmarks": 2,
-        "reposts": 0,
+        "reposts": 1,
         "quotes": 0,
         "replies": 2,
-        "snapshot": "2026-11-13 12:05:00 Asia/Hong_Kong(UTC+8)",
-        "source": "fable52-bot-2026-11-13-1205"
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
       },
       "notes": "平台基準，不進畫廊。其中一幀「準確的美國地圖」單題時間（5.1 約 15 分 12 秒、5.2 約 21 分 5 秒）與帖文寫的 15 次平均推理時間不同，不要混用。"
+    },
+    {
+      "id": "2121216542574567842",
+      "slug": "flxrnc-567842",
+      "author": "flxrnc",
+      "author_url": "https://x.com/flxrnc",
+      "post_url": "https://x.com/flxrnc/status/2121216542574567842",
+      "section": "benchmarks",
+      "title": "十五個免費倉庫，用來讓 Fable 重做動畫",
+      "summary": "作者整理 15 個免費倉庫／資源（Rea-Video、Lemo-Opuscar、EffectCraft、PixelFX、Awesome Opus 5.5 Videos 的 703 則提示詞等），稱交給 Fable 5.2 就能重做看過的動畫。此為資源清單，不是作者自製畫面演示，不進畫廊。",
+      "created_at": "2026-11-13 20:20:08 Asia/Hong_Kong(UTC+8)",
+      "counts_as_video": false,
+      "mythos_comparison": false,
+      "seed_category": "編程實測",
+      "seed_type": "原帖",
+      "text": "Fable 5.2 can copy any animation you see with these 15 repos\n\nRea-Video. Lemo-Opuscar. EffectCraft. PixelFX. Remotion.\n\n99 film styles, 244 effects and 703 prompts in one list\n\nEvery repo below costs $0:\n\nRea-Video → breaks down any video and rebuilds it\nhttps://t.co/ddVj84xsOJ\n\nLemo-Opuscar → 99 movie styles, all shot in code\nhttps://t.co/PREjzrl6Sk\n\nEffectCraft → motion graphics and VFX without paid software\nhttps://t.co/W087JtoVr3\n\nPixelFX → 244 retro pixel effects, ready to drop in\nhttps://t.co/20qs95QAOR\n\nAwesome Opus 5.5 Videos → 703 prompts from viral AI videos\nhttps://t.co/HaoGsD5240\n\nHyperFrames → your agent's HTML, played as a video\nhttps://t.co/dOZZVJZopQ\n\nRemotion → video built with the same code as websites\nhttps://t.co/znpMp7SpNi\n\nRemotion Skills → official video tips your agent actually follows\nhttps://t.co/eNG5a2aQJc\n\nBlender MCP → Blender does what your agent says\nhttps://t.co/QWCqTa15R2\n\nThree.js → real 3D on any device\nhttps://t.co/BgbvnRcMUt\n\nGSAP → letters that fly, bounce and slide\nhttps://t.co/8B97Y22Tkg\n\nComfyUI → AI visuals with full control\nhttps://t.co/RN6kGEDwOT\n\nUnslop → turns robotic AI design into real design\nhttps://t.co/TVsSAVgnQH\n\nImpeccable → your design, polished to pro level\nhttps://t.co/LUVwZwOvKe\n\nAnthropic Skills → Claude's own design and code skills\nhttps://t.co/Vv6bIuB6iT\n\n$3,000 VFX artist → $0\n\nGive the full list to Fable 5.2 and remake your favorite video\n\nNext stop is the article below, everything about motion design with Fable 5.2 ↓",
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 24.0,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121214721428725760/img/rEtivyB--3Xdz2n6.jpg"
+        }
+      ],
+      "metrics": {
+        "views": 45475,
+        "likes": 1035,
+        "bookmarks": 1763,
+        "reposts": 102,
+        "quotes": 5,
+        "replies": 14,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "notes": "資源與提示詞合集，引用作者先前「四十部影片的九條導演經驗」帖；不進畫廊。"
+    },
+    {
+      "id": "2121439128965525892",
+      "slug": "gaoyy9-525892",
+      "author": "gaoyy9",
+      "author_url": "https://x.com/gaoyy9",
+      "post_url": "https://x.com/gaoyy9/status/2121439128965525892",
+      "section": "pricing",
+      "title": "稱 v0 可免費呼叫原生 Fable 5.2 介面",
+      "summary": "作者稱在 v0 上能免費使用 anthropic/claude-fable-5.2，用 +86 與 +852 手機號都能註冊過驗證，並稱抓包見到後台走原生介面、不是套殼。此為使用途徑說明，不是模型畫面實測，不進畫廊。",
+      "created_at": "2026-11-14 11:04:37 Asia/Hong_Kong(UTC+8)",
+      "counts_as_video": false,
+      "mythos_comparison": false,
+      "seed_category": "額度速度成本",
+      "seed_type": "原帖",
+      "text": "v0 上能免费使用 Anthropic/claude-fable-5.2 \n实测用 +86 和 +852 手机号都能直接注册过验证，抓包看了一眼后台请求，确实跑的是 anthropic/claude-fable-5.2 原生接口，没套壳。\n地址https://t.co/dQ4Ox4JUv2 https://t.co/g3vUAoyGz6",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1122,
+          "height": 1222,
+          "thumbnail_url": "https://pbs.twimg.com/media/HXDcDXKa4AAKsjR.jpg"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1126,
+          "height": 739,
+          "thumbnail_url": "https://pbs.twimg.com/media/HXDcDsnaAAAS_53.png"
+        }
+      ],
+      "metrics": {
+        "views": 40145,
+        "likes": 216,
+        "bookmarks": 354,
+        "reposts": 14,
+        "quotes": 1,
+        "replies": 35,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "notes": "使用途徑與抓包說明，預覽是註冊／控制臺截圖，不進畫廊。本庫未核實該站點。"
+    },
+    {
+      "id": "2121455178570436847",
+      "slug": "TekonBurns-436847",
+      "author": "TekonBurns",
+      "author_url": "https://x.com/TekonBurns",
+      "post_url": "https://x.com/TekonBurns/status/2121455178570436847",
+      "section": "benchmarks",
+      "title": "Coding Agent Index v2.1：Fable High 與 Opus Max 同為 58 分",
+      "summary": "作者轉述 Artificial Analysis Coding Agent Index v2.1：Claude Opus 5.5 max 58 分，Fable 5.2 high 也是 58 分，Fable 5.2 max 因任務逾時掉到 56 分，並寫單次任務約 $44.22。作者據此建議不要把 5 小時額度與 $200 Ultra 浪費在 Fable max。數字為二手轉述，本庫未復現；本輪未找到該榜官方原帖。",
+      "created_at": "2026-11-14 12:08:23 Asia/Hong_Kong(UTC+8)",
+      "counts_as_video": false,
+      "mythos_comparison": false,
+      "seed_category": "額度速度成本",
+      "seed_type": "原帖",
+      "text": "💀Heavy Claude Code users were right all week about maining Opus 5.5 over maxed-out Fable 5.2.\n\nArtificial Analysis Coding Agent Index v2.1 just put hard receipts on why:\n\n→ Claude Opus 5.5 max: 58\n→ Claude Fable 5.2 high: 58\n→ Claude Fable 5.2 max: drops to 56 on task timeouts at $44.22 per task\n\nStop torching your 5-hour and $200 Ultra bars on Fable max effort when Opus 5.5 ties #1 for a fraction of the burn.",
+      "media": [],
+      "metrics": {
+        "views": 24144,
+        "likes": 164,
+        "bookmarks": 37,
+        "reposts": 1,
+        "quotes": 4,
+        "replies": 42,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "notes": "基準轉述，無畫面，不進畫廊。未找到 Artificial Analysis 官方原帖，故收這則互動最高的轉述。"
+    },
+    {
+      "id": "2121647647425511763",
+      "slug": "MrTacticalX-511763",
+      "author": "MrTacticalX",
+      "author_url": "https://x.com/MrTacticalX",
+      "post_url": "https://x.com/MrTacticalX/status/2121647647425511763",
+      "section": "pricing",
+      "title": "建議 Fable 當編排、Opus 當子代理",
+      "summary": "作者稱自己的用法是讓 Fable 5.2 當編排、Opus 5.5 當子代理；經驗上 Fable 大約比 Opus 好 10–15%，但價格約高一倍，並且只用 High 或 Extra High。此為工作流建議，不進畫廊。",
+      "created_at": "2026-11-15 00:53:12 Asia/Hong_Kong(UTC+8)",
+      "counts_as_video": false,
+      "mythos_comparison": false,
+      "seed_category": "額度速度成本",
+      "seed_type": "原帖",
+      "text": "I can’t stop using Fable 5.2, it’s a really good model…\n\nI think the best way to work is to use Fable 5.2 as an orchestrator with Opus 5.5 sub agents.\n\nFrom my experience Fable 5.2 is around 10-15% better than Opus 5.5 for double the price.\n\nI also only ever use it on High or Extra high.",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1206,
+          "height": 814,
+          "thumbnail_url": "https://pbs.twimg.com/media/HXGbSmVW4AAu7Wl.jpg"
+        }
+      ],
+      "metrics": {
+        "views": 2200,
+        "likes": 41,
+        "bookmarks": 9,
+        "reposts": 0,
+        "quotes": 1,
+        "replies": 19,
+        "snapshot": "2026-11-15 06:10:00 Asia/Hong_Kong(UTC+8)",
+        "source": "fable52-bot-2026-11-15-0610"
+      },
+      "notes": "工作流建議，預覽是流程示意截圖，不進畫廊。數字為作者自述。"
     }
   ],
   "excluded": [
