@@ -161,13 +161,14 @@ def check(data: dict) -> list[str]:
         fail(errors, "context_count mismatch")
     if len(excluded) != meta["excluded_count"]:
         fail(errors, "excluded_count mismatch")
-    # Pinned after the 2026-11-15 18:25 HKT sync
+    # Pinned after the 2026-11-16 00:25 HKT sync
     # (105 at 2026-11-12 17:55 HKT; +7 gallery, +4 context -> 116 at
     # 2026-11-13 12:05 HKT; +27 gallery, +4 context -> 147 at
     # 2026-11-15 06:10 HKT; +16 gallery, +3 context -> 166 at
-    # 2026-11-15 12:20 HKT; +24 gallery, +4 context).
-    if len(ids) != 194:
-        fail(errors, f"expected 194 posts, found {len(ids)}")
+    # 2026-11-15 12:20 HKT; +24 gallery, +4 context -> 194 at
+    # 2026-11-15 18:25 HKT; +25 gallery, +6 context).
+    if len(ids) != 225:
+        fail(errors, f"expected 225 posts, found {len(ids)}")
 
     by_cat = Counter(item["category"] for item in gallery)
     for key, label in CATEGORY_LABELS.items():
