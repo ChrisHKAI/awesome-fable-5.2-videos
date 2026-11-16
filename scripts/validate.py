@@ -161,7 +161,7 @@ def check(data: dict) -> list[str]:
         fail(errors, "context_count mismatch")
     if len(excluded) != meta["excluded_count"]:
         fail(errors, "excluded_count mismatch")
-    # Pinned after the 2026-11-17 00:40 HKT sync
+    # Pinned after the 2026-11-17 06:40 HKT sync
     # (105 at 2026-11-12 17:55 HKT; +7 gallery, +4 context -> 116 at
     # 2026-11-13 12:05 HKT; +27 gallery, +4 context -> 147 at
     # 2026-11-15 06:10 HKT; +16 gallery, +3 context -> 166 at
@@ -170,9 +170,10 @@ def check(data: dict) -> list[str]:
     # 2026-11-16 00:25 HKT; +28 gallery, +1 context -> 254 at
     # 2026-11-16 06:20 HKT; +27 gallery, +7 context -> 288 at
     # 2026-11-16 12:30 HKT; +9 gallery, +10 context -> 307 at
-    # 2026-11-16 18:15 HKT; +33 gallery, +18 context).
-    if len(ids) != 358:
-        fail(errors, f"expected 358 posts, found {len(ids)}")
+    # 2026-11-16 18:15 HKT; +33 gallery, +18 context -> 358 at
+    # 2026-11-17 00:40 HKT; +30 gallery, +26 context -> 414).
+    if len(ids) != 414:
+        fail(errors, f"expected 414 posts, found {len(ids)}")
 
     by_cat = Counter(item["category"] for item in gallery)
     for key, label in CATEGORY_LABELS.items():
@@ -242,7 +243,18 @@ def check(data: dict) -> list[str]:
             if body != item["prompt"]:
                 fail(errors, f"{item['id']} prompt file does not match json")
             if item["prompt"] not in item["text"]:
-                fail(errors, f"{item['id']} prompt is not an exact substring of the post")
+                # A prompt transcribed from a reviewed preview frame is not
+                # pasted into the post. The note must say 預覽幀, and the
+                # file body must still match `prompt` exactly.
+                note = item.get("prompt_note") or ""
+                from_frame = (
+                    item.get("preview_frame_reviewed") is True and "預覽幀" in note
+                )
+                if not from_frame:
+                    fail(
+                        errors,
+                        f"{item['id']} prompt is not an exact substring of the post",
+                    )
             if "未公開" in item["prompt"]:
                 fail(errors, f"{item['id']} prompt file contains a placeholder")
 
