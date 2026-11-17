@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-17 18:54:42 Asia/Hong_Kong(UTC+8)",
+  "checked_at": "2026-11-18 00:39:16 Asia/Hong_Kong(UTC+8)",
   "method": "GET x.com status pages (HTML must contain the status id, else blocked); HEAD preview images on pbs.twimg.com; every status url is matched to https://x.com/{handle}/status/{id} and checked unique before the request",
   "summary": {
-    "ok": 824,
+    "ok": 894,
     "blocked": 0,
     "dead": 0,
     "error": 0
@@ -3759,6 +3759,294 @@
       "class": "ok"
     },
     {
+      "url": "https://x.com/vib3coded/status/2122640890309050820",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122639973312610304/img/PEv1FIztew-Mp9ao.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/BlendiByl/status/2122673770607591855",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122671708192833536/img/FoZh_q3VpEUUrbIk.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/LexnLin/status/2122698775831671258",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122459630492123136/img/o6i9jJZi3EN6opHo.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/nakazakifam/status/2122659806934700420",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122658186775683072/img/KIj8swWR30TFbdVq.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/de_nier_ai/status/2122705971046945175",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HXVdqJobQAAFJgH.png",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/BubbleBrain/status/2122657369222226137",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HXUxQuna8AAYQHc.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/Ayu_AI_0912/status/2122638728346951930",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122638539628412929/img/kMhkSYf8ukw6huXz.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/vib3coded/status/2122720048020087223",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122719822366527488/img/pKWwGscGCUDAtcxD.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/royalpinto007/status/2122671167232463106",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122669852045533184/img/uBp_qW0kW-aAn27U.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/sh6f/status/2122659678144614799",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HXUyLg5akAArP3R.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/abhinavflac/status/2122719142889627651",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122718907853316096/img/FAE8kxTVmakEMdTV.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/odiak_/status/2122657285990436955",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122657203110969344/img/sPV8xonr_7gtBc0p.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/scottstts/status/2122722178625925461",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122251583370977280/img/JScWcjtB7pCoNt6e.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/den_neko__/status/2122664432501465424",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122659189906620416/img/BUwEFJN6JE3urbJQ.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/Ssr360535694/status/2122652033572356464",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122651979004481536/img/CEar82YQFJYTt1tY.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/Terry_Djony/status/2122685687883591970",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2121809968051703808/img/j8EIcTiuyEmyz2c1.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/ryma_jp/status/2122661027510956244",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122625774314545152/img/5yknPE_tp8-7dUnQ.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/jamesmbickerton/status/2122688041219133815",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122687895064498176/img/X8FgVFbTVcA-CyzA.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/noahtheknown/status/2122643314633511366",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HXUk03baIAAYBd_.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/gamerLeith42/status/2122720465731076473",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HXVqoeaaoAAj8y5.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/muradylan/status/2122714516781924612",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122713636032364544/img/dPJmm4gh9zUDOZkB.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/hitoomoi_/status/2122674756768120993",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122674395353436160/img/TI-dx0Q4xWYLw8bd.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/HerozaZhan73432/status/2122727292954955914",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122727246100385792/img/1QKkynb76tbjhEtM.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/designsbhupesh/status/2122707955992928361",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2122706746263412736/img/AsfnXXgMgBvRyDbp.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
       "url": "https://x.com/claudeai/status/2119867114450268322",
       "kind": "post",
       "http_status": 200,
@@ -4888,6 +5176,138 @@
     },
     {
       "url": "https://x.com/Gregoirechp/status/2122578220348235794",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/ViktorKav/status/2122647483281015155",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/xikhar/status/2122682962647122403",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/horiega/status/2122666458312552507",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/AravSrinivas/status/2122713692324384793",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/gigazine/status/2122676208911483114",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/meishengsimon/status/2122646451939586084",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/whoisnilo/status/2122684101563994186",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/hayashimon1/status/2122658200038322327",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/tyw1984/status/2122664382052348165",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/unixzii/status/2122707821481619896",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/entyper/status/2122693945960370257",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/LanzhiAI/status/2122677842811183208",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/lumia_nea/status/2122660270816571412",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/Ssr360535694/status/2122675116261712025",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/studio_veco/status/2122710010774090014",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/LanzhiAI/status/2122637995316764911",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/wuan2026/status/2122639291876888668",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/Ssr360535694/status/2122679020173086932",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/todo_owaru/status/2122706971107496412",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/M__Houser/status/2122724998846775553",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/cosara22/status/2122678397860200839",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/pallavmac/status/2122726390160363922",
       "kind": "post",
       "http_status": 200,
       "class": "ok"
