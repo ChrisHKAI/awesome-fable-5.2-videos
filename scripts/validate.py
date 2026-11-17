@@ -161,7 +161,7 @@ def check(data: dict) -> list[str]:
         fail(errors, "context_count mismatch")
     if len(excluded) != meta["excluded_count"]:
         fail(errors, "excluded_count mismatch")
-    # Pinned after the 2026-11-18 00:40 HKT sync
+    # Pinned after the 2026-11-18 06:55 HKT sync
     # (105 at 2026-11-12 17:55 HKT; +7 gallery, +4 context -> 116 at
     # 2026-11-13 12:05 HKT; +27 gallery, +4 context -> 147 at
     # 2026-11-15 06:10 HKT; +16 gallery, +3 context -> 166 at
@@ -174,9 +174,10 @@ def check(data: dict) -> list[str]:
     # 2026-11-17 06:40 HKT; +30 gallery, +26 context -> 414 at
     # 2026-11-17 12:45 HKT; +22 gallery, +28 context -> 464 at
     # 2026-11-17 18:45 HKT; +17 gallery, +25 context, -1 deleted post -> 505 at
-    # 2026-11-18 00:40 HKT; +24 gallery, +22 context -> 551).
-    if len(ids) != 551:
-        fail(errors, f"expected 551 posts, found {len(ids)}")
+    # 2026-11-18 00:40 HKT; +24 gallery, +22 context -> 551 at
+    # 2026-11-18 06:55 HKT; +15 gallery, +19 context -> 585).
+    if len(ids) != 585:
+        fail(errors, f"expected 585 posts, found {len(ids)}")
 
     by_cat = Counter(item["category"] for item in gallery)
     for key, label in CATEGORY_LABELS.items():
@@ -388,9 +389,14 @@ def fetch(url: str, method: str = "GET") -> tuple[int, str]:
             raw = response.read(180_000)
             return response.status, raw.decode("utf-8", "replace")
     except HTTPError as exc:
-        body = exc.read(80_000).decode("utf-8", "replace") if exc.fp else ""
+        try:
+            body = exc.read(80_000).decode("utf-8", "replace") if exc.fp else ""
+        except (TimeoutError, OSError) as read_exc:
+            body = str(read_exc)
         return exc.code, body
-    except URLError as exc:
+    except (URLError, TimeoutError, OSError) as exc:
+        # A slow read raises TimeoutError, which is not a URLError.
+        # Return status 0 so the caller can retry instead of aborting the run.
         return 0, str(exc)
 
 
