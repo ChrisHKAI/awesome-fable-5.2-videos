@@ -186,9 +186,10 @@ def check(data: dict) -> list[str]:
     # 2026-11-20 06:41 HKT; +19 gallery, +21 context -> 840;
     # 2026-11-20 12:33 HKT; +11 gallery, +19 context -> 870;
     # 2026-11-20 18:31 HKT; +9 gallery, +18 context -> 897;
-    # 2026-11-21 00:41 HKT; +24 gallery, +17 context -> 938).
-    if len(ids) != 938:
-        fail(errors, f"expected 938 posts, found {len(ids)}")
+    # 2026-11-21 00:41 HKT; +24 gallery, +17 context -> 938;
+    # 2026-11-21 06:40 HKT; +11 gallery, +9 context -> 958).
+    if len(ids) != 958:
+        fail(errors, f"expected 958 posts, found {len(ids)}")
 
     by_cat = Counter(item["category"] for item in gallery)
     for key, label in CATEGORY_LABELS.items():
@@ -372,8 +373,11 @@ def check(data: dict) -> list[str]:
 
 MYTHOS_REQUIRED = {"2119867126613954736", "2119867136361316437"}
 # 2026-11-20 18:31 HKT read returned Not Found. Keep the catalog row.
+# 2026-11-21 06:40 HKT link check: @other__reality 2119885430627913784
+# now returns 404. Keep the catalog row; do not delete it to force the count.
 RETAINED_DEAD_POSTS = {
     "https://x.com/abacusai/status/2123587024737431886",
+    "https://x.com/other__reality/status/2119885430627913784",
 }
 
 
@@ -438,7 +442,9 @@ def refresh_links(data: dict) -> None:
             raise SystemExit(f"refusing to check a malformed post url: {url}")
         method = "HEAD" if kind == "preview" else "GET"
         status, body = fetch(url, method)
-        if kind == "preview" and status in {0, 405, 501}:
+        # pbs.twimg.com sometimes answers HEAD with 404 while GET still
+        # returns the JPEG. Retry those before calling a preview dead.
+        if kind == "preview" and status in {0, 404, 405, 501}:
             status, body = fetch(url, "GET")
         if status == 0:
             status, body = fetch(url, method)
@@ -456,7 +462,7 @@ def refresh_links(data: dict) -> None:
         summary.setdefault(key, 0)
     payload = {
         "checked_at": datetime.now(HKT).strftime("%Y-%m-%d %H:%M:%S Asia/Hong_Kong(UTC+8)"),
-        "method": "GET x.com status pages (HTML must contain the status id, else blocked); HEAD preview images on pbs.twimg.com; every status url is matched to https://x.com/{handle}/status/{id} and checked unique before the request",
+        "method": "GET x.com status pages (HTML must contain the status id, else blocked); HEAD preview images on pbs.twimg.com, then GET when HEAD is 404, 405, 501, or the connection fails; every status url is matched to https://x.com/{handle}/status/{id} and checked unique before the request",
         "summary": summary,
         "results": results,
     }
