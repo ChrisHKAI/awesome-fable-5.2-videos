@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-21 18:44:56 Asia/Hong_Kong(UTC+8)",
+  "checked_at": "2026-11-22 00:52:36 Asia/Hong_Kong(UTC+8)",
   "method": "GET x.com status pages (HTML must contain the status id, else blocked); HEAD preview images on pbs.twimg.com, then GET when HEAD is 404, 405, 501, or the connection fails; every status url is matched to https://x.com/{handle}/status/{id} and checked unique before the request",
   "summary": {
-    "ok": 1557,
+    "ok": 1594,
     "dead": 2,
-    "blocked": 1,
+    "blocked": 0,
     "error": 0
   },
   "results": [
@@ -6615,6 +6615,126 @@
       "class": "ok"
     },
     {
+      "url": "https://x.com/aug5thmusic/status/2124143855474024663",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2124143349372469248/img/1t6aWoyVKne2eP05.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/Rubzem/status/2124142554371502140",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2124050659196784640/img/jj6zHqD1nVWP42-0.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/HashemGhaili/status/2124135871293329809",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2124135554807988224/img/w05IwrZr_fEvqEOX.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/vib3coded/status/2124169257676099599",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2124169187018846208/img/F_4J9eJdb15zkQVI.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/scottstts/status/2124171885680505336",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2124170336606257152/img/PDEWNiNOEQQKUMIN.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/KhaliqHussainnn/status/2124137000878170259",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2124092565297188865/img/brUjGuFd4Pe8BEFr.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/Ox_Decrypt/status/2124133162573877548",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2124133105887784960/img/Uaqb66pFMy5AmaW3.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/guilippert_v4/status/2124110586753482802",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HXmdriNXoAAo-0-.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/UFO2002616/status/2124144247632990504",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2124141765766905856/img/3Kj2dwyamaux3yLn.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/srikanthvaluri/status/2124148130501546228",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2124147986804654082/img/oyZL4Cb57CYrtL87.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
       "url": "https://x.com/claudeai/status/2119867114450268322",
       "kind": "post",
       "http_status": 200,
@@ -9309,6 +9429,102 @@
       "class": "ok"
     },
     {
+      "url": "https://x.com/webcreatics/status/2124138544629170412",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/LimestoneHQ/status/2124100527697080755",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/iruletheworldmo/status/2124137989819203930",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/AdamHoltererer/status/2124116123851374777",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/Stefan_3D_AI/status/2124152437493969090",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/DavidOndrej1/status/2124147232635035902",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/ivanfioravanti/status/2124126005464056097",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/AravSrinivas/status/2124174082522685820",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/CapyCola/status/2124115057101664380",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/riffydays/status/2124105973208056168",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/annalea_l/status/2124132668338061609",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/StatsWire/status/2124139174487822577",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/Mayuu_France/status/2124136690885263485",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/aGim_asf/status/2124171110757376307",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/meishengsimon/status/2124141298445963700",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/1lb4rb4r0/status/2124090247336407080",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
       "url": "https://x.com/TokenGremlin/status/2119891566441500782",
       "kind": "post",
       "http_status": 200,
@@ -9341,8 +9557,8 @@
     {
       "url": "https://youtu.be/SsSKJA0EHD4",
       "kind": "external",
-      "http_status": 429,
-      "class": "blocked"
+      "http_status": 200,
+      "class": "ok"
     },
     {
       "url": "https://fable-jerusalem.vercel.app/",
