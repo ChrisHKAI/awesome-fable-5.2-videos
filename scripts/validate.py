@@ -193,9 +193,10 @@ def check(data: dict) -> list[str]:
     # 2026-11-22 00:39 HKT; +10 gallery, +16 context -> 1030;
     # 2026-11-22 06:39 HKT; +12 gallery, +9 context -> 1051;
     # 2026-11-22 12:44 HKT; +3 gallery, +16 context -> 1070;
-    # 2026-11-22 18:43 HKT; +8 gallery, +11 context -> 1089).
-    if len(ids) != 1089:
-        fail(errors, f"expected 1089 posts, found {len(ids)}")
+    # 2026-11-22 18:43 HKT; +8 gallery, +11 context -> 1089;
+    # 2026-11-23 00:43 HKT; +6 gallery, +12 context -> 1107).
+    if len(ids) != 1107:
+        fail(errors, f"expected 1107 posts, found {len(ids)}")
 
     by_cat = Counter(item["category"] for item in gallery)
     for key, label in CATEGORY_LABELS.items():
@@ -381,9 +382,13 @@ MYTHOS_REQUIRED = {"2119867126613954736", "2119867136361316437"}
 # 2026-11-20 18:31 HKT read returned Not Found. Keep the catalog row.
 # 2026-11-21 06:40 HKT link check: @other__reality 2119885430627913784
 # now returns 404. Keep the catalog row; do not delete it to force the count.
+# 2026-11-23 00:43 HKT link check: two gallery posts that were 200 on the
+# previous snapshot now return 404. Keep the catalog rows.
 RETAINED_DEAD_POSTS = {
     "https://x.com/abacusai/status/2123587024737431886",
     "https://x.com/other__reality/status/2119885430627913784",
+    "https://x.com/yunma33331111/status/2123025044817473613",
+    "https://x.com/0xKenny1st/status/2124236453634879821",
 }
 
 
