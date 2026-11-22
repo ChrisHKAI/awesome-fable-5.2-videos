@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-22 07:01:11 Asia/Hong_Kong(UTC+8)",
+  "checked_at": "2026-11-22 12:57:48 Asia/Hong_Kong(UTC+8)",
   "method": "GET x.com status pages (HTML must contain the status id, else blocked); HEAD preview images on pbs.twimg.com, then GET when HEAD is 404, 405, 501, or the connection fails; every status url is matched to https://x.com/{handle}/status/{id} and checked unique before the request",
   "summary": {
-    "ok": 1627,
+    "ok": 1649,
     "dead": 2,
     "blocked": 0,
     "error": 0
@@ -6879,6 +6879,42 @@
       "class": "ok"
     },
     {
+      "url": "https://x.com/FFBuncho/status/2124268636735218057",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2124267536841912320/img/47TB3ZpPRs_rMRDH.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/Masimo_Blue/status/2124340132748927306",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2124329922693066753/img/tetf-piQZ4dj08Ho.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/viora_my/status/2124352385703436484",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2124352334012776448/img/Bn3K6GVR8IOSpkM0.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
       "url": "https://x.com/claudeai/status/2119867114450268322",
       "kind": "post",
       "http_status": 200,
@@ -9718,6 +9754,102 @@
     },
     {
       "url": "https://x.com/Gegam245074/status/2124207179943039340",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/deedydas/status/2124329265688989779",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/MeckaAI/status/2124294152997200049",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/doodlestein/status/2124318624953311372",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/qingzhoucloud/status/2124281180581458158",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/runtimesi/status/2124328160003227754",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/EnvolDev/status/2124329016132096315",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/cfenghub/status/2124275412826296348",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/Ayu_AI_0912/status/2124272896319336707",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/danjan_design/status/2124285730897756201",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/hii_studio_jp/status/2124291767000580213",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/nakaaki04/status/2124284266905575444",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/Ayu_AI_0912/status/2124335055858246114",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/arcwrightengine/status/2124298602009034834",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/arcwrightengine/status/2124313748404129984",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/JBabaTalks/status/2124310624117432800",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/darshil/status/2124341483419656458",
       "kind": "post",
       "http_status": 200,
       "class": "ok"
