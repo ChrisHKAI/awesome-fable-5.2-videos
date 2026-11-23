@@ -198,9 +198,10 @@ def check(data: dict) -> list[str]:
     # 2026-11-23 06:45 HKT; +14 gallery, +12 context -> 1133;
     # 2026-11-23 12:39 HKT; +6 gallery, +12 context -> 1151;
     # 2026-11-23 18:33 HKT; +9 gallery, +11 context -> 1171;
-    # 2026-11-24 00:30 HKT; +7 gallery, +14 context -> 1192).
-    if len(ids) != 1192:
-        fail(errors, f"expected 1192 posts, found {len(ids)}")
+    # 2026-11-24 00:30 HKT; +7 gallery, +14 context -> 1192;
+    # 2026-11-24 06:43 HKT; +15 gallery, +26 context -> 1233).
+    if len(ids) != 1233:
+        fail(errors, f"expected 1233 posts, found {len(ids)}")
 
     by_cat = Counter(item["category"] for item in gallery)
     for key, label in CATEGORY_LABELS.items():
@@ -373,7 +374,8 @@ def check(data: dict) -> list[str]:
             if not row:
                 fail(errors, f"link check missing {item['preview_url']}")
             elif row["class"] == "dead":
-                fail(errors, f"gallery preview dead: {item['preview_url']}")
+                if item["post_url"] not in RETAINED_DEAD_POSTS:
+                    fail(errors, f"gallery preview dead: {item['preview_url']}")
             elif row["class"] not in {"ok", "blocked"}:
                 fail(errors, f"gallery preview {row['class']}: {item['preview_url']}")
         summary = Counter(row["class"] for row in link_data["results"])
@@ -390,6 +392,10 @@ MYTHOS_REQUIRED = {"2119867126613954736", "2119867136361316437"}
 # previous snapshot now return 404. Keep the catalog rows.
 # 2026-11-23 06:45 HKT link check: @abacusai 2123587024737431886 returned
 # Not Found again. Keep the catalog row.
+# 2026-11-24 06:43 HKT link check: the preview images for two gallery posts
+# already retained as 404 (@other__reality 2119885430627913784 and
+# @yunma33331111 2123025044817473613) now also return 404. Keep the rows.
+# A dead preview is allowed only when that post is already in this set.
 RETAINED_DEAD_POSTS = {
     "https://x.com/abacusai/status/2123587024737431886",
     "https://x.com/other__reality/status/2119885430627913784",
