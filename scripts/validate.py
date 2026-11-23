@@ -195,9 +195,10 @@ def check(data: dict) -> list[str]:
     # 2026-11-22 12:44 HKT; +3 gallery, +16 context -> 1070;
     # 2026-11-22 18:43 HKT; +8 gallery, +11 context -> 1089;
     # 2026-11-23 00:43 HKT; +6 gallery, +12 context -> 1107;
-    # 2026-11-23 06:45 HKT; +14 gallery, +12 context -> 1133).
-    if len(ids) != 1133:
-        fail(errors, f"expected 1133 posts, found {len(ids)}")
+    # 2026-11-23 06:45 HKT; +14 gallery, +12 context -> 1133;
+    # 2026-11-23 12:39 HKT; +6 gallery, +12 context -> 1151).
+    if len(ids) != 1151:
+        fail(errors, f"expected 1151 posts, found {len(ids)}")
 
     by_cat = Counter(item["category"] for item in gallery)
     for key, label in CATEGORY_LABELS.items():
