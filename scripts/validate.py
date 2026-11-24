@@ -201,9 +201,10 @@ def check(data: dict) -> list[str]:
     # 2026-11-24 00:30 HKT; +7 gallery, +14 context -> 1192;
     # 2026-11-24 06:43 HKT; +15 gallery, +26 context -> 1233;
     # 2026-11-24 12:34 HKT; +5 gallery, +16 context -> 1254;
-    # 2026-11-24 18:43 HKT; +7 gallery, +16 context -> 1277).
-    if len(ids) != 1277:
-        fail(errors, f"expected 1277 posts, found {len(ids)}")
+    # 2026-11-24 18:43 HKT; +7 gallery, +16 context -> 1277;
+    # 2026-11-25 00:30 HKT; +8 gallery, +12 context -> 1297).
+    if len(ids) != 1297:
+        fail(errors, f"expected 1297 posts, found {len(ids)}")
 
     by_cat = Counter(item["category"] for item in gallery)
     for key, label in CATEGORY_LABELS.items():
@@ -404,12 +405,18 @@ MYTHOS_REQUIRED = {"2119867126613954736", "2119867136361316437"}
 # Keep that catalog row; do not delete it.
 # 2026-11-24 18:43 HKT: both of those posts are still retained if the
 # link check returns Not Found again. Do not re-add 2122512371642196371.
+# 2026-11-25 00:30 HKT: @abacusai 2123587024737431886 returned Not Found
+# again. Keep the catalog row. @stablequan 2122301530414211283 is still
+# 404. Keep it. @kevin_t_ngo 2125115984294117524 (gallery, added previous
+# round) now returns 404; the preview image is still 200. Keep the row.
+# Do not re-add 2122512371642196371.
 RETAINED_DEAD_POSTS = {
     "https://x.com/abacusai/status/2123587024737431886",
     "https://x.com/other__reality/status/2119885430627913784",
     "https://x.com/yunma33331111/status/2123025044817473613",
     "https://x.com/0xKenny1st/status/2124236453634879821",
     "https://x.com/stablequan/status/2122301530414211283",
+    "https://x.com/kevin_t_ngo/status/2125115984294117524",
 }
 
 
