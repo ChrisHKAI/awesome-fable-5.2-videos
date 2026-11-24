@@ -200,9 +200,10 @@ def check(data: dict) -> list[str]:
     # 2026-11-23 18:33 HKT; +9 gallery, +11 context -> 1171;
     # 2026-11-24 00:30 HKT; +7 gallery, +14 context -> 1192;
     # 2026-11-24 06:43 HKT; +15 gallery, +26 context -> 1233;
-    # 2026-11-24 12:34 HKT; +5 gallery, +16 context -> 1254).
-    if len(ids) != 1254:
-        fail(errors, f"expected 1254 posts, found {len(ids)}")
+    # 2026-11-24 12:34 HKT; +5 gallery, +16 context -> 1254;
+    # 2026-11-24 18:43 HKT; +7 gallery, +16 context -> 1277).
+    if len(ids) != 1277:
+        fail(errors, f"expected 1277 posts, found {len(ids)}")
 
     by_cat = Counter(item["category"] for item in gallery)
     for key, label in CATEGORY_LABELS.items():
@@ -401,6 +402,8 @@ MYTHOS_REQUIRED = {"2119867126613954736", "2119867136361316437"}
 # again. Keep the catalog row. Do not re-add 2122512371642196371.
 # The same check: @stablequan 2122301530414211283 now returns 404.
 # Keep that catalog row; do not delete it.
+# 2026-11-24 18:43 HKT: both of those posts are still retained if the
+# link check returns Not Found again. Do not re-add 2122512371642196371.
 RETAINED_DEAD_POSTS = {
     "https://x.com/abacusai/status/2123587024737431886",
     "https://x.com/other__reality/status/2119885430627913784",
