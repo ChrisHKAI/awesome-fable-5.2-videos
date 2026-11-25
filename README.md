@@ -1,20 +1,20 @@
 # Awesome Fable 5.2 Videos
 
-**English.** 679 gallery entries, 14 public prompt, 83 seed posts. Claude Fable 5.2 was announced on 2026-11-10 (HKT, UTC+8) together with Claude Mythos 5.2, by [@claudeai](https://x.com/claudeai/status/2119867114450268322) and [@AnthropicAI](https://x.com/AnthropicAI/status/2119867707546071125). Gallery entries are visual demos whose authors say they made them with Fable 5.2. The official launch video is under Official, not in the gallery. Benchmark roundups and retellings stay out of the gallery. Nothing here was independently reproduced. A prompt file exists only when the author published the exact wording; otherwise the prompt is null. Official API price is $8 / $40 per million tokens. Fast mode at $16 / $80 is second-hand and unverified.
+**English.** 682 gallery entries, 14 public prompt, 83 seed posts. Claude Fable 5.2 was announced on 2026-11-10 (HKT, UTC+8) together with Claude Mythos 5.2, by [@claudeai](https://x.com/claudeai/status/2119867114450268322) and [@AnthropicAI](https://x.com/AnthropicAI/status/2119867707546071125). Gallery entries are visual demos whose authors say they made them with Fable 5.2. The official launch video is under Official, not in the gallery. Benchmark roundups and retellings stay out of the gallery. Nothing here was independently reproduced. A prompt file exists only when the author published the exact wording; otherwise the prompt is null. Official API price is $8 / $40 per million tokens. Fast mode at $16 / $80 is second-hand and unverified.
 
-<!-- seed=83 gallery=679 gallery_in_seed=27 gallery_resolved=652 prompts=14 prompts_partial=3 context=664 excluded=3 -->
+<!-- seed=83 gallery=682 gallery_in_seed=27 gallery_resolved=655 prompts=14 prompts_partial=3 context=676 excluded=3 -->
 
 這份清單收集 **Claude Fable 5.2** 官宣前後的公開帖。畫面畫廊只放**作者自己說用 Fable 5.2 做出來的畫面**。官方宣傳片、把基準表做成的影片、轉述別人的結論，都不算進畫廊。
 
-Anthropic 已在 2026-11-10（香港時間 HKT，UTC+8）宣布這個模型，並同時推出 Claude Mythos 5.2。本庫沒有重跑任何一條。預覽圖是原帖的公開縮圖，完整影片不下載、不轉存。縮圖失效時，以原帖為準。畫廊這 679 張預覽幀有看過；沒有把沒看到的成片內容寫成已經看過。
+Anthropic 已在 2026-11-10（香港時間 HKT，UTC+8）宣布這個模型，並同時推出 Claude Mythos 5.2。本庫沒有重跑任何一條。預覽圖是原帖的公開縮圖，完整影片不下載、不轉存。縮圖失效時，以原帖為準。畫廊這 682 張預覽幀有看過；沒有把沒看到的成片內容寫成已經看過。
 
 作者若把提示詞原文貼了出來，就按字收進 [`prompts/`](prompts/)。只描述了場景、或說「用了同一個 prompt」卻沒貼原文的，prompt 維持 null，畫廊寫「提示詞未公開」。
 
 - 種子帖：83（主清單蒐集於 2026-11-10 03:21:46 Asia/Hong_Kong(UTC+8)；同日稍後補入 30 則，互動與本輪補入的時間是 2026-11-10 12:10:00 Asia/Hong_Kong(UTC+8)）
-- 畫廊：679（種子內原帖：27；轉載還原：652）
+- 畫廊：682（種子內原帖：27；轉載還原：655）
 - 公開提示詞：14（部分提示詞：3；其餘畫廊條目的 prompt 為 null）
-- 脈絡：664。已排除：3
-- 資料快照：2026-11-25 12:34 HKT（香港時間，UTC+8）。互動數字不是即時
+- 脈絡：676。已排除：3
+- 資料快照：2026-11-25 18:39 HKT（香港時間，UTC+8）。互動數字不是即時
 
 官方價格是每百萬 tokens 輸入 **$8**、輸出 **$40**（自 $10／$50），見 [@claudeai](https://x.com/claudeai/status/2119867138987176141) 與 [@ClaudeDevs](https://x.com/ClaudeDevs/status/2119868698613956992)。官方又說輸出最高約快 30%（相對 5.1）。Fast mode 的官方說法是輸出約 **2.5×**、價格 **2×**，見 [@ClaudeDevs](https://x.com/ClaudeDevs/status/2119868701994570178)，該帖沒有寫美元。社群常把 2× 寫成 **$16／$80**。這個美元數字是二手推算，**未核實**。
 
@@ -22,7 +22,7 @@ Mythos 5.2 的帖只在和 Fable 直接對照時留下，並在表裡標成 Myth
 
 ## 目錄
 
-- [代碼場景](#cat-code)（156）
+- [代碼場景](#cat-code)（159）
 - [遊戲與互動](#cat-game)（136）
 - [影片、地圖與聲音](#cat-av)（180）
 - [對照](#cat-comparison)（207）
@@ -32,7 +32,7 @@ Mythos 5.2 的帖只在和 Fable 直接對照時留下，並在表裡標成 Myth
 - [授權與出處](#credits)
 
 <a id="cat-code"></a>
-## 代碼場景（156）
+## 代碼場景（159）
 
 <table>
 <tr><td width="33%" valign="top"><a href="https://x.com/dfeinition/status/2119867661463019972"><img src="https://pbs.twimg.com/amplify_video_thumb/2119867516046512129/img/pF9xsEx4hxbTm4WJ.jpg" alt="蜘蛛網上的露珠" width="100%"></a><br><a href="https://x.com/dfeinition/status/2119867661463019972"><b>蜘蛛網上的露珠</b></a><br><a href="https://x.com/dfeinition">@dfeinition</a> · 提示詞未公開<br><sub>純代碼 · 作者自述</sub><br><sub>公開預覽幀是一張帶露珠的蛛網，背景是模糊的花。</sub><br><sub>7,330 滴、無圖片檔，是作者寫的數字；本庫沒有重跑。</sub></td><td width="33%" valign="top"><a href="https://x.com/maxleiter/status/2119869170871652487"><img src="https://pbs.twimg.com/amplify_video_thumb/2119868875127087104/img/WkMZ-oK0KG6BYsCT.jpg" alt="生命遊戲裡的編譯器" width="100%"></a><br><a href="https://x.com/maxleiter/status/2119869170871652487"><b>生命遊戲裡的編譯器</b></a><br><a href="https://x.com/maxleiter">@maxleiter</a> · 提示詞未公開<br><sub>作者自述</sub><br><sub>公開預覽幀是生命遊戲的說明卡，字幕寫 Each cell is on or off，不是編譯器跑起來的那一段。</sub><br><sub>技術棧作者沒有寫明。提示詞沒有逐字貼出。</sub></td><td width="33%" valign="top"><a href="https://x.com/dfeinition/status/2119870838606381391"><img src="https://pbs.twimg.com/amplify_video_thumb/2119870421478567936/img/odUx_-Y53-zw9S4v.jpg" alt="站、走、說的機器人" width="100%"></a><br><a href="https://x.com/dfeinition/status/2119870838606381391"><b>站、走、說的機器人</b></a><br><a href="https://x.com/dfeinition">@dfeinition</a> · 提示詞未公開<br><sub>純代碼 · 作者自述</sub><br><sub>公開預覽幀停在站立：海邊的機器人，標題寫 From moves to a game，旁邊有 Run。</sub><br><sub>站、走、說的混合是作者描述，這一幀看不見過程。提示詞沒有逐字貼出。</sub></td></tr>
@@ -87,6 +87,7 @@ Mythos 5.2 的帖只在和 Fable 直接對照時留下，並在表裡標成 Myth
 <tr><td width="33%" valign="top"><a href="https://x.com/juliennonnon/status/2125271136003100823"><img src="https://pbs.twimg.com/amplify_video_thumb/2125270740492562432/img/i3bvRqvrou0XQDH7.jpg" alt="Horizon-7 工坊關卡" width="100%"></a><br><a href="https://x.com/juliennonnon/status/2125271136003100823"><b>Horizon-7 工坊關卡</b></a><br><a href="https://x.com/juliennonnon">@juliennonnon</a> · 提示詞未公開<br><sub>code · 作者自述</sub><br><sub>公開預覽偏暗：第一人稱站在夜色工坊走道，可見黃黑條紋護欄與窗光；左上有「PHASE 01 – EXPLORING THE WORKSHOPS」與穿越工坊、尋找地下區域的英文提示，左下 HEALTH 100，右下彈藥 20／∞ 與 TAVOR 5.56 MM。這一幀沒有型號標籤。不要把看不見的戰鬥、後續關卡或過亮細節寫成看得見。</sub><br><sub>本庫沒有重跑；提示詞未公開；成品為作者自述，來源為公開貼文與預覽幀。</sub></td><td width="33%" valign="top"><a href="https://x.com/gracelubw/status/2125332872395735426"><img src="https://pbs.twimg.com/amplify_video_thumb/2125332841386946560/img/VYLJI9_czLKpWy0P.jpg" alt="月下柱廊像素畫面" width="100%"></a><br><a href="https://x.com/gracelubw/status/2125332872395735426"><b>月下柱廊像素畫面</b></a><br><a href="https://x.com/gracelubw">@gracelubw</a> · 提示詞未公開<br><sub>code · 作者自述</sub><br><sub>公開預覽是直向像素畫面：紫色夜空有大月亮與星點，石階上有一名披紅色斗篷、持劍的藍色小人，右側有一尊帶黃眼的石像，兩側有火把與柱列。這一幀沒有型號標籤。不要把看不見的動作或後續鏡頭寫成看得見。</sub><br><sub>本庫沒有重跑；提示詞未公開；成品為作者自述，來源為公開貼文與預覽幀。</sub></td><td width="33%" valign="top"><a href="https://x.com/elreum/status/2125353021089751425"><img src="https://pbs.twimg.com/amplify_video_thumb/2125333541991182337/img/ArmJYdX4N7E6YKhg.jpg" alt="截圖除錯工具示範" width="100%"></a><br><a href="https://x.com/elreum/status/2125353021089751425"><b>截圖除錯工具示範</b></a><br><a href="https://x.com/elreum">@elreum</a> · 提示詞未公開<br><sub>code · 作者自述</sub><br><sub>公開預覽是深色背景上散落多個「Screenshot 2026-11-24 ... png」標籤，中央大字為「14 screenshots. Which one is the login bug?」。這一幀沒有型號標籤。不要把看不見的操作過程或實際截圖內容寫成看得見。</sub><br><sub>本庫沒有重跑；提示詞未公開；成品為作者自述，來源為公開貼文與預覽幀。</sub></td></tr>
 <tr><td width="33%" valign="top"><a href="https://x.com/thegreatola/status/2125357489692565651"><img src="https://pbs.twimg.com/amplify_video_thumb/2125357382129631232/img/4GamZ8yVd9PCL72S.jpg" alt="用 Fable 重做的 MetaMask 風格 iOS 錢包" width="100%"></a><br><a href="https://x.com/thegreatola/status/2125357489692565651"><b>用 Fable 重做的 MetaMask 風格 iOS 錢包</b></a><br><a href="https://x.com/thegreatola">@thegreatola</a> · 提示詞未公開<br><sub>code · 作者自述</sub><br><sub>公開預覽是一款手機錢包首頁：頂欄 09:41、Account 1，中央一隻幾何狐狸在半透明氣泡裡，餘額寫 $17,869.26，下方有 Buy、Swap、Send、Receive，再下是 Perps 的 ETH Long 5x。這一幀沒有型號標籤。作者寫點氣泡可隱藏餘額，但這一幀氣泡仍在、餘額仍看得見。不要把看不見的後續操作或隱藏餘額後的畫面寫成看得見。</sub><br><sub>本庫沒有重跑；提示詞未公開；成品為作者自述，來源為公開貼文與預覽幀。</sub></td><td width="33%" valign="top"><a href="https://x.com/Aurelien_Gz/status/2125362711299235915"><img src="https://pbs.twimg.com/amplify_video_thumb/2125362678445096960/img/uq2abl8x7lxoCiNL.jpg" alt="HTML 魔術把戲插畫" width="100%"></a><br><a href="https://x.com/Aurelien_Gz/status/2125362711299235915"><b>HTML 魔術把戲插畫</b></a><br><a href="https://x.com/Aurelien_Gz">@Aurelien_Gz</a> · 提示詞未公開<br><sub>code · 作者自述</sub><br><sub>公開預覽是平面向量風插畫：粉、藍色塊背景，一對白手套從左右伸出，左手張開、右手持黑白魔杖，前方藍粉禮帽冒出黃色星爆。這一幀沒有型號標籤。不要把看不見的互動過程或其他鏡頭寫成看得見。</sub><br><sub>本庫沒有重跑；提示詞未公開；成品為作者自述，來源為公開貼文與預覽幀。</sub></td><td width="33%" valign="top"><a href="https://x.com/kosta4a/status/2125364953615905131"><img src="https://pbs.twimg.com/amplify_video_thumb/2125364844626849792/img/SzpC_TOSvRWIkFv5.jpg" alt="小件鋼材渲染" width="100%"></a><br><a href="https://x.com/kosta4a/status/2125364953615905131"><b>小件鋼材渲染</b></a><br><a href="https://x.com/kosta4a">@kosta4a</a> · 提示詞未公開<br><sub>code · 作者自述</sub><br><sub>公開預覽是一塊銀亮方形鋼件，中央有梯形鏤空，懸在藍灰漸層背景上，畫面右側可見滑鼠游標。這一幀沒有型號標籤。不要把看不見的轉動或其他角度寫成看得見。</sub><br><sub>本庫沒有重跑；提示詞未公開；成品為作者自述，來源為公開貼文與預覽幀。</sub></td></tr>
 <tr><td width="33%" valign="top"><a href="https://x.com/devteamdrew/status/2125386930007277942"><img src="https://pbs.twimg.com/amplify_video_thumb/2125385207373045760/img/ObdzUWjsmzQSP1BQ.jpg" alt="黎曼假設證明解說短片" width="100%"></a><br><a href="https://x.com/devteamdrew/status/2125386930007277942"><b>黎曼假設證明解說短片</b></a><br><a href="https://x.com/devteamdrew">@devteamdrew</a> · 提示詞未公開<br><sub>code · 作者自述</sub><br><sub>公開預覽是米色紙質背景：一隻褐色方形機器人拿著相框，框裡是一名穿綠衣的男子；上方手寫體寫 On 20 November, Levent Alpöge, with the help of Claude, announced a proof of the Riemann Hypothesis。這一幀沒有型號標籤。不要把看不見的解說後段或聲音寫成看得見。</sub><br><sub>本庫沒有重跑；提示詞未公開；成品為作者自述，來源為公開貼文與預覽幀。</sub></td><td width="33%" valign="top"><a href="https://x.com/iamtanzil_/status/2125385974914146642"><img src="https://pbs.twimg.com/amplify_video_thumb/2125385806408003584/img/pvotuw7oV8Sw27_O.jpg" alt="Palm &amp; Neon 滾動開場頁" width="100%"></a><br><a href="https://x.com/iamtanzil_/status/2125385974914146642"><b>Palm &amp; Neon 滾動開場頁</b></a><br><a href="https://x.com/iamtanzil_">@iamtanzil_</a> · 提示詞未公開<br><sub>code · 作者自述</sub><br><sub>公開預覽是紫、粉、橙漸層天空，左上寫 PALM &amp; NEON，中央一顆發光的橙黃圓球，左下大字 THE CITY WAKES UP ONE SCROLL AT A TIME，右下寫 SCROLL TO START THE DAY。這一幀沒有型號標籤，也沒有街道、車輛或角色。不要把作者所稱的 GTA 6 城市場景，或看不見的滾動後段寫成看得見。</sub><br><sub>本庫沒有重跑；提示詞未公開；成品為作者自述，來源為公開貼文與預覽幀。</sub></td><td width="33%" valign="top"><a href="https://x.com/quimedesu/status/2125419706576208311"><img src="https://pbs.twimg.com/amplify_video_thumb/2125418114548424704/img/n4ax39vcdwacvwkv.jpg" alt="星雲音樂短片" width="100%"></a><br><a href="https://x.com/quimedesu/status/2125419706576208311"><b>星雲音樂短片</b></a><br><a href="https://x.com/quimedesu">@quimedesu</a> · 提示詞未公開<br><sub>code · 作者自述</sub><br><sub>公開預覽是暗紫色星空，中央有一圈模糊的螺旋星雲，畫面偏暗。這一幀沒有型號標籤。不要把看不見的音樂、歌詞或其他鏡頭寫成看得見。</sub><br><sub>本庫沒有重跑；提示詞未公開；成品為作者自述，來源為公開貼文與預覽幀。</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://x.com/ZondarkAI/status/2125506885487034601"><img src="https://pbs.twimg.com/amplify_video_thumb/2125497112507060224/img/H71yadOQtWtAiHmo.jpg" alt="黎曼猜想互動教學網站與短片" width="100%"></a><br><a href="https://x.com/ZondarkAI/status/2125506885487034601"><b>黎曼猜想互動教學網站與短片</b></a><br><a href="https://x.com/ZondarkAI">@ZondarkAI</a> · 提示詞未公開<br><sub>code · 作者自述</sub><br><sub>公開預覽有兩幀。第一幀是雙語教學網站首頁：頂欄有首頁、背景、課程，標題寫「黎曼猜想，到底在說什麼？」與英文 What does the Riemann hypothesis actually say?，下方有「看短片 · 2 分 09 秒」黃鈕與「開始學習」暗鈕，再下是彩色山脈狀可視化，腳註寫這片山脈正在瀏覽器裡運算、1,000 個零點、每幀 59 萬個三角形。第二幀是暗色大廳：兩側金色齒輪列，中央一張空白卷軸，上方有金色時鐘，有光束。這兩幀都沒有型號標籤。不要把看不見的短片後段、互動課程或操作過程寫成看得見。</sub><br><sub>本庫沒有重跑；提示詞未公開；成品為作者自述，來源為公開貼文與預覽幀。</sub></td><td width="33%" valign="top"><a href="https://x.com/AmirMakir/status/2125521744748507484"><img src="https://pbs.twimg.com/amplify_video_thumb/2125521635101057024/img/pYq8A-XcWORE_c6-.jpg" alt="燈塔夜海短片" width="100%"></a><br><a href="https://x.com/AmirMakir/status/2125521744748507484"><b>燈塔夜海短片</b></a><br><a href="https://x.com/AmirMakir">@AmirMakir</a> · 提示詞未公開<br><sub>code · 作者自述</sub><br><sub>公開預覽是夜海：左有滿月與水中倒影，右有一座白色燈塔立在礁石上，光束斜向上方，燈塔腳下有一艘亮紅燈的小船，天空有星，近景左側有礁石。這一幀沒有型號標籤。不要把看不見的後續鏡頭、故事或配樂寫成看得見。</sub><br><sub>本庫沒有重跑；提示詞未公開；成品為作者自述，來源為公開貼文與預覽幀。</sub></td><td width="33%" valign="top"><a href="https://x.com/liorpesoa/status/2125502331823214917"><img src="https://pbs.twimg.com/amplify_video_thumb/2125502268971577344/img/FOe_V-Jgj9RsF9Cd.jpg" alt="可用橡皮擦掉的待辦清單" width="100%"></a><br><a href="https://x.com/liorpesoa/status/2125502331823214917"><b>可用橡皮擦掉的待辦清單</b></a><br><a href="https://x.com/liorpesoa">@liorpesoa</a> · 提示詞未公開<br><sub>code · 作者自述</sub><br><sub>公開預覽是米底上的白圓角卡片，標題 To do list，三條待辦分別是 Call Lior back、Send Michal the March invoice、Ask Yair where the passport is；右上有一塊藍白橡皮擦，標著 Eraser；下方有黑色滑鼠游標。這一幀沒有型號標籤，三條待辦都還在。不要把作者所稱的擦除動作，或看不見的互動後段寫成看得見。</sub><br><sub>本庫沒有重跑；提示詞未公開；成品為作者自述，來源為公開貼文與預覽幀。</sub></td></tr>
 </table>
 <a id="cat-game"></a>
 ## 遊戲與互動（136）
@@ -308,7 +309,7 @@ Mythos 5.2 的帖只在和 Fable 直接對照時留下，並在表裡標成 Myth
 <a id="context"></a>
 ## 脈絡，不計入畫廊
 
-下面 664 則有原帖連結，但**不計入畫面畫廊**。其中 53 則在這 83 篇種子裡，其餘 611 則是其後補入的脈絡。官方宣傳片在「官方發布」。基準整理片、轉述和 YouTube 上的對比也在這裡。
+下面 676 則有原帖連結，但**不計入畫面畫廊**。其中 53 則在這 83 篇種子裡，其餘 623 則是其後補入的脈絡。官方宣傳片在「官方發布」。基準整理片、轉述和 YouTube 上的對比也在這裡。
 
 <details>
 <summary>官方發布（19，不計入畫廊）</summary>
@@ -337,7 +338,7 @@ Mythos 5.2 的帖只在和 Fable 直接對照時留下，並在表裡標成 Myth
 
 </details>
 <details>
-<summary>額度、速度與價格（102，不計入畫廊）</summary>
+<summary>額度、速度與價格（103，不計入畫廊）</summary>
 
 | 時間 | 作者 | 原帖 | 說明 |
 | --- | --- | --- | --- |
@@ -443,10 +444,11 @@ Mythos 5.2 的帖只在和 Fable 直接對照時留下，並在表裡標成 Myth
 | 2026-11-25 01:12:47 | [@IndependentEco](https://x.com/IndependentEco) | [帖](https://x.com/IndependentEco/status/2125276455794061566) | 作者稱很少這麼少用 Claude Code，用量次日凌晨 3 點重置，卻仍剩四成以上，打算讓 Fable 5.2 指揮一群 Opus 5.5 worker 去用完額度，並提到 Gemini 4 Neon。正文在「the Google team won’t stop giving」之後被截斷，不要補寫後半。無媒體。提示詞不適用。 |
 | 2026-11-25 09:10:00 | [@EnvolDev](https://x.com/EnvolDev) | [帖](https://x.com/EnvolDev/status/2125396550406828100) | @EnvolDev 寫 Fable 5.2 在 Artificial Analysis 官方綜合指數以 65 分居首，但單次任務約 26.54 美元；GPT-6.2 Astra 為 62 分、單次約 4.00 美元，約 6.6 倍價格換 3 分；並稱因此 Fable 幾小時就幾乎用完整週額度。必須與同一作者已入庫的衝浪、跳傘花費對照分開。官方綜合指數仍是 Fable 65、Astra 62、Neon 61，本則沒有新的官方圖。 |
 | 2026-11-25 09:23:57 | [@Kinzhixun](https://x.com/Kinzhixun) | [帖](https://x.com/Kinzhixun/status/2125400064122380720) | @Kinzhixun 轉述 LiveBench 2.0：Gemini 4 Neon 總分 87.4、Browser Use 單項 95.6；並寫 Neon 單次約 2.65 美元，Fable 5.2 xhigh 約 9.85 美元，成本約低 73%。這是 LiveBench，不是官方綜合指數圖。官方綜合指數仍是 Fable 65、Astra 62、Neon 61。 |
+| 2026-11-25 13:54:44 | [@Layton_Gott](https://x.com/Layton_Gott) | [帖](https://x.com/Layton_Gott/status/2125468207871820227) | @Layton_Gott 稱在 Gemini App 用 Gemini 4 Neon 高思考力跑兩份 Deep Research，只佔週額度 1%；同一類提示用 Fable 5.2 跑一次，就用掉其 100 美元方案週額度的 35%，並觸及 5 小時上限。另稱在 Antigravity 用 Neon 重做個人儀表板，只佔該處額度 4%。這是個人額度對照，不是官方綜合指數圖。 |
 
 </details>
 <details>
-<summary>編程與基準轉述（467，不計入畫廊）</summary>
+<summary>編程與基準轉述（474，不計入畫廊）</summary>
 
 | 時間 | 作者 | 原帖 | 說明 |
 | --- | --- | --- | --- |
@@ -917,6 +919,13 @@ Mythos 5.2 的帖只在和 Fable 直接對照時留下，並在表裡標成 Myth
 | 2026-11-25 10:27:23 | [@Yongongx](https://x.com/Yongongx) | [帖](https://x.com/Yongongx/status/2125416026443755829) | @Yongongx 對照兩張 3D 榜：文中寫 GPT-6.2 Astra 在 Artificial Analysis 的 3D 榜以 1318 分第一，在 Arena 則列第九；Claude Fable 5.2 在 Arena 以 1933 分第一，在 AA 3D 榜則是第二。Arena 3D 與 AA 的 3D 分項都不是官方綜合指數圖。官方綜合指數仍是 Fable 65、Astra 62、Neon 61。 |
 | 2026-11-25 09:31:33 | [@momocon_ai](https://x.com/momocon_ai) | [帖](https://x.com/momocon_ai/status/2125401976724922479) | @momocon_ai 寫一張宣稱 Gemini 4 Krypton 在 AA 智能指數得 69 分、高於 Fable 5.2 四分、高於 Astra 七分、10 項測試拿下 9 個第一的跑分表正在傳播，並說這張表是假的：他把兩張表逐行對照，稱 Krypton 那一列就是上周 Neon 假表的分數，每項往上加一點。正文在「另外 5 個模型的 50」之後被截斷，不要補寫後半。官方綜合指數仍是 Fable 65、Astra 62、Neon 61。Neon 67、Krypton 69 仍未核實。 |
 | 2026-11-25 11:54:37 | [@aniketjart](https://x.com/aniketjart) | [帖](https://x.com/aniketjart/status/2125437977371525313) | 作者稱 Dragon Ball: Red Ribbon 粉絲遊戲有新更新，加入 Ninja Murasaki、他的兄弟與新模型，並每日打磨；製作寫明是 Gemini Neon、Fable 5.2、Three.js 與 @usecrayon。屬混合管線，不進畫廊。必須與同一作者本窗另一則美術流程帖，以及已入庫的紅緞軍作品分開。提示詞未公開。 |
+| 2026-11-25 15:33:51 | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | [帖](https://x.com/Stefan_3D_AI/status/2125493150517268588) | @Stefan_3D_AI 稱用 Fable 5.2 經 Hermes Agent 驅動 Blender 4.5 的原廠雕塑筆刷，概念圖由 GPT Image 2.5 產生，在一台 RTX 5080 上跑完整流程：腳本先用 700 顆泥球搭底，共 32,139 筆筆觸（造形 21,896、上色 10,243），結束時約 52.2 萬頂點，單次約 10.5 分鐘、生成額度約 1.48 美元。屬 Fable 加 Blender 與 GPT Image 的混合管線，不進畫廊。必須與同一作者已入庫的 UE5 一周遊戲及其他混合管線、同 prompt 對比分開。 |
+| 2026-11-25 14:45:22 | [@FinansowyUmysl](https://x.com/FinansowyUmysl) | [帖](https://x.com/FinansowyUmysl/status/2125480950721105951) | @FinansowyUmysl 稱自己用大量 token 讓 Fable 5.2 做一道相當複雜的題，做了三週仍無明顯進展，Fable 最後自己說做不下去；改用訂閱裡的 Gemini 4 Neon 後，第一輪就把結果提高一倍，並說一年約 1,000 茲羅提的 Google 訂閱，額度消耗不到 Anthropic 的五分之一。這是個人實測，不是官方綜合指數圖。 |
+| 2026-11-25 12:36:17 | [@nicos_ai](https://x.com/nicos_ai) | [帖](https://x.com/nicos_ai/status/2125448463135760617) | @nicos_ai 引用並寫出 ShellBench 的組合差異：Fable 5.2 在 Claude Code 為 63.0%，GPT-6 Astra 在 Claude Code 為 55.4%，但 Astra 在 Pi 為 65.3%；結論是不要只選模型，還要選模型和工具組合。這不是官方綜合指數圖。同一作者本窗另有 Kaggle 重跑一則，必須分開。 |
+| 2026-11-25 12:46:59 | [@nicos_ai](https://x.com/nicos_ai) | [帖](https://x.com/nicos_ai/status/2125451157632127467) | @nicos_ai 稱 Kaggle 獨立重跑 ShellBench 後名次與分數有變：GPT-6.1 Sol 從第 3 升到第 1，Claude Sonnet 5.5 從 37.9% 升到 54.7%，Claude Fable 5.2 從 61.9% 降到 54.3%，並寫基準只是快照、不是判決。這不是官方綜合指數圖。必須與同一作者本窗的工具組合一則分開。 |
+| 2026-11-25 16:43:00 | [@Yuziyyaa](https://x.com/Yuziyyaa) | [帖](https://x.com/Yuziyyaa/status/2125510551857955110) | @Yuziyyaa 轉述 Vals AI 的測試，稱讓各家模型在無人機與衛星地圖裡框軍事目標，並列出 Claude Fable 5.2 有 73% 的回答都框了目標；正文在「Claude Opus 5.5 是」之後被截斷，不要補寫後半。這不是官方綜合指數圖。 |
+| 2026-11-25 15:30:05 | [@stringers_cn](https://x.com/stringers_cn) | [帖](https://x.com/stringers_cn/status/2125492201816002932) | @stringers_cn 介紹免費的海外 App 選品數據插件 Stringers MCP，接上 Claude、Cursor、Codex 或 OpenCode 後，可在約 52 萬個海外 App 的估算收入、評分、差評與廣告庫裡交叉篩選，並生成可交互清單。作者寫附圖是當天用 OpenCode 加 Fable 5.2 實跑的截圖，收入均為估算檔位。屬產品上線與混合管線，不進畫廊。這不是官方綜合指數圖。 |
+| 2026-11-25 14:40:11 | [@OTWAICOMMUNITY](https://x.com/OTWAICOMMUNITY) | [帖](https://x.com/OTWAICOMMUNITY/status/2125479646049272006) | @OTWAICOMMUNITY 稱在日常工作流比較 GPT-6.2 Astra 與 Claude Fable 5.2：Astra 更適配現有代碼庫、更直接也更快；Fable 更擅長在長流程裡保留與串起知識、處理大量非結構化資料，並建知識庫。作者也寫更細的推理不一定帶來更好結果，Fable 有時想得更久，交出的東西反而略差。這是個人工作流對照，不是官方綜合指數圖。 |
 
 </details>
 <details>
@@ -928,7 +937,7 @@ Mythos 5.2 的帖只在和 Fable 直接對照時留下，並在表裡標成 Myth
 
 </details>
 <details>
-<summary>同 prompt 對比，不進畫廊（75，不計入畫廊）</summary>
+<summary>同 prompt 對比，不進畫廊（79，不計入畫廊）</summary>
 
 | 時間 | 作者 | 原帖 | 說明 |
 | --- | --- | --- | --- |
@@ -1007,6 +1016,10 @@ Mythos 5.2 的帖只在和 Fable 直接對照時留下，並在表裡標成 Myth
 | 2026-11-25 01:19:53 | [@kinderlayer](https://x.com/kinderlayer) | [帖](https://x.com/kinderlayer/status/2125278243708153873) | 作者轉述 Fable 5.2 對 GPT-6.2 Astra 的完整一盤棋，每步由 Stockfish 打分，雙方約 90% 準確率、60 步，多數時候都沒有鬆懈，後來其中一方走進對方三步前設下的將死。正文在「not」之後被截斷，不要補寫後半，也不要臆造是誰贏。提示詞未公開。 |
 | 2026-11-25 04:28:37 | [@EnvolDev](https://x.com/EnvolDev) | [帖](https://x.com/EnvolDev/status/2125325740321460454) | 作者用同一題對照三個模型做 Three.js 人物跳傘：Fable 5.2 花 2 小時 31 分、35.55 美元；GPT-6.2 Astra 27 分鐘、6.54 美元；預覽幀另標 Opus 5.5 為 2 小時 18 分 23 秒、26.00 美元。作者寫老實說不覺得 Fable 5.2 更好。正文在「I think GPT-6.2 Astra did a great」之後被截斷，不要補寫後半。必須與同一作者本輪衝浪對照分開。完整提示未公開。 |
 | 2026-11-25 07:16:15 | [@argofowl](https://x.com/argofowl) | [帖](https://x.com/argofowl/status/2125367924752052241) | 作者用同一張近拍照、禁止網搜與使用者記憶，測試誰能認出照片中的人。文中與預覽都寫只有 Gemini 4 Neon 認出是 Nathan Fielder；GPT-6.2 Sol、Astra 6.2、Opus 5.5 與 Fable 5.2 都未認出。預覽裡 Neon、Sol、Opus 標 High，Astra 與 Fable 標 Medium，對照條件不完全相同。這不是官方綜合指數圖。 |
+| 2026-11-25 14:43:00 | [@benlinbaofu](https://x.com/benlinbaofu) | [帖](https://x.com/benlinbaofu/status/2125480352730767778) | @benlinbaofu 用同一提示比較四個模型的火山熔岩畫面，認為整體效果最好的是 Fable 5.2，但費用與耗時是 Fable 41.11 美元／2 小時 42 分 27 秒、GPT-6.2 Astra 10.19 美元／43 分 54 秒、Opus 5.5 32.46 美元／3 小時 42 分 52 秒、GPT-6.2 Sol 2.99 美元／44 分 4 秒；作者的最佳選擇寫成 Astra。這是同提示對照，不是官方綜合指數圖。 |
+| 2026-11-25 15:12:00 | [@cfenghub](https://x.com/cfenghub) | [帖](https://x.com/cfenghub/status/2125487650807419194) | @cfenghub 稱用同一條提示詞，比較標為 Opus 5.6、Fable 5.2 與 Opus 5.5（Devin）的純代碼體素浮空島。正文在「中間 Fable」之後被截斷，不要補寫後半。畫面左側標籤寫 Opus 5.6，該型號仍未核實，不要寫成已證實的官方模型。這是同提示對照，不是官方綜合指數圖。必須與同一作者已入庫的混合管線分開。 |
+| 2026-11-25 13:13:12 | [@IamAfnanSk](https://x.com/IamAfnanSk) | [帖](https://x.com/IamAfnanSk/status/2125457756891312199) | @IamAfnanSk 稱沒有用照片或圖像生成模型，只讓兩個 Claude 模型寫代碼畫孟買：左邊／第一次是 Opus 5.5，提示是 something cool；右邊／第二次是 Fable 5.2，提示是 do better。作者寫 Opus 畫出明信片，Fable 畫出他住的城市。這是同提示對照，不是官方綜合指數圖。 |
+| 2026-11-25 14:01:36 | [@hsprafrique](https://x.com/hsprafrique) | [帖](https://x.com/hsprafrique/status/2125469936185385451) | @hsprafrique 稱用 Gemini 4 Neon 一條提示一次做成這個畫面，並寫 Fable 5.2 做同樣的東西花了 3 分鐘，Neon 花了 1 分 35 秒。公開預覽只有一幀平板商店畫面，沒有型號標籤，看不出這一幀是哪一側，故不進畫廊。這是同提示對照，不是官方綜合指數圖。 |
 
 </details>
 
@@ -1034,4 +1047,4 @@ Mythos 5.2 的帖只在和 Fable 直接對照時留下，並在表裡標成 Myth
 
 要改一條或撤下自己的作品，請看 [CONTRIBUTING.md](CONTRIBUTING.md) 並開 issue。
 
-核對方式：83 篇種子帖都留了原帖連結。畫廊預覽幀有逐張看過的，在 `preview_frame_reviewed` 標成 true。沒有下載完整影片，也沒有把看不見的畫面寫成已經看過。互動數字是 2026-11-25 12:34 HKT 的快照。
+核對方式：83 篇種子帖都留了原帖連結。畫廊預覽幀有逐張看過的，在 `preview_frame_reviewed` 標成 true。沒有下載完整影片，也沒有把看不見的畫面寫成已經看過。互動數字是 2026-11-25 18:39 HKT 的快照。
