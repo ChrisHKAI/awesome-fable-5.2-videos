@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-11-25 12:49:05 Asia/Hong_Kong(UTC+8)",
+  "checked_at": "2026-11-25 18:56:18 Asia/Hong_Kong(UTC+8)",
   "method": "GET x.com status pages (HTML must contain the status id, else blocked); HEAD preview images on pbs.twimg.com, then GET when HEAD is 404, 405, 501, or the connection fails; every status url is matched to https://x.com/{handle}/status/{id} and checked unique before the request",
   "summary": {
-    "ok": 2017,
-    "dead": 11,
+    "ok": 2034,
+    "dead": 12,
     "blocked": 1,
     "error": 0
   },
@@ -8093,8 +8093,8 @@
     {
       "url": "https://x.com/kosta4a/status/2125364953615905131",
       "kind": "post",
-      "http_status": 200,
-      "class": "ok"
+      "http_status": 404,
+      "class": "dead"
     },
     {
       "url": "https://pbs.twimg.com/amplify_video_thumb/2125364844626849792/img/SzpC_TOSvRWIkFv5.jpg",
@@ -8134,6 +8134,42 @@
     },
     {
       "url": "https://pbs.twimg.com/amplify_video_thumb/2125418114548424704/img/n4ax39vcdwacvwkv.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/ZondarkAI/status/2125506885487034601",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2125497112507060224/img/H71yadOQtWtAiHmo.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/AmirMakir/status/2125521744748507484",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2125521635101057024/img/pYq8A-XcWORE_c6-.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/liorpesoa/status/2125502331823214917",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2125502268971577344/img/FOe_V-Jgj9RsF9Cd.jpg",
       "kind": "preview",
       "http_status": 200,
       "class": "ok"
@@ -12118,6 +12154,78 @@
     },
     {
       "url": "https://x.com/aniketjart/status/2125437977371525313",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/Stefan_3D_AI/status/2125493150517268588",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/FinansowyUmysl/status/2125480950721105951",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/Layton_Gott/status/2125468207871820227",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/nicos_ai/status/2125448463135760617",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/nicos_ai/status/2125451157632127467",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/Yuziyyaa/status/2125510551857955110",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/benlinbaofu/status/2125480352730767778",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/cfenghub/status/2125487650807419194",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/IamAfnanSk/status/2125457756891312199",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/hsprafrique/status/2125469936185385451",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/stringers_cn/status/2125492201816002932",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/OTWAICOMMUNITY/status/2125479646049272006",
       "kind": "post",
       "http_status": 200,
       "class": "ok"
