@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-11-25 18:56:18 Asia/Hong_Kong(UTC+8)",
+  "checked_at": "2026-11-26 00:56:04 Asia/Hong_Kong(UTC+8)",
   "method": "GET x.com status pages (HTML must contain the status id, else blocked); HEAD preview images on pbs.twimg.com, then GET when HEAD is 404, 405, 501, or the connection fails; every status url is matched to https://x.com/{handle}/status/{id} and checked unique before the request",
   "summary": {
-    "ok": 2034,
-    "dead": 12,
+    "ok": 2063,
+    "dead": 13,
     "blocked": 1,
     "error": 0
   },
@@ -8175,6 +8175,90 @@
       "class": "ok"
     },
     {
+      "url": "https://x.com/alexwg/status/2125596681672761356",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2125596363421310976/img/fnyvej9sO2TRRJnY.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/akiweb8528/status/2125557871199006852",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2125557826412281856/img/n5GnmFZDK5906ykB.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/md_kasif_uddin/status/2125568560777003196",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2125568534344556544/img/iXFlBvAqOYtwV3dN.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/taiyaki_ai3/status/2125538804148949256",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/ext_tw_video_thumb/2125538731000246272/pu/img/iTYw0y_5GZX7r8RD.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/itspranshugupta/status/2125602233895244057",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2125602155189178368/img/0l7kv9A7fo6Yt48U.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/hii_studio_jp/status/2125552451998871973",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2125549826100310016/img/-CbnF1cwOsovQUg8.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/Botsandall/status/2125580023872569685",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2125579382735462400/img/F-dY3A5vlVWm_X8H.jpg",
+      "kind": "preview",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
       "url": "https://x.com/claudeai/status/2119867114450268322",
       "kind": "post",
       "http_status": 200,
@@ -11891,8 +11975,8 @@
     {
       "url": "https://x.com/realdrovex/status/2125170876333093128",
       "kind": "post",
-      "http_status": 200,
-      "class": "ok"
+      "http_status": 404,
+      "class": "dead"
     },
     {
       "url": "https://x.com/legit_api/status/2125215156380557656",
@@ -12226,6 +12310,102 @@
     },
     {
       "url": "https://x.com/OTWAICOMMUNITY/status/2125479646049272006",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/claudeai/status/2125616057788637364",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/claudeai/status/2125616060481392838",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/claudeai/status/2125616063341908204",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/claudeai/status/2125616066332422416",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/claudeai/status/2125616067959480777",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/claudeai/status/2125616070652555573",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/claudeai/status/2125616072543944854",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/claudeai/status/2125616074242552180",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/harris_p10/status/2125597344091504699",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/kinderlayer/status/2125552091154264065",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/texhnogatsby/status/2125587300000104819",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/Stefan_3D_AI/status/2125603959650078957",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/martynov014/status/2125575177140654255",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/masatoalexander/status/2125555138710651226",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/cbarmorecpa/status/2125606902818046003",
+      "kind": "post",
+      "http_status": 200,
+      "class": "ok"
+    },
+    {
+      "url": "https://x.com/CameronWills/status/2125598817617936527",
       "kind": "post",
       "http_status": 200,
       "class": "ok"
